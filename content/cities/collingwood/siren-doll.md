@@ -1,0 +1,4 @@
+---
+title: "Siren Doll"
+url: /collingwood/siren-doll/
+---

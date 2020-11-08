@@ -1,0 +1,4 @@
+---
+title: "Flying Goolie"
+url: /collingwood/flying-goolie/
+---

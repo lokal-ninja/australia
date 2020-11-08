@@ -1,0 +1,4 @@
+---
+title: "Village Centre"
+url: /batemans-bay/village-centre/
+---

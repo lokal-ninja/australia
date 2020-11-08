@@ -1,0 +1,4 @@
+---
+title: "The History"
+url: /collingwood/the-history/
+---
