@@ -1,0 +1,4 @@
+---
+title: "Pedders Suspension"
+url: /toowoomba/pedders-suspension/
+---
