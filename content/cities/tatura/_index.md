@@ -1,6 +1,6 @@
 ---
 title: Tatura
 url: /tatura/
-latitude: -36.4399698
-longitude: 145.2329963
+latitude: -36.439972000000004
+longitude: 145.23296140000002
 ---

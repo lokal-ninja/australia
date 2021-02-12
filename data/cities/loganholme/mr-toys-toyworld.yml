@@ -1,6 +1,5 @@
 id: 3853263819
 type: node
-shop: toys
 latitude: -27.658668000000002
 longitude: 153.1709939
 postcode: "4129"
@@ -8,5 +7,5 @@ city: Loganholme
 street: "Logan Hyperdome Bryants Road"
 housenumber: Shop 307
 phone: "+61 7 3801 5926"
-opening_hours: "8.00am to 5.30pm"
+opening_hours: "08:00-17:30"
 website: "https://www.mrtoys.com.au"

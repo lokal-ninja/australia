@@ -1,6 +1,5 @@
 id: 772481208
 type: node
-shop: department store
 latitude: -33.913221300000004
 longitude: 151.2010663
 postcode: "2015"
@@ -8,5 +7,5 @@ city: Alexandria
 street: "Botany Road"
 housenumber: 502-504
 phone: ""
-opening_hours: "Monday 7:30am–5:30pm Tuesday 7:30am–5:30pm Wednesday 7:30am–5:30pm Thursday 7:30am–5:30pm Friday 7:30am–5:30pm Saturday 9am–3pm Sunday 9am–3pm"
+opening_hours: "Mo 07:30-17:30; Tu 07:30-17:30; We 07:30-17:30; Th 07:30-17:30; Fr 07:30-17:30; Sa 09:00-15:00; Su 09:00-15:00"
 website: ""

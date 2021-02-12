@@ -1,6 +1,5 @@
 id: 2789607534
 type: node
-shop: bakery
 latitude: -33.892614300000005
 longitude: 151.1644037
 postcode: "2048"
@@ -9,4 +8,4 @@ street: "Percival Road"
 housenumber: 92-96
 phone: "+61 2 9518 3652"
 opening_hours: "Mo-Fr 07:00-16:00, Sa 07:00-14:00"
-website: "https://www.facebook.com/pages/The-Old-Bakery-Cafe-Stanmore/213940508770891"
+website: ""

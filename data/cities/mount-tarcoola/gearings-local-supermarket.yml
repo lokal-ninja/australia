@@ -1,6 +1,5 @@
 id: 4965290221
 type: node
-shop: supermarket
 latitude: -28.802509500000003
 longitude: 114.62506200000001
 postcode: "6530"
@@ -9,4 +8,4 @@ street: "Irene Street"
 housenumber: 1
 phone: "+61 8 9935 9786"
 opening_hours: "Mo-Su 06:00-18:30"
-website: "https://m.facebook.com/gearingslocalsupermarket/"
+website: ""

@@ -1,6 +1,5 @@
 id: 4524152258
 type: node
-shop: garden centre
 latitude: -34.9975541
 longitude: 138.7060773
 postcode: "5152"
@@ -8,5 +7,5 @@ city: Crafers
 street: "Piccadilly Road"
 housenumber: 2
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-16:00; Su 10:00-16:00; "
+opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-16:00; Su 10:00-16:00"
 website: "https://www.crafersgardencentre.com.au/"

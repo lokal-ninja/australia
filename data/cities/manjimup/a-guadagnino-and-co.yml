@@ -1,6 +1,5 @@
 id: 4368906219
 type: node
-shop: greengrocer
 latitude: -34.2817953
 longitude: 116.07613190000001
 postcode: "6258"
@@ -9,4 +8,4 @@ street: "Seven Day Road"
 housenumber: 595
 phone: "+61 8 9771 2153"
 opening_hours: ""
-website: "https://www.facebook.com/AGuadagninoCo/"
+website: ""

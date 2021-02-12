@@ -1,4 +1,5 @@
 ---
 title: "Butler's Butchery"
 url: /campbell-town/butlers-butchery/
+shop: butcher
 ---
