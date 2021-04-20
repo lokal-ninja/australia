@@ -1,5 +1,5 @@
 ---
 title: "The Reject Shop"
 url: /swan-hill/the-reject-shop/
-shop: shop
+shop: variety store
 ---

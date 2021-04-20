@@ -1,5 +1,5 @@
 ---
 title: "Spotlight"
 url: /maribynrong/spotlight/
-shop: craft
+shop: fabric
 ---
