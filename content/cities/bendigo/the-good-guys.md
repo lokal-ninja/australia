@@ -1,5 +1,5 @@
 ---
 title: "The Good Guys"
 url: /bendigo/the-good-guys/
-shop: hardware
+shop: electronics
 ---

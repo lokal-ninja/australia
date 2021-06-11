@@ -7,5 +7,5 @@ city: Fitzroy
 street: "Smith Street"
 housenumber: 223
 phone: "+61 3 90789632"
-opening_hours: "Mo-We 9:30-17:30; Th-Fr 9:30-20:00; Sa 9:30-17:30"
+opening_hours: "Mo-We 09:30-17:30; Th,Fr 09:30-20:00; Sa 09:30-17:30"
 website: ""

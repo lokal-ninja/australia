@@ -1,5 +1,5 @@
 ---
-title: "PETstock"
+title: "Petstock"
 url: /taylors-lakes/petstock/
 shop: pet
 ---

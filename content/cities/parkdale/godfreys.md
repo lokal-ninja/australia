@@ -1,5 +1,5 @@
 ---
 title: "Godfreys"
 url: /parkdale/godfreys/
-shop: shop
+shop: vacuum cleaner
 ---
