@@ -1,6 +1,6 @@
 ---
 title: Katherine
 url: /katherine/
-latitude: -14.464231300000002
-longitude: 132.2638568
+latitude: -14.464615700000001
+longitude: 132.2635993
 ---
