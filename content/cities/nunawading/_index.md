@@ -1,6 +1,6 @@
 ---
 title: Nunawading
 url: /nunawading/
-latitude: -37.817375600000005
-longitude: 145.17653080000002
+latitude: -37.8172638
+longitude: 145.17655910000002
 ---

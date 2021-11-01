@@ -1,5 +1,5 @@
 ---
-title: "Tristan Koenig gallery"
+title: "Tristan Koenig Gallery"
 url: /collingwood/tristan-koenig-gallery/
 shop: art
 ---

@@ -1,5 +1,5 @@
 ---
-title: "FILA"
+title: "Fila"
 url: /fitzroy/fila/
-shop: shoes
+shop: clothes
 ---

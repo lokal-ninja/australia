@@ -1,5 +1,5 @@
 ---
-title: "FoodWorks Fitzroy"
+title: "Foodworks Fitzroy"
 url: /fitzroy/foodworks-fitzroy/
-shop: convenience
+shop: supermarket
 ---
