@@ -1,6 +1,6 @@
 ---
 title: Emerald
 url: /emerald/
-latitude: -37.932111
-longitude: 145.4407248
+latitude: -37.9321008
+longitude: 145.44072160000002
 ---
