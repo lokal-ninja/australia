@@ -1,5 +1,5 @@
 ---
-title: "JayCar Electronics"
+title: "Jaycar Electronics"
 url: /sydney/jaycar-electronics/
 shop: radiotechnics
 ---

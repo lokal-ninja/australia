@@ -1,5 +1,5 @@
 ---
 title: "Adidas Factory Outlet"
 url: /fitzroy/adidas-factory-outlet/
-shop: shoes
+shop: sports
 ---
