@@ -1,6 +1,6 @@
 ---
 title: Atwell
 url: /atwell/
-latitude: -32.1484601
-longitude: 115.86590340000001
+latitude: -32.157
+longitude: 115.861
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fruit Shack"
 url: /ballarat/fruit-shack/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

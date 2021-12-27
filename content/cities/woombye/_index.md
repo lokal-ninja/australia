@@ -1,6 +1,6 @@
 ---
 title: Woombye
 url: /woombye/
-latitude: -26.6605847
-longitude: 152.9641396
+latitude: -26.66
+longitude: 152.964
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Arncliffe Fruitmarket"
 url: /arncliffe/arncliffe-fruitmarket/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

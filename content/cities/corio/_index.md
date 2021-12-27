@@ -1,6 +1,6 @@
 ---
 title: Corio
 url: /corio/
-latitude: -38.074088
-longitude: 144.3586481
+latitude: -38.075
+longitude: 144.359
 ---

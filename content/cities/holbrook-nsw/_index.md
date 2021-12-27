@@ -1,6 +1,6 @@
 ---
 title: Holbrook NSW
 url: /holbrook-nsw/
-latitude: 
-longitude: 
+latitude: -35.72
+longitude: 147.317
 ---

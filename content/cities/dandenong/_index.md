@@ -1,6 +1,6 @@
 ---
 title: Dandenong
 url: /dandenong/
-latitude: -37.98749
-longitude: 145.2147923
+latitude: -37.994
+longitude: 145.187
 ---

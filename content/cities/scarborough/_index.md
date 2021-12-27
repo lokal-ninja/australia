@@ -1,6 +1,6 @@
 ---
 title: Scarborough
 url: /scarborough/
-latitude: -27.2078999
-longitude: 153.108718
+latitude: -31.898
+longitude: 115.758
 ---

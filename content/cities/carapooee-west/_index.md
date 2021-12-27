@@ -1,6 +1,6 @@
 ---
 title: Carapooee West
 url: /carapooee-west/
-latitude: 
-longitude: 
+latitude: -36.695
+longitude: 143.269
 ---

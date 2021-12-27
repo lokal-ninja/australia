@@ -1,6 +1,6 @@
 ---
 title: Myrtleford
 url: /myrtleford/
-latitude: 
-longitude: 
+latitude: -36.52
+longitude: 146.684
 ---

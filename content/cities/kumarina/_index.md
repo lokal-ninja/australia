@@ -1,6 +1,6 @@
 ---
 title: Kumarina
 url: /kumarina/
-latitude: -24.7130064
-longitude: 119.6061945
+latitude: -24.711
+longitude: 119.608
 ---

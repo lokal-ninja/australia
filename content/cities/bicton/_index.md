@@ -1,6 +1,6 @@
 ---
 title: Bicton
 url: /bicton/
-latitude: 
-longitude: 
+latitude: -32.038
+longitude: 115.776
 ---

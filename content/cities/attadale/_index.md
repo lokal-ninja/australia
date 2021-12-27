@@ -1,6 +1,6 @@
 ---
 title: Attadale
 url: /attadale/
-latitude: -32.0240443
-longitude: 115.8035193
+latitude: -32.031
+longitude: 115.809
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Monty Fresh"
 url: /montmorency/monty-fresh/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

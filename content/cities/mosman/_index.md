@@ -1,6 +1,6 @@
 ---
 title: Mosman
 url: /mosman/
-latitude: -33.830135500000004
-longitude: 151.2447663
+latitude: -33.825
+longitude: 151.241
 ---

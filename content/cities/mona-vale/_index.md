@@ -1,6 +1,6 @@
 ---
 title: Mona Vale
 url: /mona-vale/
-latitude: -42.0904979
-longitude: 147.5003289
+latitude: -33.676
+longitude: 151.303
 ---

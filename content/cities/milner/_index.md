@@ -1,6 +1,6 @@
 ---
 title: Milner
 url: /milner/
-latitude: 
-longitude: 
+latitude: -12.392
+longitude: 130.858
 ---

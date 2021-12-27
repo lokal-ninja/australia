@@ -1,6 +1,6 @@
 ---
 title: Brunswick East
 url: /brunswick-east/
-latitude: 
-longitude: 
+latitude: -37.773
+longitude: 144.979
 ---

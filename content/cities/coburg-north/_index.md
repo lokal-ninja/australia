@@ -1,6 +1,6 @@
 ---
 title: Coburg North
 url: /coburg-north/
-latitude: 
-longitude: 
+latitude: -37.726
+longitude: 144.984
 ---

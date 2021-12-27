@@ -1,5 +1,5 @@
 ---
 title: "Neuw Denim"
 url: /fitzroy/neuw-denim/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,6 +1,6 @@
 ---
 title: Pooraka
 url: /pooraka/
-latitude: -34.8257023
-longitude: 138.6228595
+latitude: -34.816
+longitude: 138.635
 ---

@@ -1,6 +1,6 @@
 ---
 title: Hawthorn East
 url: /hawthorn-east/
-latitude: -37.8313785
-longitude: 145.04997970000002
+latitude: -37.827
+longitude: 145.057
 ---

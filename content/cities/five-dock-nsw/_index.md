@@ -1,6 +1,6 @@
 ---
 title: Five Dock NSW
 url: /five-dock-nsw/
-latitude: 
-longitude: 
+latitude: -33.87
+longitude: 151.129
 ---

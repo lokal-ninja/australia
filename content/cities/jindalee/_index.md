@@ -1,6 +1,6 @@
 ---
 title: Jindalee
 url: /jindalee/
-latitude: -31.483791500000002
-longitude: 148.3728977
+latitude: -31.653
+longitude: 115.689
 ---

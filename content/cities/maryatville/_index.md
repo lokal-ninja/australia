@@ -1,6 +1,6 @@
 ---
 title: Maryatville
 url: /maryatville/
-latitude: 
-longitude: 
+latitude: -34.927
+longitude: 138.649
 ---

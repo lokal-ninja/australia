@@ -1,6 +1,6 @@
 ---
 title: Rockingham
 url: /rockingham/
-latitude: -18.0480556
-longitude: 145.9972229
+latitude: -32.289
+longitude: 115.748
 ---

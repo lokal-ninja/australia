@@ -1,5 +1,5 @@
 ---
 title: "Woolworths"
 url: /mordialloc/woolworths/
-shop: supermarket
+shop: Supermarkt
 ---

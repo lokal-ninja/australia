@@ -1,5 +1,5 @@
 ---
 title: "Sussan"
 url: /bendigo/sussan/
-shop: clothes
+shop: Kleidung
 ---

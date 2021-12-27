@@ -1,6 +1,6 @@
 ---
 title: Manning
 url: /manning/
-latitude: -32.0151759
-longitude: 115.8678849
+latitude: -32.012
+longitude: 115.869
 ---

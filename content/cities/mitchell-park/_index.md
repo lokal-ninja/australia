@@ -1,6 +1,6 @@
 ---
 title: Mitchell Park
 url: /mitchell-park/
-latitude: -32.4210313
-longitude: 148.9803613
+latitude: -35.014
+longitude: 138.56
 ---

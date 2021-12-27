@@ -1,6 +1,6 @@
 ---
 title: Stuart Park
 url: /stuart-park/
-latitude: -12.448611000000001
-longitude: 130.841667
+latitude: -12.451
+longitude: 130.84
 ---

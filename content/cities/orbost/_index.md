@@ -1,6 +1,6 @@
 ---
 title: Orbost
 url: /orbost/
-latitude: -37.703706100000005
-longitude: 148.4554712
+latitude: -37.708
+longitude: 148.455
 ---

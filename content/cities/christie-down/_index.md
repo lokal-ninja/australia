@@ -1,6 +1,6 @@
 ---
 title: Christie Down
 url: /christie-down/
-latitude: 
-longitude: 
+latitude: -35.127
+longitude: 138.499
 ---

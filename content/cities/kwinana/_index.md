@@ -1,6 +1,6 @@
 ---
 title: Kwinana
 url: /kwinana/
-latitude: 
-longitude: 
+latitude: -32.244
+longitude: 115.816
 ---

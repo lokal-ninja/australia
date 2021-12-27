@@ -1,6 +1,6 @@
 ---
 title: Penshurst
 url: /penshurst/
-latitude: -32.824009000000004
-longitude: 146.4020049
+latitude: -33.965
+longitude: 151.09
 ---

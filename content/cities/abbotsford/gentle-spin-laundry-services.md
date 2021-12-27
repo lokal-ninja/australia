@@ -1,5 +1,5 @@
 ---
 title: "Gentle Spin Laundry Services"
 url: /abbotsford/gentle-spin-laundry-services/
-shop: laundry
+shop: Wäscherei
 ---

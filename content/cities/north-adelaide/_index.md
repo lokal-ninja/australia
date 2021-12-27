@@ -1,6 +1,6 @@
 ---
 title: North Adelaide
 url: /north-adelaide/
-latitude: 
-longitude: 
+latitude: -34.904
+longitude: 138.595
 ---

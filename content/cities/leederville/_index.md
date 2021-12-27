@@ -1,6 +1,6 @@
 ---
 title: Leederville
 url: /leederville/
-latitude: -31.933079900000003
-longitude: 115.84144230000001
+latitude: -31.937
+longitude: 115.841
 ---

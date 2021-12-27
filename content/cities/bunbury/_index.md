@@ -1,6 +1,6 @@
 ---
 title: Bunbury
 url: /bunbury/
-latitude: -33.3267797
-longitude: 115.63669800000001
+latitude: -33.339
+longitude: 115.647
 ---

@@ -1,6 +1,6 @@
 ---
 title: Hacourt
 url: /hacourt/
-latitude: 
-longitude: 
+latitude: -36.973
+longitude: 144.258
 ---

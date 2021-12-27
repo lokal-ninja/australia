@@ -1,6 +1,6 @@
 ---
 title: Highton
 url: /highton/
-latitude: 
-longitude: 
+latitude: -38.172
+longitude: 144.324
 ---

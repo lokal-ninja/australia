@@ -1,6 +1,6 @@
 ---
 title: Kew East
 url: /kew-east/
-latitude: -37.7904215
-longitude: 145.0527906
+latitude: -37.794
+longitude: 145.064
 ---

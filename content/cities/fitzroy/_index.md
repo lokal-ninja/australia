@@ -1,6 +1,6 @@
 ---
 title: Fitzroy
 url: /fitzroy/
-latitude: -34.8969216
-longitude: 138.5913138
+latitude: -37.799
+longitude: 144.979
 ---

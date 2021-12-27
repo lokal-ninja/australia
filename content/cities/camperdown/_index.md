@@ -1,6 +1,6 @@
 ---
 title: Camperdown
 url: /camperdown/
-latitude: -38.2318682
-longitude: 143.1465837
+latitude: -33.887
+longitude: 151.174
 ---

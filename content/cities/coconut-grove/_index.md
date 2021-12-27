@@ -1,6 +1,6 @@
 ---
 title: Coconut Grove
 url: /coconut-grove/
-latitude: -12.3988881
-longitude: 130.8524998
+latitude: -12.401
+longitude: 130.851
 ---

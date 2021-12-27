@@ -1,5 +1,5 @@
 ---
 title: "Motorworks"
 url: /hobart/motorworks/
-shop: motorcycle
+shop: Motorrad
 ---

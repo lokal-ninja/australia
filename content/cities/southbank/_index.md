@@ -1,6 +1,6 @@
 ---
 title: Southbank
 url: /southbank/
-latitude: 
-longitude: 
+latitude: -37.829
+longitude: 144.971
 ---

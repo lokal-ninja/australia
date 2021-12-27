@@ -1,5 +1,5 @@
 ---
 title: "Cignall"
 url: /collingwood/cignall/
-shop: tobacco
+shop: Tabak
 ---

@@ -1,6 +1,6 @@
 ---
 title: Manunda
 url: /manunda/
-latitude: -32.8037428
-longitude: 139.8168291
+latitude: -16.916
+longitude: 145.743
 ---

@@ -1,6 +1,6 @@
 ---
 title: Essendon
 url: /essendon/
-latitude: -37.7498293
-longitude: 144.9109062
+latitude: -37.756
+longitude: 144.928
 ---

@@ -1,6 +1,6 @@
 ---
 title: Boorowa
 url: /boorowa/
-latitude: -34.4385643
-longitude: 148.71882860000002
+latitude: -34.438
+longitude: 148.716
 ---

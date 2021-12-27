@@ -1,6 +1,6 @@
 ---
 title: Clayton South
 url: /clayton-south/
-latitude: -37.943092400000005
-longitude: 145.125236
+latitude: -37.941
+longitude: 145.139
 ---

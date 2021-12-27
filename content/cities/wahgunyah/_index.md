@@ -1,6 +1,6 @@
 ---
 title: Wahgunyah
 url: /wahgunyah/
-latitude: 
-longitude: 
+latitude: -35.994
+longitude: 146.41
 ---

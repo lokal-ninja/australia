@@ -1,5 +1,5 @@
 ---
 title: "Work Clobber"
 url: /balcatta/work-clobber/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,6 +1,6 @@
 ---
 title: Boisdale
 url: /boisdale/
-latitude: -37.882635400000005
-longitude: 146.98881350000002
+latitude: -37.884
+longitude: 146.988
 ---

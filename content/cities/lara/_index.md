@@ -1,6 +1,6 @@
 ---
 title: Lara
 url: /lara/
-latitude: -23.8052989
-longitude: 145.1875957
+latitude: -38.023
+longitude: 144.417
 ---

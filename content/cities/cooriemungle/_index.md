@@ -1,6 +1,6 @@
 ---
 title: Cooriemungle
 url: /cooriemungle/
-latitude: 
-longitude: 
+latitude: -38.565
+longitude: 143.182
 ---

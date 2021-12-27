@@ -1,6 +1,6 @@
 ---
 title: Silverwater
 url: /silverwater/
-latitude: -33.834881
-longitude: 151.0471218
+latitude: -33.838
+longitude: 151.044
 ---

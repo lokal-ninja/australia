@@ -1,6 +1,6 @@
 ---
 title: Jerramungup
 url: /jerramungup/
-latitude: -33.9423679
-longitude: 118.9213928
+latitude: -33.94
+longitude: 118.92
 ---

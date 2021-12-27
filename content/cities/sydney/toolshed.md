@@ -1,5 +1,5 @@
 ---
 title: "Toolshed"
 url: /sydney/toolshed/
-shop: erotic
+shop: Erotik
 ---

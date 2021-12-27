@@ -1,5 +1,5 @@
 ---
 title: "Porsche Centre Melbourne"
 url: /collingwood/porsche-centre-melbourne/
-shop: car
+shop: Autohaus
 ---

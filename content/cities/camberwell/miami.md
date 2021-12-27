@@ -1,5 +1,5 @@
 ---
 title: "Miami"
 url: /camberwell/miami/
-shop: beauty
+shop: Kosmetik
 ---

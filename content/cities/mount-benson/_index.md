@@ -1,6 +1,6 @@
 ---
 title: Mount Benson
 url: /mount-benson/
-latitude: 
-longitude: 
+latitude: -36.969
+longitude: 139.758
 ---

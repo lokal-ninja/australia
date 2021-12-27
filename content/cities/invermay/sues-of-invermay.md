@@ -1,5 +1,5 @@
 ---
 title: "Sues of Invermay"
 url: /invermay/sues-of-invermay/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bungalow
 url: /bungalow/
-latitude: -16.9356058
-longitude: 145.7590881
+latitude: -16.938
+longitude: 145.748
 ---

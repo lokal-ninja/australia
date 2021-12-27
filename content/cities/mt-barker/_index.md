@@ -1,6 +1,6 @@
 ---
 title: Mt Barker
 url: /mt-barker/
-latitude: 
-longitude: 
+latitude: -35.068
+longitude: 138.866
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ashburton Natural Clinic"
 url: /melbourne/ashburton-natural-clinic/
-shop: massage
+shop: Massage
 ---

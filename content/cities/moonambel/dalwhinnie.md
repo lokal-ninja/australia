@@ -1,5 +1,5 @@
 ---
 title: "Dalwhinnie"
 url: /moonambel/dalwhinnie/
-shop: wine
+shop: Wein
 ---

@@ -1,6 +1,6 @@
 ---
 title: Camerdown
 url: /camerdown/
-latitude: 
-longitude: 
+latitude: -33.892
+longitude: 151.172
 ---

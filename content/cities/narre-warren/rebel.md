@@ -1,5 +1,5 @@
 ---
 title: "Rebel"
 url: /narre-warren/rebel/
-shop: sports
+shop: Sport
 ---

@@ -1,6 +1,6 @@
 ---
 title: Pokolbin
 url: /pokolbin/
-latitude: 
-longitude: 
+latitude: -32.774
+longitude: 151.3
 ---

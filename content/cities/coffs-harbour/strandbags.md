@@ -1,5 +1,5 @@
 ---
 title: "Strandbags"
 url: /coffs-harbour/strandbags/
-shop: bag
+shop: Taschen & Koffer
 ---

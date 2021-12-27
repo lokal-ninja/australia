@@ -1,6 +1,6 @@
 ---
 title: Wahroonga
 url: /wahroonga/
-latitude: -31.557536000000002
-longitude: 147.1749144
+latitude: -33.718
+longitude: 151.117
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Toy Playhouse"
 url: /newport/toy-playhouse/
-shop: toys
+shop: Spielzeug
 ---

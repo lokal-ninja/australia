@@ -1,5 +1,5 @@
 ---
 title: "Woolworths Town Hall"
 url: /sydney/woolworths-town-hall/
-shop: supermarket
+shop: Supermarkt
 ---

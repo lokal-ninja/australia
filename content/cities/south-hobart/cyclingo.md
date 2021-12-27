@@ -1,5 +1,5 @@
 ---
 title: "Cyclingo"
 url: /south-hobart/cyclingo/
-shop: bicycle
+shop: Fahrrad
 ---

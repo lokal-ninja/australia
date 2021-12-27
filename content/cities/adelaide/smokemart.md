@@ -1,5 +1,5 @@
 ---
 title: "Smokemart"
 url: /adelaide/smokemart/
-shop: gift
+shop: Andenken
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bargo
 url: /bargo/
-latitude: -34.293747
-longitude: 150.58178420000002
+latitude: -34.274
+longitude: 150.577
 ---

@@ -1,6 +1,6 @@
 ---
 title: Pascoe Vale
 url: /pascoe-vale/
-latitude: 
-longitude: 
+latitude: -37.73
+longitude: 144.928
 ---

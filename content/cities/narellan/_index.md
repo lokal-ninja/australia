@@ -1,6 +1,6 @@
 ---
 title: Narellan
 url: /narellan/
-latitude: -34.0419063
-longitude: 150.7376955
+latitude: -34.038
+longitude: 150.744
 ---

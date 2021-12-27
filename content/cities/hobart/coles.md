@@ -1,5 +1,5 @@
 ---
 title: "Coles"
 url: /hobart/coles/
-shop: supermarket
+shop: Supermarkt
 ---

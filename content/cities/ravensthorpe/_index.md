@@ -1,6 +1,6 @@
 ---
 title: Ravensthorpe
 url: /ravensthorpe/
-latitude: -33.581345500000005
-longitude: 120.0473501
+latitude: -33.582
+longitude: 120.047
 ---

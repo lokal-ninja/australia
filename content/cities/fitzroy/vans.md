@@ -1,5 +1,5 @@
 ---
 title: "Vans"
 url: /fitzroy/vans/
-shop: shoes
+shop: Schuhe
 ---

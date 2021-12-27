@@ -1,6 +1,6 @@
 ---
 title: Parmelia
 url: /parmelia/
-latitude: 
-longitude: 
+latitude: -32.247
+longitude: 115.827
 ---

@@ -1,6 +1,6 @@
 ---
 title: Merewether
 url: /merewether/
-latitude: -32.9475708
-longitude: 151.7454773
+latitude: -32.943
+longitude: 151.752
 ---

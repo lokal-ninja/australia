@@ -1,6 +1,6 @@
 ---
 title: Woolsthorpe
 url: /woolsthorpe/
-latitude: 
-longitude: 
+latitude: -38.184
+longitude: 142.432
 ---

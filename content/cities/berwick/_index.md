@@ -1,6 +1,6 @@
 ---
 title: Berwick
 url: /berwick/
-latitude: 
-longitude: 
+latitude: -38.032
+longitude: 145.343
 ---

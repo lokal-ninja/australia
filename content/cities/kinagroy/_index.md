@@ -1,6 +1,6 @@
 ---
 title: Kinagroy
 url: /kinagroy/
-latitude: 
-longitude: 
+latitude: -26.541
+longitude: 151.838
 ---

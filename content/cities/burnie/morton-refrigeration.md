@@ -1,5 +1,5 @@
 ---
 title: "Morton Refrigeration"
 url: /burnie/morton-refrigeration/
-shop: fireplace
+shop: Kamine & Öfen
 ---

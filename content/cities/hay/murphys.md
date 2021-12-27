@@ -1,5 +1,5 @@
 ---
 title: "Murphys"
 url: /hay/murphys/
-shop: outdoor
+shop: Outdoor
 ---

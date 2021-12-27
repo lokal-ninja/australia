@@ -1,6 +1,6 @@
 ---
 title: North Rockhampton
 url: /north-rockhampton/
-latitude: 
-longitude: 
+latitude: -23.332
+longitude: 150.519
 ---

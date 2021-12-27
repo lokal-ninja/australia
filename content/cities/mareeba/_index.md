@@ -1,6 +1,6 @@
 ---
 title: Mareeba
 url: /mareeba/
-latitude: -16.991558
-longitude: 145.42266370000002
+latitude: -16.992
+longitude: 145.422
 ---

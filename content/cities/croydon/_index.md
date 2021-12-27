@@ -1,6 +1,6 @@
 ---
 title: Croydon
 url: /croydon/
-latitude: -33.8777935
-longitude: 151.1156502
+latitude: -34.898
+longitude: 138.562
 ---

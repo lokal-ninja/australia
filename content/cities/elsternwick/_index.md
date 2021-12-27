@@ -1,6 +1,6 @@
 ---
 title: Elsternwick
 url: /elsternwick/
-latitude: -37.8858425
-longitude: 145.0070152
+latitude: -37.884
+longitude: 145.001
 ---

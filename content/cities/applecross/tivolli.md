@@ -1,5 +1,5 @@
 ---
 title: "Tivolli"
 url: /applecross/tivolli/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,6 +1,6 @@
 ---
 title: Maryborough
 url: /maryborough/
-latitude: -37.0481014
-longitude: 143.7362835
+latitude: -37.047
+longitude: 143.738
 ---

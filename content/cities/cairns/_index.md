@@ -1,6 +1,6 @@
 ---
 title: Cairns
 url: /cairns/
-latitude: -16.9206657
-longitude: 145.7721854
+latitude: -16.918
+longitude: 145.769
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jaycar"
 url: /kelso/jaycar/
-shop: radiotechnics
+shop: Radiotechnik
 ---

@@ -1,6 +1,6 @@
 ---
 title: Burleigh Gardens
 url: /burleigh-gardens/
-latitude: 
-longitude: 
+latitude: -28.105
+longitude: 153.415
 ---

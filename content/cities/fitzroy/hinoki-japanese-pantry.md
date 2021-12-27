@@ -1,5 +1,5 @@
 ---
 title: "Hinoki Japanese Pantry"
 url: /fitzroy/hinoki-japanese-pantry/
-shop: supermarket
+shop: Supermarkt
 ---

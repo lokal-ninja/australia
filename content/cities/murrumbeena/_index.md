@@ -1,6 +1,6 @@
 ---
 title: Murrumbeena
 url: /murrumbeena/
-latitude: 
-longitude: 
+latitude: -37.899
+longitude: 145.076
 ---

@@ -1,6 +1,6 @@
 ---
 title: Batehaven
 url: /batehaven/
-latitude: -35.7318
-longitude: 150.2012
+latitude: -35.733
+longitude: 150.199
 ---

@@ -1,6 +1,6 @@
 ---
 title: Reservoir
 url: /reservoir/
-latitude: -37.7123767
-longitude: 145.0074935
+latitude: -37.705
+longitude: 144.99
 ---

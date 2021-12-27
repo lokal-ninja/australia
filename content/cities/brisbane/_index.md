@@ -1,6 +1,6 @@
 ---
 title: Brisbane
 url: /brisbane/
-latitude: 
-longitude: 
+latitude: -27.397
+longitude: 153.055
 ---

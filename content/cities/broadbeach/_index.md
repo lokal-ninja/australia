@@ -1,6 +1,6 @@
 ---
 title: Broadbeach
 url: /broadbeach/
-latitude: -28.0235886
-longitude: 153.4293335
+latitude: -28.028
+longitude: 153.433
 ---

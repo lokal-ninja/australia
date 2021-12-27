@@ -1,6 +1,6 @@
 ---
 title: taree
 url: /taree/
-latitude: 
-longitude: 
+latitude: -31.9
+longitude: 152.456
 ---

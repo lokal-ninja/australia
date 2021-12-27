@@ -1,6 +1,6 @@
 ---
 title: Sydenham
 url: /sydenham/
-latitude: -33.9169921
-longitude: 151.1681088
+latitude: -37.692
+longitude: 144.743
 ---

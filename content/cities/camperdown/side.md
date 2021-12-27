@@ -1,5 +1,5 @@
 ---
 title: "Side"
 url: /camperdown/side/
-shop: shop
+shop: Allgemein
 ---

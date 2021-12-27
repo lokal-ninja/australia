@@ -1,5 +1,5 @@
 ---
 title: "Stockyard Industries"
 url: /clifton/stockyard-industries/
-shop: trade
+shop: Baustoffe
 ---

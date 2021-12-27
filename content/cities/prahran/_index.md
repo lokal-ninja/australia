@@ -1,6 +1,6 @@
 ---
 title: Prahran
 url: /prahran/
-latitude: 
-longitude: 
+latitude: -37.853
+longitude: 145.005
 ---

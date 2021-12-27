@@ -1,6 +1,6 @@
 ---
 title: Mile End
 url: /mile-end/
-latitude: -34.926337700000005
-longitude: 138.5711113
+latitude: -34.924
+longitude: 138.567
 ---

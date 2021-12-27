@@ -1,6 +1,6 @@
 ---
 title: Bundanoon
 url: /bundanoon/
-latitude: -34.6562168
-longitude: 150.2997071
+latitude: -34.656
+longitude: 150.297
 ---

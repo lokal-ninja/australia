@@ -1,6 +1,6 @@
 ---
 title: Highett
 url: /highett/
-latitude: -37.9504036
-longitude: 145.03979700000002
+latitude: -37.947
+longitude: 145.046
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TSG"
 url: /orange/tsg/
-shop: tobacco
+shop: Tabak
 ---

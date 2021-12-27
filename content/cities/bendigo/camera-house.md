@@ -1,5 +1,5 @@
 ---
 title: "Camera House"
 url: /bendigo/camera-house/
-shop: photo
+shop: Foto
 ---

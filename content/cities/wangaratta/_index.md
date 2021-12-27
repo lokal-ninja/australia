@@ -1,6 +1,6 @@
 ---
 title: Wangaratta
 url: /wangaratta/
-latitude: 
-longitude: 
+latitude: -36.358
+longitude: 146.317
 ---

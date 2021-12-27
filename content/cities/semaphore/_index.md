@@ -1,6 +1,6 @@
 ---
 title: Semaphore
 url: /semaphore/
-latitude: 
-longitude: 
+latitude: -34.838
+longitude: 138.481
 ---

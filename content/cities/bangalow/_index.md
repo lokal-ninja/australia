@@ -1,6 +1,6 @@
 ---
 title: Bangalow
 url: /bangalow/
-latitude: -28.6816667
-longitude: 153.5177778
+latitude: -28.686
+longitude: 153.524
 ---

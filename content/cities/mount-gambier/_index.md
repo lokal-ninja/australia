@@ -1,6 +1,6 @@
 ---
 title: Mount Gambier
 url: /mount-gambier/
-latitude: -37.830138600000005
-longitude: 140.7842627
+latitude: -37.831
+longitude: 140.784
 ---

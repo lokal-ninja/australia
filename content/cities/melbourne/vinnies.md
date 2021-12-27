@@ -1,5 +1,5 @@
 ---
 title: "Vinnies"
 url: /melbourne/vinnies/
-shop: charity
+shop: Gebrauchtwaren
 ---

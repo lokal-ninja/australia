@@ -1,6 +1,6 @@
 ---
 title: Canungra
 url: /canungra/
-latitude: -28.0171019
-longitude: 153.165254
+latitude: -28.017
+longitude: 153.164
 ---

@@ -1,6 +1,6 @@
 ---
 title: Woolgoolga
 url: /woolgoolga/
-latitude: -30.1108288
-longitude: 153.2000074
+latitude: -30.114
+longitude: 153.193
 ---

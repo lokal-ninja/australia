@@ -1,6 +1,6 @@
 ---
 title: Avoca
 url: /avoca/
-latitude: -31.2269083
-longitude: 146.8820976
+latitude: -37.069
+longitude: 143.405
 ---

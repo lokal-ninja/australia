@@ -1,6 +1,6 @@
 ---
 title: Kew
 url: /kew/
-latitude: -31.6322714
-longitude: 152.7225974
+latitude: -37.801
+longitude: 145.062
 ---

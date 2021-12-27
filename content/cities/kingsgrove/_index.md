@@ -1,6 +1,6 @@
 ---
 title: Kingsgrove
 url: /kingsgrove/
-latitude: -33.9371844
-longitude: 151.0996523
+latitude: -33.941
+longitude: 151.1
 ---

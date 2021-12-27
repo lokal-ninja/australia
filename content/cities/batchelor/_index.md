@@ -1,6 +1,6 @@
 ---
 title: Batchelor
 url: /batchelor/
-latitude: -13.0468045
-longitude: 131.0283583
+latitude: -13.046
+longitude: 131.028
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Woolworths"
 url: /shearwater/woolworths/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,6 +1,6 @@
 ---
 title: Braitling
 url: /braitling/
-latitude: 
-longitude: 
+latitude: -23.685
+longitude: 133.873
 ---

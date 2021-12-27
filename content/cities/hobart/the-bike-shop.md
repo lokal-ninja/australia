@@ -1,5 +1,5 @@
 ---
 title: "The Bike Shop"
 url: /hobart/the-bike-shop/
-shop: bicycle
+shop: Fahrrad
 ---

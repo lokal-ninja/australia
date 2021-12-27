@@ -1,5 +1,5 @@
 ---
 title: "Phuoc Hung"
 url: /footscray/phuoc-hung/
-shop: butcher
+shop: Metzgerei
 ---

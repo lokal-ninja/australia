@@ -1,6 +1,6 @@
 ---
 title: Somersby
 url: /somersby/
-latitude: -33.365
-longitude: 151.2844444
+latitude: -33.417
+longitude: 151.283
 ---

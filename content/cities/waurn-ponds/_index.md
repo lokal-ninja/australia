@@ -1,6 +1,6 @@
 ---
 title: Waurn Ponds
 url: /waurn-ponds/
-latitude: 
-longitude: 
+latitude: -38.199
+longitude: 144.319
 ---

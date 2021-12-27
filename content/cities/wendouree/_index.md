@@ -1,6 +1,6 @@
 ---
 title: Wendouree
 url: /wendouree/
-latitude: -30.919641300000002
-longitude: 146.5546597
+latitude: -37.535
+longitude: 143.822
 ---

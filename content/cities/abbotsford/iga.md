@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /abbotsford/iga/
-shop: supermarket
+shop: Supermarkt
 ---

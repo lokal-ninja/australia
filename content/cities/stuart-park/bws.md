@@ -1,5 +1,5 @@
 ---
 title: "BWS"
 url: /stuart-park/bws/
-shop: alcohol
+shop: Spirituosen
 ---

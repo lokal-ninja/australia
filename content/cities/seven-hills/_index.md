@@ -1,6 +1,6 @@
 ---
 title: Seven Hills
 url: /seven-hills/
-latitude: -27.4816478
-longitude: 153.0755733
+latitude: -33.777
+longitude: 150.954
 ---

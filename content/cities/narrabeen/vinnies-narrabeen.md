@@ -1,5 +1,5 @@
 ---
 title: "Vinnies Narrabeen"
 url: /narrabeen/vinnies-narrabeen/
-shop: charity
+shop: Gebrauchtwaren
 ---

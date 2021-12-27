@@ -1,6 +1,6 @@
 ---
 title: Doncaster East
 url: /doncaster-east/
-latitude: -37.7788744
-longitude: 145.1638815
+latitude: -37.777
+longitude: 145.164
 ---

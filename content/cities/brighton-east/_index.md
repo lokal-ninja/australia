@@ -1,6 +1,6 @@
 ---
 title: Brighton East
 url: /brighton-east/
-latitude: -37.9171728
-longitude: 145.01636630000002
+latitude: -37.924
+longitude: 145.026
 ---

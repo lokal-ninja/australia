@@ -1,5 +1,5 @@
 ---
 title: "Scorptec"
 url: /rowville/scorptec/
-shop: computer
+shop: Computer
 ---

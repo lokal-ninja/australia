@@ -1,6 +1,6 @@
 ---
 title: Rockbank
 url: /rockbank/
-latitude: -37.7312767
-longitude: 144.66073160000002
+latitude: -37.717
+longitude: 144.64
 ---

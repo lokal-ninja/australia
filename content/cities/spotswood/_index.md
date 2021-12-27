@@ -1,6 +1,6 @@
 ---
 title: Spotswood
 url: /spotswood/
-latitude: -37.829636300000004
-longitude: 144.887901
+latitude: -37.831
+longitude: 144.886
 ---

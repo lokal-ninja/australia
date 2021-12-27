@@ -1,6 +1,6 @@
 ---
 title: Wetherill Park
 url: /wetherill-park/
-latitude: -33.8483333
-longitude: 150.9011111
+latitude: -33.861
+longitude: 150.899
 ---

@@ -1,6 +1,6 @@
 ---
 title: Lismore
 url: /lismore/
-latitude: -28.810539900000002
-longitude: 153.2863912
+latitude: -28.82
+longitude: 153.264
 ---

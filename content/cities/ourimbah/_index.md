@@ -1,6 +1,6 @@
 ---
 title: Ourimbah
 url: /ourimbah/
-latitude: -33.365
-longitude: 151.3677778
+latitude: -33.346
+longitude: 151.372
 ---

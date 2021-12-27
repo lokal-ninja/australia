@@ -1,6 +1,6 @@
 ---
 title: Ballarat
 url: /ballarat/
-latitude: -37.5623025
-longitude: 143.8605649
+latitude: -37.574
+longitude: 143.846
 ---

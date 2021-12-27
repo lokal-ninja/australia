@@ -1,6 +1,6 @@
 ---
 title: Surry Hills
 url: /surry-hills/
-latitude: -33.884512300000004
-longitude: 151.2100301
+latitude: -33.892
+longitude: 151.214
 ---

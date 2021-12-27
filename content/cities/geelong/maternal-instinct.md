@@ -1,5 +1,5 @@
 ---
 title: "Maternal Instinct"
 url: /geelong/maternal-instinct/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,6 +1,6 @@
 ---
 title: Wagga Wagga
 url: /wagga-wagga/
-latitude: -35.115
-longitude: 147.3677778
+latitude: -35.102
+longitude: 147.368
 ---

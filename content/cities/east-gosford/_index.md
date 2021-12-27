@@ -1,6 +1,6 @@
 ---
 title: East Gosford
 url: /east-gosford/
-latitude: -33.4316667
-longitude: 151.3511111
+latitude: -33.436
+longitude: 151.349
 ---

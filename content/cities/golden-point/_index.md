@@ -1,6 +1,6 @@
 ---
 title: Golden Point
 url: /golden-point/
-latitude: -37.5735339
-longitude: 143.8650581
+latitude: -37.577
+longitude: 143.868
 ---

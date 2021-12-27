@@ -1,6 +1,6 @@
 ---
 title: Rockdale
 url: /rockdale/
-latitude: -32.3807411
-longitude: 149.4019557
+latitude: -33.952
+longitude: 151.138
 ---

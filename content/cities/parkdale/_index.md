@@ -1,6 +1,6 @@
 ---
 title: Parkdale
 url: /parkdale/
-latitude: -37.9918673
-longitude: 145.081286
+latitude: -37.993
+longitude: 145.076
 ---

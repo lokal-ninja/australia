@@ -1,6 +1,6 @@
 ---
 title: Cauflield East
 url: /cauflield-east/
-latitude: 
-longitude: 
+latitude: -37.877
+longitude: 145.042
 ---

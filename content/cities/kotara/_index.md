@@ -1,6 +1,6 @@
 ---
 title: Kotara
 url: /kotara/
-latitude: -32.9425
-longitude: 151.6958333
+latitude: -32.937
+longitude: 151.711
 ---

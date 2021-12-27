@@ -1,6 +1,6 @@
 ---
 title: Eastwood
 url: /eastwood/
-latitude: -32.839031600000006
-longitude: 150.1475685
+latitude: -34.945
+longitude: 138.623
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Amalgamated Locksmiths"
 url: /collingwood/amalgamated-locksmiths/
-shop: locksmith
+shop: Schlüsseldienst
 ---

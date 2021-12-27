@@ -1,6 +1,6 @@
 ---
 title: Gympie
 url: /gympie/
-latitude: -26.1900447
-longitude: 152.6600256
+latitude: -26.19
+longitude: 152.665
 ---

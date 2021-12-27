@@ -1,5 +1,5 @@
 ---
 title: "Swan"
 url: /melbourne/swan/
-shop: furniture
+shop: Möbel
 ---

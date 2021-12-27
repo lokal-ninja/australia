@@ -1,5 +1,5 @@
 ---
 title: "Horseland"
 url: /eltham/horseland/
-shop: pet
+shop: Tiere
 ---

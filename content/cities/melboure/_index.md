@@ -1,6 +1,6 @@
 ---
 title: Melboure
 url: /melboure/
-latitude: 
-longitude: 
+latitude: -37.816
+longitude: 144.964
 ---

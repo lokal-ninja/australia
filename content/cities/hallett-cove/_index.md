@@ -1,6 +1,6 @@
 ---
 title: Hallett Cove
 url: /hallett-cove/
-latitude: 
-longitude: 
+latitude: -35.078
+longitude: 138.517
 ---

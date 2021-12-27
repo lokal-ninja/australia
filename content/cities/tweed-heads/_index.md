@@ -1,6 +1,6 @@
 ---
 title: Tweed Heads
 url: /tweed-heads/
-latitude: -28.181708
-longitude: 153.5469621
+latitude: -28.175
+longitude: 153.542
 ---

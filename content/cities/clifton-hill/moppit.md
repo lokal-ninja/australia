@@ -1,5 +1,5 @@
 ---
 title: "Moppit"
 url: /clifton-hill/moppit/
-shop: clothes
+shop: Kleidung
 ---

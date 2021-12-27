@@ -1,5 +1,5 @@
 ---
 title: "Parnawarri Shopping Centre"
 url: /newman/parnawarri-shopping-centre/
-shop: mall
+shop: Einkaufszentrum
 ---

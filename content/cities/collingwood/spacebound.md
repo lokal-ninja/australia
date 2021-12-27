@@ -1,5 +1,5 @@
 ---
 title: "Spacebound"
 url: /collingwood/spacebound/
-shop: clothes
+shop: Kleidung
 ---

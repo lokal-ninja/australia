@@ -1,6 +1,6 @@
 ---
 title: Glen Waverley
 url: /glen-waverley/
-latitude: 
-longitude: 
+latitude: -37.88
+longitude: 145.163
 ---

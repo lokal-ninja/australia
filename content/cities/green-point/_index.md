@@ -1,6 +1,6 @@
 ---
 title: Green Point
 url: /green-point/
-latitude: -29.4728746
-longitude: 153.3609226
+latitude: -33.452
+longitude: 151.36
 ---

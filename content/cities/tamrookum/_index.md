@@ -1,6 +1,6 @@
 ---
 title: Tamrookum
 url: /tamrookum/
-latitude: -28.122223
-longitude: 152.91360500000002
+latitude: -28.106
+longitude: 152.921
 ---

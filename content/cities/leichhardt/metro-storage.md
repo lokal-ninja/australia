@@ -1,5 +1,5 @@
 ---
 title: "Metro Storage"
 url: /leichhardt/metro-storage/
-shop: storage rental
+shop: Mieten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gânache Chocolate"
 url: /melbourne/ganache-chocolate/
-shop: chocolate
+shop: Schokolade
 ---

@@ -1,6 +1,6 @@
 ---
 title: West Gosford
 url: /west-gosford/
-latitude: -33.415
-longitude: 151.31777780000002
+latitude: -33.427
+longitude: 151.332
 ---

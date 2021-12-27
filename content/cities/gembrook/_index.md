@@ -1,6 +1,6 @@
 ---
 title: Gembrook
 url: /gembrook/
-latitude: -30.744962
-longitude: 148.5244908
+latitude: -37.953
+longitude: 145.551
 ---

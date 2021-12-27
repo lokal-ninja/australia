@@ -1,6 +1,6 @@
 ---
 title: Leichhardt
 url: /leichhardt/
-latitude: -27.619582500000003
-longitude: 152.7341268
+latitude: -33.888
+longitude: 151.156
 ---

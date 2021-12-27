@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /howlong/iga/
-shop: supermarket
+shop: Supermarkt
 ---

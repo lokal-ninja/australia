@@ -1,6 +1,6 @@
 ---
 title: Port Melbourne
 url: /port-melbourne/
-latitude: 
-longitude: 
+latitude: -37.838
+longitude: 144.943
 ---

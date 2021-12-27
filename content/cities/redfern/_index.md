@@ -1,6 +1,6 @@
 ---
 title: Redfern
 url: /redfern/
-latitude: -33.8931044
-longitude: 151.2040292
+latitude: -33.892
+longitude: 151.204
 ---

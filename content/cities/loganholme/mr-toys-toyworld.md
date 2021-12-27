@@ -1,5 +1,5 @@
 ---
 title: "Mr Toys Toyworld"
 url: /loganholme/mr-toys-toyworld/
-shop: toys
+shop: Spielzeug
 ---

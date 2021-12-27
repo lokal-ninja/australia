@@ -1,6 +1,6 @@
 ---
 title: Aubin Grove
 url: /aubin-grove/
-latitude: -32.165356100000004
-longitude: 115.8644764
+latitude: -32.168
+longitude: 115.861
 ---

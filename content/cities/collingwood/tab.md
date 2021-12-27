@@ -1,5 +1,5 @@
 ---
 title: "TAB"
 url: /collingwood/tab/
-shop: bookmaker
+shop: Wettbüro
 ---

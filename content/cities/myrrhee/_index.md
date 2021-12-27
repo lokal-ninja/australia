@@ -1,6 +1,6 @@
 ---
 title: Myrrhee
 url: /myrrhee/
-latitude: -36.731197800000004
-longitude: 146.3216418
+latitude: -36.727
+longitude: 146.325
 ---

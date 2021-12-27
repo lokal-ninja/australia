@@ -1,5 +1,5 @@
 ---
 title: "mecca"
 url: /brighton/mecca/
-shop: clothes
+shop: Kleidung
 ---

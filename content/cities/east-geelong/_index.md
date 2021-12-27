@@ -1,6 +1,6 @@
 ---
 title: East Geelong
 url: /east-geelong/
-latitude: -38.155553100000006
-longitude: 144.3801967
+latitude: -38.159
+longitude: 144.375
 ---

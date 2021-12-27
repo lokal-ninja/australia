@@ -1,5 +1,5 @@
 ---
 title: "Chooks"
 url: /bright/chooks/
-shop: clothes
+shop: Kleidung
 ---

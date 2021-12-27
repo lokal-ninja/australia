@@ -1,5 +1,5 @@
 ---
 title: "Teros"
 url: /hobart/teros/
-shop: bicycle
+shop: Fahrrad
 ---

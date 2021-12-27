@@ -1,6 +1,6 @@
 ---
 title: Craigieburn
 url: /craigieburn/
-latitude: -37.5901421
-longitude: 144.9108265
+latitude: -37.593
+longitude: 144.909
 ---

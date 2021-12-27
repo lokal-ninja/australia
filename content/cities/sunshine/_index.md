@@ -1,6 +1,6 @@
 ---
 title: Sunshine
 url: /sunshine/
-latitude: -33.1135803
-longitude: 151.5624588
+latitude: -37.785
+longitude: 144.832
 ---

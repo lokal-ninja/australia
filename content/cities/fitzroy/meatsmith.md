@@ -1,5 +1,5 @@
 ---
 title: "Meatsmith"
 url: /fitzroy/meatsmith/
-shop: butcher
+shop: Metzgerei
 ---

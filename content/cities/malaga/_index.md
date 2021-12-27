@@ -1,6 +1,6 @@
 ---
 title: Malaga
 url: /malaga/
-latitude: -31.8606948
-longitude: 115.894192
+latitude: -31.852
+longitude: 115.879
 ---

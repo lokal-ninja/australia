@@ -1,5 +1,5 @@
 ---
 title: "Forty Winks"
 url: /fitzroy/forty-winks/
-shop: bed
+shop: Betten
 ---

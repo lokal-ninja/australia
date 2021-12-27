@@ -1,6 +1,6 @@
 ---
 title: Golden Square
 url: /golden-square/
-latitude: -36.7713708
-longitude: 144.2616705
+latitude: -36.771
+longitude: 144.263
 ---

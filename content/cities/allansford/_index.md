@@ -1,6 +1,6 @@
 ---
 title: Allansford
 url: /allansford/
-latitude: -38.3862028
-longitude: 142.6001551
+latitude: -38.395
+longitude: 142.628
 ---

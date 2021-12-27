@@ -1,6 +1,6 @@
 ---
 title: Beenleigh
 url: /beenleigh/
-latitude: -27.7159492
-longitude: 153.2022293
+latitude: -27.715
+longitude: 153.202
 ---

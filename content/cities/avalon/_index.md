@@ -1,6 +1,6 @@
 ---
 title: Avalon
 url: /avalon/
-latitude: -38.0844754
-longitude: 144.4258508
+latitude: -33.637
+longitude: 151.33
 ---

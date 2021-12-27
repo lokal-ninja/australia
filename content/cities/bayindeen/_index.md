@@ -1,6 +1,6 @@
 ---
 title: Bayindeen
 url: /bayindeen/
-latitude: -37.314894
-longitude: 143.1585675
+latitude: -37.316
+longitude: 143.144
 ---

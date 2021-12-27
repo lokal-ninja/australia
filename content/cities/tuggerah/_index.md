@@ -1,6 +1,6 @@
 ---
 title: Tuggerah
 url: /tuggerah/
-latitude: -33.3038927
-longitude: 151.42051930000002
+latitude: -33.298
+longitude: 151.418
 ---

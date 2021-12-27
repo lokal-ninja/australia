@@ -1,5 +1,5 @@
 ---
 title: "Kim Nghia"
 url: /footscray/kim-nghia/
-shop: jewelry
+shop: Schmuck
 ---

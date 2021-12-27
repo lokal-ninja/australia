@@ -1,6 +1,6 @@
 ---
 title: Echuca
 url: /echuca/
-latitude: -36.1281405
-longitude: 144.7516955
+latitude: -36.129
+longitude: 144.75
 ---

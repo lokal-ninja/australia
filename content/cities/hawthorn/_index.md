@@ -1,6 +1,6 @@
 ---
 title: Hawthorn
 url: /hawthorn/
-latitude: -37.8244246
-longitude: 145.03172070000002
+latitude: -37.82
+longitude: 145.036
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ashmore
 url: /ashmore/
-latitude: 
-longitude: 
+latitude: -27.981
+longitude: 153.384
 ---

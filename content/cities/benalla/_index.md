@@ -1,6 +1,6 @@
 ---
 title: Benalla
 url: /benalla/
-latitude: -24.5905732
-longitude: 144.7098005
+latitude: -36.55
+longitude: 145.985
 ---

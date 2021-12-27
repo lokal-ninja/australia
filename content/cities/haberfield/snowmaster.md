@@ -1,5 +1,5 @@
 ---
 title: "Snowmaster"
 url: /haberfield/snowmaster/
-shop: shop
+shop: Allgemein
 ---

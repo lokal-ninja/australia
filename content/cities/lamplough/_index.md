@@ -1,6 +1,6 @@
 ---
 title: Lamplough
 url: /lamplough/
-latitude: -37.1350435
-longitude: 143.5085071
+latitude: -37.139
+longitude: 143.521
 ---

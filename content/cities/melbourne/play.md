@@ -1,5 +1,5 @@
 ---
 title: "Play"
 url: /melbourne/play/
-shop: video
+shop: Videothek
 ---

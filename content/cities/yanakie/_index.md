@@ -1,6 +1,6 @@
 ---
 title: Yanakie
 url: /yanakie/
-latitude: -38.8124254
-longitude: 146.20644140000002
+latitude: -38.813
+longitude: 146.208
 ---

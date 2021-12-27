@@ -1,6 +1,6 @@
 ---
 title: Fulham
 url: /fulham/
-latitude: -27.039999
-longitude: 152.4761047
+latitude: -34.926
+longitude: 138.518
 ---

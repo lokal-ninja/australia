@@ -1,5 +1,5 @@
 ---
 title: "Flowers on McKinnon"
 url: /mckinnon/flowers-on-mckinnon/
-shop: florist
+shop: Blumen
 ---

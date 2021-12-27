@@ -1,5 +1,5 @@
 ---
 title: "Upmarket Pets"
 url: /collingwood/upmarket-pets/
-shop: pet
+shop: Tiere
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mundingburra
 url: /mundingburra/
-latitude: 
-longitude: 
+latitude: -19.296
+longitude: 146.789
 ---

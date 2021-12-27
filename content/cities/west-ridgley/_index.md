@@ -1,6 +1,6 @@
 ---
 title: West Ridgley
 url: /west-ridgley/
-latitude: -41.146710000000006
-longitude: 145.78097
+latitude: -41.154
+longitude: 145.799
 ---

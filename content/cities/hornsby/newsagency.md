@@ -1,5 +1,5 @@
 ---
 title: "Newsagency"
 url: /hornsby/newsagency/
-shop: newsagent
+shop: Zeitungen
 ---

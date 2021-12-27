@@ -1,5 +1,5 @@
 ---
 title: "Anaconda"
 url: /epping/anaconda/
-shop: outdoor
+shop: Outdoor
 ---

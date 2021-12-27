@@ -1,5 +1,5 @@
 ---
 title: "Petstock"
 url: /kingsford/petstock/
-shop: pet
+shop: Tiere
 ---

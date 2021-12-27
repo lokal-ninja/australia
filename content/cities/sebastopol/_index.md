@@ -1,6 +1,6 @@
 ---
 title: Sebastopol
 url: /sebastopol/
-latitude: -37.5986771
-longitude: 143.83588310000002
+latitude: -37.583
+longitude: 143.841
 ---

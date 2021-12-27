@@ -1,6 +1,6 @@
 ---
 title: Pakenham
 url: /pakenham/
-latitude: -38.079153000000005
-longitude: 145.48333590000001
+latitude: -38.083
+longitude: 145.488
 ---

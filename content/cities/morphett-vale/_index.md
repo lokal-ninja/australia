@@ -1,6 +1,6 @@
 ---
 title: Morphett Vale
 url: /morphett-vale/
-latitude: -35.1207525
-longitude: 138.5239735
+latitude: -35.113
+longitude: 138.547
 ---

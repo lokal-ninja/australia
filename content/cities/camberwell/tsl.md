@@ -1,5 +1,5 @@
 ---
 title: "TSL"
 url: /camberwell/tsl/
-shop: clothes
+shop: Kleidung
 ---

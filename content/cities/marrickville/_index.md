@@ -1,6 +1,6 @@
 ---
 title: Marrickville
 url: /marrickville/
-latitude: -33.9103854
-longitude: 151.1556908
+latitude: -33.907
+longitude: 151.171
 ---

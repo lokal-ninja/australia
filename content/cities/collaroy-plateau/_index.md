@@ -1,6 +1,6 @@
 ---
 title: Collaroy Plateau
 url: /collaroy-plateau/
-latitude: -33.7303841
-longitude: 151.29103940000002
+latitude: -33.727
+longitude: 151.287
 ---

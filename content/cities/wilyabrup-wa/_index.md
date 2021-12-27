@@ -1,6 +1,6 @@
 ---
 title: Wilyabrup WA
 url: /wilyabrup-wa/
-latitude: 
-longitude: 
+latitude: -33.819
+longitude: 115.038
 ---

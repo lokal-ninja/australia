@@ -1,5 +1,5 @@
 ---
 title: "Westside Timbers"
 url: /toowoomba/westside-timbers/
-shop: hardware
+shop: Eisenwaren
 ---

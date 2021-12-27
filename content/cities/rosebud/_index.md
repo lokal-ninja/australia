@@ -1,6 +1,6 @@
 ---
 title: rosebud
 url: /rosebud/
-latitude: 
-longitude: 
+latitude: -38.356
+longitude: 144.908
 ---

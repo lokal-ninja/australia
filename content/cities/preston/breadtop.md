@@ -1,5 +1,5 @@
 ---
 title: "Breadtop"
 url: /preston/breadtop/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /adelaide/iga/
-shop: supermarket
+shop: Supermarkt
 ---

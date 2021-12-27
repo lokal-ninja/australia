@@ -1,6 +1,6 @@
 ---
 title: Macquarie Fields
 url: /macquarie-fields/
-latitude: -32.150831700000005
-longitude: 148.67313910000001
+latitude: -33.997
+longitude: 150.899
 ---

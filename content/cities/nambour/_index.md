@@ -1,6 +1,6 @@
 ---
 title: Nambour
 url: /nambour/
-latitude: -26.625732600000003
-longitude: 152.959953
+latitude: -26.626
+longitude: 152.964
 ---

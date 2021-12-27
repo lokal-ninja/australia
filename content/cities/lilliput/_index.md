@@ -1,6 +1,6 @@
 ---
 title: Lilliput
 url: /lilliput/
-latitude: 
-longitude: 
+latitude: -36.135
+longitude: 146.474
 ---

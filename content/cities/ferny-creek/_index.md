@@ -1,6 +1,6 @@
 ---
 title: Ferny Creek
 url: /ferny-creek/
-latitude: -37.8752857
-longitude: 145.3350823
+latitude: -37.881
+longitude: 145.342
 ---

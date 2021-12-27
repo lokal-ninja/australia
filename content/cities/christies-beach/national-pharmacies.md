@@ -1,5 +1,5 @@
 ---
 title: "National Pharmacies"
 url: /christies-beach/national-pharmacies/
-shop: chemist
+shop: Drogerie
 ---

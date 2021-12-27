@@ -1,6 +1,6 @@
 ---
 title: Kilburn
 url: /kilburn/
-latitude: -34.8596902
-longitude: 138.5855855
+latitude: -34.863
+longitude: 138.58
 ---

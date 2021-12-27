@@ -1,5 +1,5 @@
 ---
 title: "Cargocycles"
 url: /collingwood/cargocycles/
-shop: bicycle
+shop: Fahrrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Woolworths"
 url: /lucas/woolworths/
-shop: supermarket
+shop: Supermarkt
 ---

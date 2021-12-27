@@ -1,5 +1,5 @@
 ---
 title: "Lance Dixon Bentley"
 url: /collingwood/lance-dixon-bentley/
-shop: car
+shop: Autohaus
 ---

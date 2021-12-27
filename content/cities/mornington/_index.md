@@ -1,6 +1,6 @@
 ---
 title: Mornington
 url: /mornington/
-latitude: -42.8595379
-longitude: 147.4035924
+latitude: -38.232
+longitude: 145.048
 ---

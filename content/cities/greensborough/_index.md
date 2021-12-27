@@ -1,6 +1,6 @@
 ---
 title: Greensborough
 url: /greensborough/
-latitude: 
-longitude: 
+latitude: -37.71
+longitude: 145.113
 ---

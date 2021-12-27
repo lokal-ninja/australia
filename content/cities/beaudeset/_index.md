@@ -1,6 +1,6 @@
 ---
 title: Beaudeset
 url: /beaudeset/
-latitude: 
-longitude: 
+latitude: -28
+longitude: 152.986
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Saltylicious"
 url: /preston/saltylicious/
-shop: houseware
+shop: Haushaltsartikel
 ---

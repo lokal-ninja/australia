@@ -1,5 +1,5 @@
 ---
 title: "Holstens"
 url: /hindmarsh/holstens/
-shop: shop
+shop: Allgemein
 ---

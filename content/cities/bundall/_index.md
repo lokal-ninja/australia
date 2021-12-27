@@ -1,6 +1,6 @@
 ---
 title: Bundall
 url: /bundall/
-latitude: 
-longitude: 
+latitude: -28.006
+longitude: 153.411
 ---

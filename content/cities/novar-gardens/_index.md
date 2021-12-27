@@ -1,6 +1,6 @@
 ---
 title: Novar Gardens
 url: /novar-gardens/
-latitude: 
-longitude: 
+latitude: -34.966
+longitude: 138.536
 ---

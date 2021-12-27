@@ -1,6 +1,6 @@
 ---
 title: Port Macquarie
 url: /port-macquarie/
-latitude: -31.4299499
-longitude: 152.91035250000002
+latitude: -31.428
+longitude: 152.878
 ---

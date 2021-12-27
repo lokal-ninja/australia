@@ -1,6 +1,6 @@
 ---
 title: Mackay
 url: /mackay/
-latitude: -21.141956
-longitude: 149.18651490000002
+latitude: -21.121
+longitude: 149.158
 ---

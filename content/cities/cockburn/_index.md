@@ -1,6 +1,6 @@
 ---
 title: Cockburn
 url: /cockburn/
-latitude: -32.077192700000005
-longitude: 140.9988767
+latitude: -32.125
+longitude: 115.868
 ---

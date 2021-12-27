@@ -1,5 +1,5 @@
 ---
 title: "Trade Inn Motors"
 url: /logan/trade-inn-motors/
-shop: car
+shop: Autohaus
 ---

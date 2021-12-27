@@ -1,5 +1,5 @@
 ---
 title: "BWS"
 url: /paddington/bws/
-shop: alcohol
+shop: Spirituosen
 ---

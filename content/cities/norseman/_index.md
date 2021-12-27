@@ -1,6 +1,6 @@
 ---
 title: Norseman
 url: /norseman/
-latitude: 
-longitude: 
+latitude: -32.199
+longitude: 121.78
 ---

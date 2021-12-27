@@ -1,6 +1,6 @@
 ---
 title: Berkeley Vale
 url: /berkeley-vale/
-latitude: -33.34
-longitude: 151.43444440000002
+latitude: -33.359
+longitude: 151.445
 ---

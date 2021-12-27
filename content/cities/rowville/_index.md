@@ -1,6 +1,6 @@
 ---
 title: Rowville
 url: /rowville/
-latitude: -37.9239267
-longitude: 145.2447672
+latitude: -37.919
+longitude: 145.237
 ---

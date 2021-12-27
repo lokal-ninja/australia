@@ -1,6 +1,6 @@
 ---
 title: Katoomba
 url: /katoomba/
-latitude: -33.713759
-longitude: 150.3121633
+latitude: -33.716
+longitude: 150.311
 ---

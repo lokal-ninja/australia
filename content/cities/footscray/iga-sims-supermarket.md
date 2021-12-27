@@ -1,5 +1,5 @@
 ---
 title: "IGA Sims Supermarket"
 url: /footscray/iga-sims-supermarket/
-shop: supermarket
+shop: Supermarkt
 ---

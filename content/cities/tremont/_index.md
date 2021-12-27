@@ -1,6 +1,6 @@
 ---
 title: Tremont
 url: /tremont/
-latitude: -37.8788598
-longitude: 145.31576990000002
+latitude: -37.887
+longitude: 145.328
 ---

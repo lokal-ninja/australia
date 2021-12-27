@@ -1,6 +1,6 @@
 ---
 title: flemington
 url: /flemington/
-latitude: 
-longitude: 
+latitude: -37.787
+longitude: 144.929
 ---

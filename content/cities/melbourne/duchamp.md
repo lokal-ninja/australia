@@ -1,5 +1,5 @@
 ---
 title: "Duchamp"
 url: /melbourne/duchamp/
-shop: clothes
+shop: Kleidung
 ---

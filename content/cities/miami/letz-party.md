@@ -1,5 +1,5 @@
 ---
 title: "Letz Party"
 url: /miami/letz-party/
-shop: party
+shop: Partyzubehör
 ---

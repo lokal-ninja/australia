@@ -1,6 +1,6 @@
 ---
 title: Eaglemont
 url: /eaglemont/
-latitude: 
-longitude: 
+latitude: -37.764
+longitude: 145.055
 ---

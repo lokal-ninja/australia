@@ -1,6 +1,6 @@
 ---
 title: Arncliffe
 url: /arncliffe/
-latitude: -33.938236
-longitude: 151.145508
+latitude: -33.943
+longitude: 151.143
 ---

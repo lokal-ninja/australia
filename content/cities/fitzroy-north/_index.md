@@ -1,6 +1,6 @@
 ---
 title: Fitzroy North
 url: /fitzroy-north/
-latitude: 
-longitude: 
+latitude: -37.783
+longitude: 144.978
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Langmeil Winery"
 url: /tanunda/langmeil-winery/
-shop: wine
+shop: Wein
 ---

@@ -1,6 +1,6 @@
 ---
 title: Karawara
 url: /karawara/
-latitude: -32.009562200000005
-longitude: 115.8806157
+latitude: -32.011
+longitude: 115.886
 ---

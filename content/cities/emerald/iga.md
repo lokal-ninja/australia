@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /emerald/iga/
-shop: supermarket
+shop: Supermarkt
 ---

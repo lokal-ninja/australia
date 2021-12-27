@@ -1,6 +1,6 @@
 ---
 title: Buderim
 url: /buderim/
-latitude: -26.6857535
-longitude: 153.0506403
+latitude: -26.687
+longitude: 153.049
 ---

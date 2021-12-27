@@ -1,5 +1,5 @@
 ---
 title: "Spares"
 url: /collingwood/spares/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Matheson's Hardware"
 url: /wycheproof/mathesons-hardware/
-shop: hardware
+shop: Eisenwaren
 ---

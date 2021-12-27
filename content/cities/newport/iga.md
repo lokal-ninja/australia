@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /newport/iga/
-shop: convenience
+shop: Lebensmittel
 ---

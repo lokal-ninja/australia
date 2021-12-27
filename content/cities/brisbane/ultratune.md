@@ -1,5 +1,5 @@
 ---
 title: "Ultratune"
 url: /brisbane/ultratune/
-shop: car repair
+shop: Autowerkstatt
 ---

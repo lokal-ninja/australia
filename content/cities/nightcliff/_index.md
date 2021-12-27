@@ -1,6 +1,6 @@
 ---
 title: Nightcliff
 url: /nightcliff/
-latitude: 
-longitude: 
+latitude: -12.379
+longitude: 130.849
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Absafe"
 url: /collingwood/absafe/
-shop: trade
+shop: Baustoffe
 ---

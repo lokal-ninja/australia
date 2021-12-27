@@ -1,5 +1,5 @@
 ---
 title: "Justackle"
 url: /burnie/justackle/
-shop: fishing
+shop: Angeln
 ---

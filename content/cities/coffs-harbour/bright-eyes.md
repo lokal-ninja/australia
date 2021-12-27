@@ -1,5 +1,5 @@
 ---
 title: "Bright Eyes"
 url: /coffs-harbour/bright-eyes/
-shop: boutique
+shop: Modehaus
 ---

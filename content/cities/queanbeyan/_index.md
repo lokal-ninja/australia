@@ -1,6 +1,6 @@
 ---
 title: Queanbeyan
 url: /queanbeyan/
-latitude: -35.3530411
-longitude: 149.2308944
+latitude: -35.342
+longitude: 149.239
 ---

@@ -1,6 +1,6 @@
 ---
 title: Darlinghurst
 url: /darlinghurst/
-latitude: -33.8783381
-longitude: 151.21922500000002
+latitude: -33.88
+longitude: 151.215
 ---

@@ -1,6 +1,6 @@
 ---
 title: Beaconsfield Upper
 url: /beaconsfield-upper/
-latitude: 
-longitude: 
+latitude: -38.004
+longitude: 145.41
 ---

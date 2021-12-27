@@ -1,6 +1,6 @@
 ---
 title: Palmwoods
 url: /palmwoods/
-latitude: -28.5132371
-longitude: 153.4060671
+latitude: -26.686
+longitude: 152.959
 ---

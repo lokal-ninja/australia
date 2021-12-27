@@ -1,5 +1,5 @@
 ---
 title: "Boutique Cake Art"
 url: /yarraville/boutique-cake-art/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,6 +1,6 @@
 ---
 title: Black Rock
 url: /black-rock/
-latitude: -32.665
-longitude: 148.93444440000002
+latitude: -37.976
+longitude: 145.017
 ---

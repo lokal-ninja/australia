@@ -1,6 +1,6 @@
 ---
 title: West Hobart
 url: /west-hobart/
-latitude: -42.881714
-longitude: 147.3114092
+latitude: -42.878
+longitude: 147.309
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mogo
 url: /mogo/
-latitude: -32.2652
-longitude: 150.0179
+latitude: -35.795
+longitude: 150.159
 ---

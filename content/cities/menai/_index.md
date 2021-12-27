@@ -1,6 +1,6 @@
 ---
 title: Menai
 url: /menai/
-latitude: -34.014811
-longitude: 151.0164823
+latitude: -34.016
+longitude: 151.012
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Moor Wood Furniture"
 url: /fitzroy/moor-wood-furniture/
-shop: furniture
+shop: Möbel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Berala
 url: /berala/
-latitude: 
-longitude: 
+latitude: -33.872
+longitude: 151.032
 ---

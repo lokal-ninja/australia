@@ -1,6 +1,6 @@
 ---
 title: Montmorency
 url: /montmorency/
-latitude: 
-longitude: 
+latitude: -37.717
+longitude: 145.121
 ---

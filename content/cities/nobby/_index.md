@@ -1,6 +1,6 @@
 ---
 title: Nobby
 url: /nobby/
-latitude: -27.8537363
-longitude: 151.9024703
+latitude: -27.853
+longitude: 151.903
 ---

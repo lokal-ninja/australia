@@ -1,5 +1,5 @@
 ---
 title: "Headliners"
 url: /leederville/headliners/
-shop: hairdresser
+shop: Friseur
 ---

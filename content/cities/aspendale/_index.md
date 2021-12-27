@@ -1,6 +1,6 @@
 ---
 title: Aspendale
 url: /aspendale/
-latitude: 
-longitude: 
+latitude: -38.01
+longitude: 145.087
 ---

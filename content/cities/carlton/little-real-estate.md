@@ -1,5 +1,5 @@
 ---
 title: "Little Real Estate"
 url: /carlton/little-real-estate/
-shop: estate agent
+shop: Immobilien
 ---

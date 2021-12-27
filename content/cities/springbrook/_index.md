@@ -1,6 +1,6 @@
 ---
 title: Springbrook
 url: /springbrook/
-latitude: 
-longitude: 
+latitude: -28.185
+longitude: 153.259
 ---

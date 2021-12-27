@@ -1,5 +1,5 @@
 ---
 title: "Vigorella"
 url: /melbourne/vigorella/
-shop: clothes
+shop: Kleidung
 ---

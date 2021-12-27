@@ -1,6 +1,6 @@
 ---
 title: Kealba
 url: /kealba/
-latitude: -37.7371074
-longitude: 144.8282988
+latitude: -37.732
+longitude: 144.823
 ---

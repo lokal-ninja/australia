@@ -1,5 +1,5 @@
 ---
 title: "Chemmart"
 url: /woodcroft/chemmart/
-shop: chemist
+shop: Drogerie
 ---

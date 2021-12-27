@@ -1,6 +1,6 @@
 ---
 title: Enmore
 url: /enmore/
-latitude: -30.73
-longitude: 151.83666670000002
+latitude: -33.899
+longitude: 151.171
 ---

@@ -1,6 +1,6 @@
 ---
 title: Maitland
 url: /maitland/
-latitude: -34.3745451
-longitude: 137.6712821
+latitude: -32.698
+longitude: 151.503
 ---

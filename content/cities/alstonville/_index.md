@@ -1,6 +1,6 @@
 ---
 title: Alstonville
 url: /alstonville/
-latitude: -28.8412757
-longitude: 153.44058130000002
+latitude: -28.843
+longitude: 153.441
 ---

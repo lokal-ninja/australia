@@ -1,6 +1,6 @@
 ---
 title: Warrnambool
 url: /warrnambool/
-latitude: -38.3826241
-longitude: 142.4814191
+latitude: -38.385
+longitude: 142.483
 ---

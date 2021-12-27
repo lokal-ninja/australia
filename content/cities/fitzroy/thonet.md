@@ -1,5 +1,5 @@
 ---
 title: "Thonet"
 url: /fitzroy/thonet/
-shop: furniture
+shop: Möbel
 ---

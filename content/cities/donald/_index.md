@@ -1,6 +1,6 @@
 ---
 title: Donald
 url: /donald/
-latitude: -36.3701184
-longitude: 142.9830851
+latitude: -36.37
+longitude: 142.983
 ---

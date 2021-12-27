@@ -1,6 +1,6 @@
 ---
 title: Bayswater North
 url: /bayswater-north/
-latitude: 
-longitude: 
+latitude: -37.841
+longitude: 145.272
 ---

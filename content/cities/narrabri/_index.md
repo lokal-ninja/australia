@@ -1,6 +1,6 @@
 ---
 title: Narrabri
 url: /narrabri/
-latitude: 
-longitude: 
+latitude: -30.325
+longitude: 149.782
 ---

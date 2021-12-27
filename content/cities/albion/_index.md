@@ -1,6 +1,6 @@
 ---
 title: Albion
 url: /albion/
-latitude: -27.430364200000003
-longitude: 153.0421201
+latitude: -37.777
+longitude: 144.815
 ---

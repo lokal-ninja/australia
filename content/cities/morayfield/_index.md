@@ -1,6 +1,6 @@
 ---
 title: Morayfield
 url: /morayfield/
-latitude: -27.1098141
-longitude: 152.9488081
+latitude: -27.098
+longitude: 152.952
 ---

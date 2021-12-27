@@ -1,6 +1,6 @@
 ---
 title: Chethenham
 url: /chethenham/
-latitude: 
-longitude: 
+latitude: -37.967
+longitude: 145.057
 ---

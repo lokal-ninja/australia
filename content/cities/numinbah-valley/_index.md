@@ -1,6 +1,6 @@
 ---
 title: Numinbah Valley
 url: /numinbah-valley/
-latitude: 
-longitude: 
+latitude: -28.14
+longitude: 153.224
 ---

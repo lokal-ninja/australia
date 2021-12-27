@@ -1,6 +1,6 @@
 ---
 title: Forster
 url: /forster/
-latitude: -34.730761900000005
-longitude: 139.5566263
+latitude: -32.18
+longitude: 152.511
 ---

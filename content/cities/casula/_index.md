@@ -1,6 +1,6 @@
 ---
 title: Casula
 url: /casula/
-latitude: -33.9522222
-longitude: 150.8952778
+latitude: -33.959
+longitude: 150.878
 ---

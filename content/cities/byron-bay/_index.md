@@ -1,6 +1,6 @@
 ---
 title: Byron Bay
 url: /byron-bay/
-latitude: -28.6483333
-longitude: 153.6177778
+latitude: -28.633
+longitude: 153.582
 ---

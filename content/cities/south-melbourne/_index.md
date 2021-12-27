@@ -1,6 +1,6 @@
 ---
 title: South Melbourne
 url: /south-melbourne/
-latitude: 
-longitude: 
+latitude: -37.832
+longitude: 144.97
 ---

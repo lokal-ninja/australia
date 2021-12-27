@@ -1,6 +1,6 @@
 ---
 title: Mascot
 url: /mascot/
-latitude: -29.3594273
-longitude: 145.2210173
+latitude: -33.93
+longitude: 151.195
 ---

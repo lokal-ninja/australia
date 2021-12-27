@@ -1,6 +1,6 @@
 ---
 title: East Brunswick
 url: /east-brunswick/
-latitude: 
-longitude: 
+latitude: -37.778
+longitude: 144.971
 ---

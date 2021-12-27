@@ -1,5 +1,5 @@
 ---
 title: "Miss Nora"
 url: /richmond/miss-nora/
-shop: massage
+shop: Massage
 ---

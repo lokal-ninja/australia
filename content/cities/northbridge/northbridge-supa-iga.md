@@ -1,5 +1,5 @@
 ---
 title: "Northbridge SUPA IGA"
 url: /northbridge/northbridge-supa-iga/
-shop: supermarket
+shop: Supermarkt
 ---

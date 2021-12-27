@@ -1,5 +1,5 @@
 ---
 title: "Woolworths"
 url: /tahmoor/woolworths/
-shop: supermarket
+shop: Supermarkt
 ---

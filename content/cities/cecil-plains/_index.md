@@ -1,6 +1,6 @@
 ---
 title: Cecil Plains
 url: /cecil-plains/
-latitude: -21.529662000000002
-longitude: 142.17320650000002
+latitude: -27.535
+longitude: 151.2
 ---

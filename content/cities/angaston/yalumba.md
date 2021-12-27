@@ -1,5 +1,5 @@
 ---
 title: "Yalumba"
 url: /angaston/yalumba/
-shop: wine
+shop: Wein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mycar"
 url: /southbank/mycar/
-shop: car repair
+shop: Autowerkstatt
 ---

@@ -1,6 +1,6 @@
 ---
 title: Wilyabrup
 url: /wilyabrup/
-latitude: 
-longitude: 
+latitude: -33.804
+longitude: 115.031
 ---

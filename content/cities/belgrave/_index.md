@@ -1,6 +1,6 @@
 ---
 title: Belgrave
 url: /belgrave/
-latitude: 
-longitude: 
+latitude: -37.909
+longitude: 145.355
 ---

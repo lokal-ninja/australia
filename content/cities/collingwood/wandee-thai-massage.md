@@ -1,5 +1,5 @@
 ---
 title: "Wandee Thai Massage"
 url: /collingwood/wandee-thai-massage/
-shop: massage
+shop: Massage
 ---

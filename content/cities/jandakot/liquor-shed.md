@@ -1,5 +1,5 @@
 ---
 title: "Liquor Shed"
 url: /jandakot/liquor-shed/
-shop: alcohol
+shop: Spirituosen
 ---

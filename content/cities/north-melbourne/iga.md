@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /north-melbourne/iga/
-shop: supermarket
+shop: Supermarkt
 ---

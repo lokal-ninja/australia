@@ -1,6 +1,6 @@
 ---
 title: Carnarvon
 url: /carnarvon/
-latitude: -24.8826131
-longitude: 113.6576486
+latitude: -24.866
+longitude: 113.686
 ---

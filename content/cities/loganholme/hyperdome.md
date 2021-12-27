@@ -1,5 +1,5 @@
 ---
 title: "Hyperdome"
 url: /loganholme/hyperdome/
-shop: mall
+shop: Einkaufszentrum
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ringwood
 url: /ringwood/
-latitude: 
-longitude: 
+latitude: -37.797
+longitude: 145.257
 ---

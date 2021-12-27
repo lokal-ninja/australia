@@ -1,6 +1,6 @@
 ---
 title: Bundaberg
 url: /bundaberg/
-latitude: -24.865325300000002
-longitude: 152.35167850000002
+latitude: -24.904
+longitude: 152.367
 ---

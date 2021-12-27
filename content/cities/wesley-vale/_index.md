@@ -1,6 +1,6 @@
 ---
 title: Wesley Vale
 url: /wesley-vale/
-latitude: -41.189905200000005
-longitude: 146.4551371
+latitude: -41.19
+longitude: 146.456
 ---

@@ -1,6 +1,6 @@
 ---
 title: Wangi Wangi
 url: /wangi-wangi/
-latitude: -33.0704798
-longitude: 151.5959469
+latitude: -33.07
+longitude: 151.588
 ---

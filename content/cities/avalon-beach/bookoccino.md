@@ -1,5 +1,5 @@
 ---
 title: "Bookoccino"
 url: /avalon-beach/bookoccino/
-shop: books
+shop: Bücher
 ---

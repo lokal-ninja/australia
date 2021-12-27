@@ -1,5 +1,5 @@
 ---
 title: "Landmark"
 url: /yea/landmark/
-shop: shop
+shop: Allgemein
 ---

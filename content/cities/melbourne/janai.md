@@ -1,5 +1,5 @@
 ---
 title: "Janai"
 url: /melbourne/janai/
-shop: jewelry
+shop: Schmuck
 ---

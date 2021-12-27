@@ -1,6 +1,6 @@
 ---
 title: Allora
 url: /allora/
-latitude: -28.0341641
-longitude: 151.9832591
+latitude: -28.032
+longitude: 151.983
 ---

@@ -1,6 +1,6 @@
 ---
 title: Taylors Lakes
 url: /taylors-lakes/
-latitude: -37.698633
-longitude: 144.7863077
+latitude: -37.702
+longitude: 144.8
 ---

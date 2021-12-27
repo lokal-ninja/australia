@@ -1,5 +1,5 @@
 ---
 title: "Petbarn"
 url: /bayswater-north/petbarn/
-shop: pet
+shop: Tiere
 ---

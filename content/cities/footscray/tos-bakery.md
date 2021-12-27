@@ -1,5 +1,5 @@
 ---
 title: "To's Bakery"
 url: /footscray/tos-bakery/
-shop: bakery
+shop: Bäckerei
 ---

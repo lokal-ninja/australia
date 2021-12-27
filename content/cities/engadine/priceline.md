@@ -1,5 +1,5 @@
 ---
 title: "Priceline"
 url: /engadine/priceline/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Harvey's Of Highton"
 url: /highton/harveys-of-highton/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

@@ -1,6 +1,6 @@
 ---
 title: Croydon North
 url: /croydon-north/
-latitude: -37.7718843
-longitude: 145.2839524
+latitude: -37.771
+longitude: 145.294
 ---

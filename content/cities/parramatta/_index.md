@@ -1,6 +1,6 @@
 ---
 title: Parramatta
 url: /parramatta/
-latitude: -33.8139843
-longitude: 151.002666
+latitude: -33.814
+longitude: 151.006
 ---

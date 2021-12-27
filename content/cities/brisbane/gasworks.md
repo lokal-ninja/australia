@@ -1,5 +1,5 @@
 ---
 title: "Gasworks"
 url: /brisbane/gasworks/
-shop: mall
+shop: Einkaufszentrum
 ---

@@ -1,6 +1,6 @@
 ---
 title: Kingsthorpe
 url: /kingsthorpe/
-latitude: -27.474218200000003
-longitude: 151.81556220000002
+latitude: -27.478
+longitude: 151.813
 ---

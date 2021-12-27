@@ -1,6 +1,6 @@
 ---
 title: McKinnon
 url: /mckinnon/
-latitude: -37.910594200000006
-longitude: 145.03863
+latitude: -37.91
+longitude: 145.034
 ---

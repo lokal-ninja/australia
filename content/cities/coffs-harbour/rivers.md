@@ -1,5 +1,5 @@
 ---
 title: "Rivers"
 url: /coffs-harbour/rivers/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,6 +1,6 @@
 ---
 title: Booragoon
 url: /booragoon/
-latitude: -32.038915800000005
-longitude: 115.8303662
+latitude: -32.045
+longitude: 115.825
 ---

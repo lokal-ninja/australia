@@ -1,6 +1,6 @@
 ---
 title: Clunes
 url: /clunes/
-latitude: -31.5237987
-longitude: 147.8395279
+latitude: -37.294
+longitude: 143.787
 ---

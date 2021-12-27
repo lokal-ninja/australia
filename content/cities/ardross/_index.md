@@ -1,6 +1,6 @@
 ---
 title: Ardross
 url: /ardross/
-latitude: 
-longitude: 
+latitude: -32.021
+longitude: 115.836
 ---

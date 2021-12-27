@@ -1,5 +1,5 @@
 ---
 title: "United"
 url: /bicheno/united/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sportzbiz"
 url: /fitzroy/sportzbiz/
-shop: sports
+shop: Sport
 ---

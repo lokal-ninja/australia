@@ -1,6 +1,6 @@
 ---
 title: Belgrave South
 url: /belgrave-south/
-latitude: 
-longitude: 
+latitude: -37.93
+longitude: 145.359
 ---

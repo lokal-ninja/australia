@@ -1,6 +1,6 @@
 ---
 title: Mudgeeraba
 url: /mudgeeraba/
-latitude: 
-longitude: 
+latitude: -28.079
+longitude: 153.366
 ---

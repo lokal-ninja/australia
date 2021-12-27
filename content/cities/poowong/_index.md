@@ -1,6 +1,6 @@
 ---
 title: Poowong
 url: /poowong/
-latitude: -38.343045800000006
-longitude: 145.76441930000001
+latitude: -38.343
+longitude: 145.766
 ---

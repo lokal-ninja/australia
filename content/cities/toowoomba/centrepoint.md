@@ -1,5 +1,5 @@
 ---
 title: "Centrepoint"
 url: /toowoomba/centrepoint/
-shop: mall
+shop: Einkaufszentrum
 ---

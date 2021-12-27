@@ -1,6 +1,6 @@
 ---
 title: Moorook
 url: /moorook/
-latitude: 
-longitude: 
+latitude: -34.29
+longitude: 140.368
 ---

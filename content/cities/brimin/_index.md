@@ -1,6 +1,6 @@
 ---
 title: Brimin
 url: /brimin/
-latitude: 
-longitude: 
+latitude: -36.076
+longitude: 146.271
 ---

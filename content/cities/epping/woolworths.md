@@ -1,5 +1,5 @@
 ---
 title: "Woolworths"
 url: /epping/woolworths/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,6 +1,6 @@
 ---
 title: Darwin
 url: /darwin/
-latitude: -12.46044
-longitude: 130.8410469
+latitude: -12.46
+longitude: 130.837
 ---

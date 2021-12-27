@@ -1,6 +1,6 @@
 ---
 title: East Corrimal
 url: /east-corrimal/
-latitude: -34.377500000000005
-longitude: 150.9116667
+latitude: -34.377
+longitude: 150.913
 ---

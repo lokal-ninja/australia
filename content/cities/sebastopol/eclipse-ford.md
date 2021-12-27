@@ -1,5 +1,5 @@
 ---
 title: "Eclipse Ford"
 url: /sebastopol/eclipse-ford/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Artisan Books"
 url: /fitzroy/artisan-books/
-shop: books
+shop: Bücher
 ---

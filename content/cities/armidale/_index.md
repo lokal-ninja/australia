@@ -1,6 +1,6 @@
 ---
 title: Armidale
 url: /armidale/
-latitude: -30.5144881
-longitude: 151.66565640000002
+latitude: -30.513
+longitude: 151.666
 ---

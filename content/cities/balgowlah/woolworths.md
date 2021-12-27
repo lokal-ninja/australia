@@ -1,5 +1,5 @@
 ---
 title: "Woolworths"
 url: /balgowlah/woolworths/
-shop: supermarket
+shop: Supermarkt
 ---

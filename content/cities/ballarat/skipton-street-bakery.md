@@ -1,5 +1,5 @@
 ---
 title: "Skipton Street Bakery"
 url: /ballarat/skipton-street-bakery/
-shop: bakery
+shop: Bäckerei
 ---

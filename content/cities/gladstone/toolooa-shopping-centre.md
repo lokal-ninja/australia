@@ -1,5 +1,5 @@
 ---
 title: "Toolooa Shopping Centre"
 url: /gladstone/toolooa-shopping-centre/
-shop: mall
+shop: Einkaufszentrum
 ---

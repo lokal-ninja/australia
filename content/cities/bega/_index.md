@@ -1,6 +1,6 @@
 ---
 title: Bega
 url: /bega/
-latitude: -36.6780983
-longitude: 149.8408283
+latitude: -36.675
+longitude: 149.844
 ---

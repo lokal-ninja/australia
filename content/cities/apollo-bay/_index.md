@@ -1,6 +1,6 @@
 ---
 title: Apollo Bay
 url: /apollo-bay/
-latitude: 
-longitude: 
+latitude: -38.755
+longitude: 143.668
 ---

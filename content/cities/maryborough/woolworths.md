@@ -1,5 +1,5 @@
 ---
 title: "Woolworths"
 url: /maryborough/woolworths/
-shop: supermarket
+shop: Supermarkt
 ---

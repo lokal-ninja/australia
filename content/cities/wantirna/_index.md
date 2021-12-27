@@ -1,6 +1,6 @@
 ---
 title: Wantirna
 url: /wantirna/
-latitude: 
-longitude: 
+latitude: -37.848
+longitude: 145.232
 ---

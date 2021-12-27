@@ -1,6 +1,6 @@
 ---
 title: Manly
 url: /manly/
-latitude: -27.454732900000003
-longitude: 153.1849108
+latitude: -33.8
+longitude: 151.284
 ---

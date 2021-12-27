@@ -1,6 +1,6 @@
 ---
 title: Wollongong
 url: /wollongong/
-latitude: -34.4243941
-longitude: 150.89385000000001
+latitude: -34.431
+longitude: 150.893
 ---

@@ -1,6 +1,6 @@
 ---
 title: Hobatrt
 url: /hobatrt/
-latitude: 
-longitude: 
+latitude: -42.875
+longitude: 147.38
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Todd Hairdressing"
 url: /newport/todd-hairdressing/
-shop: hairdresser
+shop: Friseur
 ---

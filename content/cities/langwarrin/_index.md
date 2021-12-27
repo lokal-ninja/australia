@@ -1,6 +1,6 @@
 ---
 title: Langwarrin
 url: /langwarrin/
-latitude: -38.1545829
-longitude: 145.1973931
+latitude: -38.154
+longitude: 145.185
 ---

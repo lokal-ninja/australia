@@ -1,5 +1,5 @@
 ---
 title: "BCF"
 url: /epping/bcf/
-shop: outdoor
+shop: Outdoor
 ---

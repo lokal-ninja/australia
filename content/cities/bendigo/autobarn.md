@@ -1,5 +1,5 @@
 ---
 title: "Autobarn"
 url: /bendigo/autobarn/
-shop: car parts
+shop: Autoteile
 ---

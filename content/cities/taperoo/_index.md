@@ -1,6 +1,6 @@
 ---
 title: Taperoo
 url: /taperoo/
-latitude: 
-longitude: 
+latitude: -34.812
+longitude: 138.501
 ---

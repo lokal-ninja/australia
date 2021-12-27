@@ -1,6 +1,6 @@
 ---
 title: Boyup Brook
 url: /boyup-brook/
-latitude: -33.832117600000004
-longitude: 116.3853069
+latitude: -33.832
+longitude: 116.387
 ---

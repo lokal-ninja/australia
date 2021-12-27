@@ -1,5 +1,5 @@
 ---
 title: "Carpet Call"
 url: /melbourne/carpet-call/
-shop: carpet
+shop: Teppiche
 ---

@@ -1,6 +1,6 @@
 ---
 title: Northcote
 url: /northcote/
-latitude: 
-longitude: 
+latitude: -37.78
+longitude: 144.997
 ---

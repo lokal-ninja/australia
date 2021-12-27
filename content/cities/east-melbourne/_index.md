@@ -1,6 +1,6 @@
 ---
 title: East Melbourne
 url: /east-melbourne/
-latitude: 
-longitude: 
+latitude: -37.816
+longitude: 144.985
 ---

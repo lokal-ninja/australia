@@ -1,5 +1,5 @@
 ---
 title: "The Fitzroy Shop"
 url: /mordialloc/the-fitzroy-shop/
-shop: sports
+shop: Sport
 ---

@@ -1,6 +1,6 @@
 ---
 title: Cockatoo
 url: /cockatoo/
-latitude: 
-longitude: 
+latitude: -37.936
+longitude: 145.492
 ---

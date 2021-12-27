@@ -1,6 +1,6 @@
 ---
 title: Thornbury
 url: /thornbury/
-latitude: 
-longitude: 
+latitude: -37.756
+longitude: 144.993
 ---

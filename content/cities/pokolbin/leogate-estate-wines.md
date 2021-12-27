@@ -1,5 +1,5 @@
 ---
 title: "Leogate Estate Wines"
 url: /pokolbin/leogate-estate-wines/
-shop: wine
+shop: Wein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hot Toys"
 url: /fitzroy/hot-toys/
-shop: toys
+shop: Spielzeug
 ---

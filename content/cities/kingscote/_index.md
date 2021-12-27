@@ -1,6 +1,6 @@
 ---
 title: Kingscote
 url: /kingscote/
-latitude: -35.6524847
-longitude: 137.6367523
+latitude: -35.656
+longitude: 137.639
 ---
