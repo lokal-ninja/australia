@@ -1,5 +1,5 @@
 ---
 title: "Carlo's IGA, Gilgandra"
 url: /gilgandra/carlos-iga-gilgandra/
-shop: Supermarkt
+shop: supermarket
 ---

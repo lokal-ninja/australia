@@ -1,5 +1,5 @@
 ---
 title: "Secrets Shhh"
 url: /melbourne/secrets-shhh/
-shop: Allgemein
+shop: shop
 ---

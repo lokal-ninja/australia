@@ -1,5 +1,5 @@
 ---
 title: "Officeworks"
 url: /campbellfield/officeworks/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Enirgi Batteries"
 url: /logan/enirgi-batteries/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Used Pty Ltd"
 url: /fitzroy/used-pty-ltd/
-shop: Antiquitäten
+shop: antiques
 ---

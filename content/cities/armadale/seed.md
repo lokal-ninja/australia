@@ -1,5 +1,5 @@
 ---
 title: "Seed"
 url: /armadale/seed/
-shop: Kleidung
+shop: clothes
 ---

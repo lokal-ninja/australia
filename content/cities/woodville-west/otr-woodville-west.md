@@ -1,5 +1,5 @@
 ---
 title: "OTR Woodville West"
 url: /woodville-west/otr-woodville-west/
-shop: Lebensmittel
+shop: convenience
 ---

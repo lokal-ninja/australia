@@ -1,5 +1,5 @@
 ---
 title: "Bunnings Warehouse"
 url: /oconnor/bunnings-warehouse/
-shop: Eisenwaren
+shop: hardware
 ---

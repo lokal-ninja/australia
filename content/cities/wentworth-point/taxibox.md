@@ -1,5 +1,5 @@
 ---
 title: "TAXIBOX"
 url: /wentworth-point/taxibox/
-shop: Mieten
+shop: storage rental
 ---

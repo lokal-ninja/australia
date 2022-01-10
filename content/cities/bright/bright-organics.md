@@ -1,5 +1,5 @@
 ---
 title: "Bright Organics"
 url: /bright/bright-organics/
-shop: Allgemein
+shop: shop
 ---

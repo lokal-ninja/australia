@@ -1,5 +1,5 @@
 ---
 title: "Sowerbys Towing"
 url: /toowoomba/sowerbys-towing/
-shop: Autowerkstatt
+shop: car repair
 ---

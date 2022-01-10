@@ -1,5 +1,5 @@
 ---
 title: "Atze's Corner"
 url: /nuriootpa/atzes-corner/
-shop: Wein
+shop: wine
 ---

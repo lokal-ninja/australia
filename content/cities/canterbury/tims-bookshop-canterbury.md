@@ -1,5 +1,5 @@
 ---
 title: "Tim's Bookshop Canterbury"
 url: /canterbury/tims-bookshop-canterbury/
-shop: Bücher
+shop: books
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beaurepaires"
 url: /newport/beaurepaires/
-shop: Autowerkstatt
+shop: car repair
 ---

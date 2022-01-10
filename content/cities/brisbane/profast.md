@@ -1,5 +1,5 @@
 ---
 title: "Profast"
 url: /brisbane/profast/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SpencerLacy Style Lab"
 url: /fitzroy/spencerlacy-style-lab/
-shop: Kleidung
+shop: clothes
 ---

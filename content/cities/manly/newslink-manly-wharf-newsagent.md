@@ -1,5 +1,5 @@
 ---
 title: "Newslink Manly Wharf Newsagent"
 url: /manly/newslink-manly-wharf-newsagent/
-shop: Andenken
+shop: gift
 ---

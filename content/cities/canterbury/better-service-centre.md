@@ -1,5 +1,5 @@
 ---
 title: "Better Service Centre"
 url: /canterbury/better-service-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

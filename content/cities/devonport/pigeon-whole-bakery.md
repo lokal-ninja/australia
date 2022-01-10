@@ -1,5 +1,5 @@
 ---
 title: "Pigeon Whole Bakery"
 url: /devonport/pigeon-whole-bakery/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coco"
 url: /hobart/coco/
-shop: Schuhe
+shop: shoes
 ---

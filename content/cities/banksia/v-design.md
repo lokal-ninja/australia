@@ -1,5 +1,5 @@
 ---
 title: "V Design"
 url: /banksia/v-design/
-shop: Schreibwaren
+shop: office supplies
 ---

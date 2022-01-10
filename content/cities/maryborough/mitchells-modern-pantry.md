@@ -1,5 +1,5 @@
 ---
 title: "Mitchell's Modern Pantry"
 url: /maryborough/mitchells-modern-pantry/
-shop: Bioladen
+shop: health food
 ---

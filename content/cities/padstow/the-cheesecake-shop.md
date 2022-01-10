@@ -1,5 +1,5 @@
 ---
 title: "The Cheesecake Shop"
 url: /padstow/the-cheesecake-shop/
-shop: Bäckerei
+shop: bakery
 ---

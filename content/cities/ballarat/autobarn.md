@@ -1,5 +1,5 @@
 ---
 title: "Autobarn"
 url: /ballarat/autobarn/
-shop: Autoteile
+shop: car parts
 ---

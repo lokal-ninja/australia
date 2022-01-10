@@ -1,5 +1,5 @@
 ---
 title: "Armada Arndale"
 url: /kilkenny/armada-arndale/
-shop: Einkaufszentrum
+shop: mall
 ---

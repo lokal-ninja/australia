@@ -1,5 +1,5 @@
 ---
 title: "Nelson Alexander"
 url: /fitzroy/nelson-alexander/
-shop: Immobilien
+shop: estate agent
 ---

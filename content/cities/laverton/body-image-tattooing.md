@@ -1,5 +1,5 @@
 ---
 title: "Body Image Tattooing"
 url: /laverton/body-image-tattooing/
-shop: Tattoo
+shop: tattoo
 ---

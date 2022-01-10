@@ -1,5 +1,5 @@
 ---
 title: "Century Nails"
 url: /applecross/century-nails/
-shop: Kosmetik
+shop: beauty
 ---

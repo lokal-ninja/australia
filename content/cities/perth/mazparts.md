@@ -1,5 +1,5 @@
 ---
 title: "Mazparts"
 url: /perth/mazparts/
-shop: Autowerkstatt
+shop: car repair
 ---

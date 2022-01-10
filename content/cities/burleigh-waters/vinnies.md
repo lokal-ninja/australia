@@ -1,5 +1,5 @@
 ---
 title: "Vinnies"
 url: /burleigh-waters/vinnies/
-shop: Gebrauchtwaren
+shop: charity
 ---

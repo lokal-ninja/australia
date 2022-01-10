@@ -1,5 +1,5 @@
 ---
 title: "bogong"
 url: /melbourne/bogong/
-shop: Outdoor
+shop: outdoor
 ---

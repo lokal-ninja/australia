@@ -1,5 +1,5 @@
 ---
 title: "Rathdowne Village Grocery Store"
 url: /carlton-north/rathdowne-village-grocery-store/
-shop: Lebensmittel
+shop: convenience
 ---

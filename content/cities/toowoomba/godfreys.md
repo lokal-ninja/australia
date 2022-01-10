@@ -1,5 +1,5 @@
 ---
 title: "Godfreys"
 url: /toowoomba/godfreys/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

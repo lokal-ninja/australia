@@ -1,5 +1,5 @@
 ---
 title: "Hair Crew"
 url: /morphett-vale/hair-crew/
-shop: Friseur
+shop: hairdresser
 ---

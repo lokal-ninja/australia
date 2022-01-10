@@ -1,5 +1,5 @@
 ---
 title: "ABS Automotive Service Centre"
 url: /abbotsford/abs-automotive-service-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

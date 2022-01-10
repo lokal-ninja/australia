@@ -1,5 +1,5 @@
 ---
 title: "King Island Bakehouse"
 url: /currie/king-island-bakehouse/
-shop: Bäckerei
+shop: bakery
 ---

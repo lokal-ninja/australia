@@ -1,5 +1,5 @@
 ---
 title: "Sunny Park"
 url: /brisbane/sunny-park/
-shop: Einkaufszentrum
+shop: mall
 ---

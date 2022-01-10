@@ -1,5 +1,5 @@
 ---
 title: "Coffee Business"
 url: /bendigo/coffee-business/
-shop: Kaffee
+shop: coffee
 ---

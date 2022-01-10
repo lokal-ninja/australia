@@ -1,5 +1,5 @@
 ---
 title: "Officeworks"
 url: /east-victoria-park/officeworks/
-shop: Schreibwaren
+shop: office supplies
 ---

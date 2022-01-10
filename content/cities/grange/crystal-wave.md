@@ -1,5 +1,5 @@
 ---
 title: "Crystal Wave"
 url: /grange/crystal-wave/
-shop: Andenken
+shop: gift
 ---

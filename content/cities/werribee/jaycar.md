@@ -1,5 +1,5 @@
 ---
 title: "Jaycar"
 url: /werribee/jaycar/
-shop: Elektronik
+shop: electronics
 ---

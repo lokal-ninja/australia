@@ -1,5 +1,5 @@
 ---
 title: "All Travel Solutions"
 url: /hay/all-travel-solutions/
-shop: Reisebüro
+shop: travel agency
 ---

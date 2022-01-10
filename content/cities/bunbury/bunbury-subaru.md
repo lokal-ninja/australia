@@ -1,5 +1,5 @@
 ---
 title: "Bunbury Subaru"
 url: /bunbury/bunbury-subaru/
-shop: Autohaus
+shop: car
 ---

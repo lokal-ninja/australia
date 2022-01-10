@@ -1,5 +1,5 @@
 ---
 title: "Picture Box"
 url: /collingwood/picture-box/
-shop: Rahmen
+shop: frame
 ---

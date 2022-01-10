@@ -1,5 +1,5 @@
 ---
 title: "Coles"
 url: /brisbane/coles-2/
-shop: Supermarkt
+shop: supermarket
 ---

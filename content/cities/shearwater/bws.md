@@ -1,5 +1,5 @@
 ---
 title: "BWS"
 url: /shearwater/bws/
-shop: Spirituosen
+shop: alcohol
 ---

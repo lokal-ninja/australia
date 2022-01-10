@@ -1,5 +1,5 @@
 ---
 title: "Mirror Mirror"
 url: /abbotsford/mirror-mirror/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nathan"
 url: /footscray/nathan/
-shop: Lebensmittel
+shop: convenience
 ---

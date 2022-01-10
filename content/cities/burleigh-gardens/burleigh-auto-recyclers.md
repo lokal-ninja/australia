@@ -1,5 +1,5 @@
 ---
 title: "Burleigh Auto Recyclers"
 url: /burleigh-gardens/burleigh-auto-recyclers/
-shop: Autoteile
+shop: car parts
 ---

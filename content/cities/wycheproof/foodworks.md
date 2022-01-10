@@ -1,5 +1,5 @@
 ---
 title: "Foodworks"
 url: /wycheproof/foodworks/
-shop: Supermarkt
+shop: supermarket
 ---

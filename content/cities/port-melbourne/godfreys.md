@@ -1,5 +1,5 @@
 ---
 title: "Godfreys"
 url: /port-melbourne/godfreys/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

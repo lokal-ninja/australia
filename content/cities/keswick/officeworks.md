@@ -1,5 +1,5 @@
 ---
 title: "Officeworks"
 url: /keswick/officeworks/
-shop: Schreibwaren
+shop: office supplies
 ---

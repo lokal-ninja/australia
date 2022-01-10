@@ -1,5 +1,5 @@
 ---
 title: "Honeyeater"
 url: /bendigo/honeyeater/
-shop: Friseur
+shop: hairdresser
 ---

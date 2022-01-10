@@ -1,5 +1,5 @@
 ---
 title: "Slacklines"
 url: /melbourne/slacklines/
-shop: Sport
+shop: sports
 ---

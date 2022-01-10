@@ -1,5 +1,5 @@
 ---
 title: "Toowoomba Car Wreckers"
 url: /toowoomba/toowoomba-car-wreckers/
-shop: Autoteile
+shop: car parts
 ---

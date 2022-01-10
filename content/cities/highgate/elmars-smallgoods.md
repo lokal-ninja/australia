@@ -1,5 +1,5 @@
 ---
 title: "Elmar's Smallgoods"
 url: /highgate/elmars-smallgoods/
-shop: Metzgerei
+shop: butcher
 ---

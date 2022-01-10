@@ -1,5 +1,5 @@
 ---
 title: "Linea"
 url: /camberwell/linea/
-shop: Friseur
+shop: hairdresser
 ---

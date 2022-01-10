@@ -1,5 +1,5 @@
 ---
 title: "Hairmosphere"
 url: /west-melbourne/hairmosphere/
-shop: Friseur
+shop: hairdresser
 ---

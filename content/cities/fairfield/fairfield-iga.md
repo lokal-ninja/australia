@@ -1,5 +1,5 @@
 ---
 title: "Fairfield IGA"
 url: /fairfield/fairfield-iga/
-shop: Supermarkt
+shop: supermarket
 ---

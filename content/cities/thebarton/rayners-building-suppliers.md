@@ -1,5 +1,5 @@
 ---
 title: "Rayners Building Suppliers"
 url: /thebarton/rayners-building-suppliers/
-shop: Eisenwaren
+shop: hardware
 ---

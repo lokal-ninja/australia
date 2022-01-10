@@ -1,5 +1,5 @@
 ---
 title: "Harvey Norman"
 url: /bundall/harvey-norman/
-shop: Warenhaus
+shop: department store
 ---

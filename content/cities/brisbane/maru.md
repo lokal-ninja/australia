@@ -1,5 +1,5 @@
 ---
 title: "Maru"
 url: /brisbane/maru/
-shop: Allgemein
+shop: shop
 ---

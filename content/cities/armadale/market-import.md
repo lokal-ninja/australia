@@ -1,5 +1,5 @@
 ---
 title: "Market Import"
 url: /armadale/market-import/
-shop: Haushaltsartikel
+shop: houseware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sonoma Bakery"
 url: /waterloo/sonoma-bakery/
-shop: Bäckerei
+shop: bakery
 ---

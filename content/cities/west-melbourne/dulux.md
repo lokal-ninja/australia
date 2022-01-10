@@ -1,5 +1,5 @@
 ---
 title: "Dulux"
 url: /west-melbourne/dulux/
-shop: Farben
+shop: paint
 ---

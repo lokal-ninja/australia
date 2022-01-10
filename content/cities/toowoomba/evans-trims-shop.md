@@ -1,5 +1,5 @@
 ---
 title: "Evans Trims Shop"
 url: /toowoomba/evans-trims-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Leading Hair"
 url: /kew/leading-hair/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chicken Butcher"
 url: /coffs-harbour/chicken-butcher/
-shop: Metzgerei
+shop: butcher
 ---

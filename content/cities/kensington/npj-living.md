@@ -1,5 +1,5 @@
 ---
 title: "Npj Living"
 url: /kensington/npj-living/
-shop: Haushaltsartikel
+shop: houseware
 ---

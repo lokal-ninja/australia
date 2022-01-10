@@ -1,5 +1,5 @@
 ---
 title: "Hooked Online"
 url: /jacobs-well/hooked-online/
-shop: Angeln
+shop: fishing
 ---

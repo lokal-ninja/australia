@@ -1,5 +1,5 @@
 ---
 title: "Bakers Delight Balwyn"
 url: /balwyn/bakers-delight-balwyn/
-shop: Bäckerei
+shop: bakery
 ---

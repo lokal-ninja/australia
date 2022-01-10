@@ -1,5 +1,5 @@
 ---
 title: "Woolworths"
 url: /canterbury/woolworths/
-shop: Supermarkt
+shop: supermarket
 ---

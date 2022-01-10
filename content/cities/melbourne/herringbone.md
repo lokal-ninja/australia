@@ -1,5 +1,5 @@
 ---
 title: "Herringbone"
 url: /melbourne/herringbone/
-shop: Kleidung
+shop: clothes
 ---

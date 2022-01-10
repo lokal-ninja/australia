@@ -1,5 +1,5 @@
 ---
 title: "Lilliput Wines"
 url: /lilliput/lilliput-wines/
-shop: Wein
+shop: wine
 ---

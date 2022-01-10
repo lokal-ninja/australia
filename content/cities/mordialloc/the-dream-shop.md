@@ -1,5 +1,5 @@
 ---
 title: "The Dream Shop"
 url: /mordialloc/the-dream-shop/
-shop: Zeitungen
+shop: newsagent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tarcutta Textiles"
 url: /tarcutta/tarcutta-textiles/
-shop: Kleidung
+shop: clothes
 ---

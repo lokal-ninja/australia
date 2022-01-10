@@ -1,5 +1,5 @@
 ---
 title: "Strange Neighbour"
 url: /fitzroy/strange-neighbour/
-shop: Kunst
+shop: art
 ---

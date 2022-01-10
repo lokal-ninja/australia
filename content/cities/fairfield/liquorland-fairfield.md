@@ -1,5 +1,5 @@
 ---
 title: "Liquorland Fairfield"
 url: /fairfield/liquorland-fairfield/
-shop: Spirituosen
+shop: alcohol
 ---

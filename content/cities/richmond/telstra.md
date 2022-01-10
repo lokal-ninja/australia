@@ -1,5 +1,5 @@
 ---
 title: "Telstra"
 url: /richmond/telstra/
-shop: Handy
+shop: mobile phone
 ---

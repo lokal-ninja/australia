@@ -1,5 +1,5 @@
 ---
 title: "Action Art"
 url: /tamarama/action-art/
-shop: Andenken
+shop: gift
 ---

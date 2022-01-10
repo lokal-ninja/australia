@@ -1,5 +1,5 @@
 ---
 title: "Royal International Agency"
 url: /blacktown/royal-international-agency/
-shop: Reisebüro
+shop: travel agency
 ---

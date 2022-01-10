@@ -1,5 +1,5 @@
 ---
 title: "Yates Menswear"
 url: /renmark/yates-menswear/
-shop: Kleidung
+shop: clothes
 ---

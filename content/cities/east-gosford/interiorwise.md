@@ -1,5 +1,5 @@
 ---
 title: "Interiorwise"
 url: /east-gosford/interiorwise/
-shop: Möbel
+shop: furniture
 ---

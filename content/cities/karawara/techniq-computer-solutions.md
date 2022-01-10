@@ -1,5 +1,5 @@
 ---
 title: "Techniq Computer Solutions"
 url: /karawara/techniq-computer-solutions/
-shop: Computer
+shop: computer
 ---

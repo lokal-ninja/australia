@@ -1,5 +1,5 @@
 ---
 title: "J.R. Upholstery"
 url: /brunswick/j-r-upholstery/
-shop: Raumausstattung
+shop: interior decoration
 ---

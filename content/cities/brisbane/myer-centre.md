@@ -1,5 +1,5 @@
 ---
 title: "Myer Centre"
 url: /brisbane/myer-centre/
-shop: Einkaufszentrum
+shop: mall
 ---

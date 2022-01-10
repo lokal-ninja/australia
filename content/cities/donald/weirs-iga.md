@@ -1,5 +1,5 @@
 ---
 title: "Weir's IGA"
 url: /donald/weirs-iga/
-shop: Supermarkt
+shop: supermarket
 ---

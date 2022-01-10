@@ -1,5 +1,5 @@
 ---
 title: "Sal’s Pasta Deli"
 url: /applecross/sals-pasta-deli/
-shop: Pasta
+shop: pasta
 ---

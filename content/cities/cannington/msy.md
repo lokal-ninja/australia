@@ -1,5 +1,5 @@
 ---
 title: "MSY"
 url: /cannington/msy/
-shop: Computer
+shop: computer
 ---

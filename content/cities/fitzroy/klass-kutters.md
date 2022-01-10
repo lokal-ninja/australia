@@ -1,5 +1,5 @@
 ---
 title: "Klass Kutters"
 url: /fitzroy/klass-kutters/
-shop: Friseur
+shop: hairdresser
 ---

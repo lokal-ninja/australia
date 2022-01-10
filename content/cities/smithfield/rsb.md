@@ -1,5 +1,5 @@
 ---
 title: "RSB"
 url: /smithfield/rsb/
-shop: Sanitätshaus
+shop: medical supply
 ---

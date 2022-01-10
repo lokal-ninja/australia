@@ -1,5 +1,5 @@
 ---
 title: "Manios Service Centre"
 url: /north-melbourne/manios-service-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

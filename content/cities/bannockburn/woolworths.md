@@ -1,5 +1,5 @@
 ---
 title: "Woolworths"
 url: /bannockburn/woolworths/
-shop: Supermarkt
+shop: supermarket
 ---

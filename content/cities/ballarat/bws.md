@@ -1,5 +1,5 @@
 ---
 title: "BWS"
 url: /ballarat/bws/
-shop: Spirituosen
+shop: alcohol
 ---

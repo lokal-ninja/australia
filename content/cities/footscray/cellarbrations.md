@@ -1,5 +1,5 @@
 ---
 title: "Cellarbrations"
 url: /footscray/cellarbrations/
-shop: Spirituosen
+shop: alcohol
 ---

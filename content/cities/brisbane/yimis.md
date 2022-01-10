@@ -1,5 +1,5 @@
 ---
 title: "Yimis"
 url: /brisbane/yimis/
-shop: Erotik
+shop: erotic
 ---

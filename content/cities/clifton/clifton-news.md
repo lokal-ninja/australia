@@ -1,5 +1,5 @@
 ---
 title: "Clifton News"
 url: /clifton/clifton-news/
-shop: Zeitungen
+shop: newsagent
 ---

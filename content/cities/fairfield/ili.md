@@ -1,5 +1,5 @@
 ---
 title: "Ili"
 url: /fairfield/ili/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Office Plus Furniture"
 url: /abbotsford/office-plus-furniture/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Selvedge Group"
 url: /collingwood/the-selvedge-group/
-shop: Raumausstattung
+shop: interior decoration
 ---

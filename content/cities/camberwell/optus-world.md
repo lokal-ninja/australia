@@ -1,5 +1,5 @@
 ---
 title: "Optus World"
 url: /camberwell/optus-world/
-shop: Handy
+shop: mobile phone
 ---

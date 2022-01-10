@@ -1,5 +1,5 @@
 ---
 title: "Galerie Montmartre"
 url: /fitzroy/galerie-montmartre/
-shop: Kunst
+shop: art
 ---

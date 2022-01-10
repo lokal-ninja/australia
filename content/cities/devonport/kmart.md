@@ -1,5 +1,5 @@
 ---
 title: "Kmart"
 url: /devonport/kmart/
-shop: Warenhaus
+shop: department store
 ---

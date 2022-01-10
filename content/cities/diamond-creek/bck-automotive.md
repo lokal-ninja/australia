@@ -1,5 +1,5 @@
 ---
 title: "BCK Automotive"
 url: /diamond-creek/bck-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

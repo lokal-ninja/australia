@@ -1,5 +1,5 @@
 ---
 title: "Wendouree Salvos"
 url: /ballarat/wendouree-salvos/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Feed Central"
 url: /charlton/feed-central/
-shop: Baustoffe
+shop: trade
 ---

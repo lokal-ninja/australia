@@ -1,5 +1,5 @@
 ---
 title: "Aqua Hair"
 url: /hilton/aqua-hair/
-shop: Friseur
+shop: hairdresser
 ---

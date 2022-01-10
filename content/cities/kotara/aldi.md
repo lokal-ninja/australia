@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /kotara/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

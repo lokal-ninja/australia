@@ -1,5 +1,5 @@
 ---
 title: "Braybrook"
 url: /ballarat/braybrook/
-shop: Autohaus
+shop: car
 ---

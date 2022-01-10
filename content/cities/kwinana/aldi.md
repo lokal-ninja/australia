@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /kwinana/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Allora Butchery"
 url: /allora/allora-butchery/
-shop: Metzgerei
+shop: butcher
 ---

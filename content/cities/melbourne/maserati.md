@@ -1,5 +1,5 @@
 ---
 title: "Maserati"
 url: /melbourne/maserati/
-shop: Autohaus
+shop: car
 ---

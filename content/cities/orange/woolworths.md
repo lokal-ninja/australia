@@ -1,5 +1,5 @@
 ---
 title: "Woolworths"
 url: /orange/woolworths/
-shop: Supermarkt
+shop: supermarket
 ---

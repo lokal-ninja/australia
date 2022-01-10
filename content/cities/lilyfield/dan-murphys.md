@@ -1,5 +1,5 @@
 ---
 title: "Dan Murphy's"
 url: /lilyfield/dan-murphys/
-shop: Spirituosen
+shop: alcohol
 ---

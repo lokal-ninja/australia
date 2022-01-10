@@ -1,5 +1,5 @@
 ---
 title: "Marrickville Metro"
 url: /marrickville/marrickville-metro/
-shop: Einkaufszentrum
+shop: mall
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aesop"
 url: /fitzroy/aesop/
-shop: Kosmetik
+shop: beauty
 ---

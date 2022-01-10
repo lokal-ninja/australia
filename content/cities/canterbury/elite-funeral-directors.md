@@ -1,5 +1,5 @@
 ---
 title: "Elite Funeral Directors"
 url: /canterbury/elite-funeral-directors/
-shop: Bestattungen
+shop: funeral directors
 ---

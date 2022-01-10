@@ -1,5 +1,5 @@
 ---
 title: "pcplanIT"
 url: /mornington/pcplanit/
-shop: Computer
+shop: computer
 ---

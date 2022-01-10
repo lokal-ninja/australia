@@ -1,5 +1,5 @@
 ---
 title: "Beggar Man Thief"
 url: /south-melbourne/beggar-man-thief/
-shop: Schuhe
+shop: shoes
 ---

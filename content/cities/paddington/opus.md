@@ -1,5 +1,5 @@
 ---
 title: "Opus"
 url: /paddington/opus/
-shop: Haushaltsartikel
+shop: houseware
 ---

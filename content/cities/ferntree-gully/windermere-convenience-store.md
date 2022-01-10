@@ -1,5 +1,5 @@
 ---
 title: "Windermere Convenience Store"
 url: /ferntree-gully/windermere-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

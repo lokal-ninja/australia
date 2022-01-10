@@ -1,5 +1,5 @@
 ---
 title: "Country k9 Parlor"
 url: /cobargo/country-k9-parlor/
-shop: Tiersalon
+shop: pet grooming
 ---

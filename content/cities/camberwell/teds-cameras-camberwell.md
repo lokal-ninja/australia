@@ -1,5 +1,5 @@
 ---
 title: "Ted's Cameras Camberwell"
 url: /camberwell/teds-cameras-camberwell/
-shop: Foto
+shop: photo
 ---

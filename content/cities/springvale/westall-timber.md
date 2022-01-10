@@ -1,5 +1,5 @@
 ---
 title: "Westall Timber"
 url: /springvale/westall-timber/
-shop: Baumarkt
+shop: doityourself
 ---

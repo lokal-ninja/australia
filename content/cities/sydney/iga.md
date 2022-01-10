@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /sydney/iga/
-shop: Supermarkt
+shop: supermarket
 ---

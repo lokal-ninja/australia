@@ -1,5 +1,5 @@
 ---
 title: "Nobby General Store"
 url: /nobby/nobby-general-store/
-shop: Allgemein
+shop: shop
 ---

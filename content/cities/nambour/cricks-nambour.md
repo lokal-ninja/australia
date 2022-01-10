@@ -1,5 +1,5 @@
 ---
 title: "Cricks Nambour"
 url: /nambour/cricks-nambour/
-shop: Autohaus
+shop: car
 ---

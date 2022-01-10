@@ -1,5 +1,5 @@
 ---
 title: "Officeworks"
 url: /kotara/officeworks/
-shop: Schreibwaren
+shop: office supplies
 ---

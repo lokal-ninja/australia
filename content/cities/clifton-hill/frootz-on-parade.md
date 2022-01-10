@@ -1,5 +1,5 @@
 ---
 title: "Frootz on Parade"
 url: /clifton-hill/frootz-on-parade/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eyes On Brighton"
 url: /brighton/eyes-on-brighton/
-shop: Optiker
+shop: optician
 ---

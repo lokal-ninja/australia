@@ -1,5 +1,5 @@
 ---
 title: "Bikeforce Balcatta"
 url: /balcatta/bikeforce-balcatta/
-shop: Fahrrad
+shop: bicycle
 ---

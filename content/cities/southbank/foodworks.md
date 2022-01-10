@@ -1,5 +1,5 @@
 ---
 title: "Foodworks"
 url: /southbank/foodworks/
-shop: Supermarkt
+shop: supermarket
 ---

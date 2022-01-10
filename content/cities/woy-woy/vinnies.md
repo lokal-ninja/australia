@@ -1,5 +1,5 @@
 ---
 title: "Vinnies"
 url: /woy-woy/vinnies/
-shop: Gebrauchtwaren
+shop: charity
 ---

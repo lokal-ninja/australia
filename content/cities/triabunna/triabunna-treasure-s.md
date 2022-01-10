@@ -1,5 +1,5 @@
 ---
 title: "Triabunna Treasure´s"
 url: /triabunna/triabunna-treasure-s/
-shop: Andenken
+shop: gift
 ---

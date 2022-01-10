@@ -1,5 +1,5 @@
 ---
 title: "Harvey Norman"
 url: /taylors-lakes/harvey-norman/
-shop: Warenhaus
+shop: department store
 ---

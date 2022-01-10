@@ -1,5 +1,5 @@
 ---
 title: "Regal Wheel Alignment"
 url: /thebarton/regal-wheel-alignment/
-shop: Autowerkstatt
+shop: car repair
 ---

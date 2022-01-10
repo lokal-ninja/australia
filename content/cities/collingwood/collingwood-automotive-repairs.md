@@ -1,5 +1,5 @@
 ---
 title: "Collingwood Automotive Repairs"
 url: /collingwood/collingwood-automotive-repairs/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Liquorland"
 url: /eltham/liquorland/
-shop: Spirituosen
+shop: alcohol
 ---

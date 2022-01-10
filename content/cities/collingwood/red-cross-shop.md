@@ -1,5 +1,5 @@
 ---
 title: "Red Cross Shop"
 url: /collingwood/red-cross-shop/
-shop: Gebrauchtwaren
+shop: charity
 ---

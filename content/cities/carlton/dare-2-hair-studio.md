@@ -1,5 +1,5 @@
 ---
 title: "Dare 2 Hair Studio"
 url: /carlton/dare-2-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

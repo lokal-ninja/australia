@@ -1,5 +1,5 @@
 ---
 title: "Dent Services"
 url: /toowoomba/dent-services/
-shop: Autowerkstatt
+shop: car repair
 ---

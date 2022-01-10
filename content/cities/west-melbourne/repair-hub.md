@@ -1,5 +1,5 @@
 ---
 title: "Repair Hub"
 url: /west-melbourne/repair-hub/
-shop: Autowerkstatt
+shop: car repair
 ---

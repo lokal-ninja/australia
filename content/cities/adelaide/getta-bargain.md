@@ -1,5 +1,5 @@
 ---
 title: "Getta Bargain"
 url: /adelaide/getta-bargain/
-shop: Kramladen
+shop: variety store
 ---

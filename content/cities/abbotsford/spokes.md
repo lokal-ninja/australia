@@ -1,5 +1,5 @@
 ---
 title: "Spokes"
 url: /abbotsford/spokes/
-shop: Fahrrad
+shop: bicycle
 ---

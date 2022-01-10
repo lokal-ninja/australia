@@ -1,5 +1,5 @@
 ---
 title: "Professional in Nail"
 url: /adelaide/professional-in-nail/
-shop: Kosmetik
+shop: beauty
 ---

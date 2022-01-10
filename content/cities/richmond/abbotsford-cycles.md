@@ -1,5 +1,5 @@
 ---
 title: "Abbotsford Cycles"
 url: /richmond/abbotsford-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

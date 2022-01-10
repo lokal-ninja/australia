@@ -1,5 +1,5 @@
 ---
 title: "Upmarket Pets"
 url: /melbourne/upmarket-pets/
-shop: Tiere
+shop: pet
 ---

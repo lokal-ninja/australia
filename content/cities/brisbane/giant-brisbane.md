@@ -1,5 +1,5 @@
 ---
 title: "Giant Brisbane"
 url: /brisbane/giant-brisbane/
-shop: Fahrrad
+shop: bicycle
 ---

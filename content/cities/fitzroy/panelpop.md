@@ -1,5 +1,5 @@
 ---
 title: "PanelPop"
 url: /fitzroy/panelpop/
-shop: Kunst
+shop: art
 ---

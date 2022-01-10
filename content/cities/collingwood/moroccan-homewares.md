@@ -1,5 +1,5 @@
 ---
 title: "Moroccan Homewares"
 url: /collingwood/moroccan-homewares/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hot Bargains"
 url: /preston/hot-bargains/
-shop: Kramladen
+shop: variety store
 ---

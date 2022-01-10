@@ -1,5 +1,5 @@
 ---
 title: "Barber King"
 url: /hobart/barber-king/
-shop: Friseur
+shop: hairdresser
 ---

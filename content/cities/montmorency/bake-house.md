@@ -1,5 +1,5 @@
 ---
 title: "Bake House"
 url: /montmorency/bake-house/
-shop: Bäckerei
+shop: bakery
 ---

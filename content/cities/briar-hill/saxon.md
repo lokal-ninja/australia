@@ -1,5 +1,5 @@
 ---
 title: "Saxon"
 url: /briar-hill/saxon/
-shop: Friseur
+shop: hairdresser
 ---

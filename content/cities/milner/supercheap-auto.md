@@ -1,5 +1,5 @@
 ---
 title: "Supercheap Auto"
 url: /milner/supercheap-auto/
-shop: Autoteile
+shop: car parts
 ---

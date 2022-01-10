@@ -1,5 +1,5 @@
 ---
 title: "Laverton Spices"
 url: /laverton/laverton-spices/
-shop: Lebensmittel
+shop: convenience
 ---

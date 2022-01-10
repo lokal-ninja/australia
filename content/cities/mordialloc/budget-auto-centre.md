@@ -1,5 +1,5 @@
 ---
 title: "Budget Auto Centre"
 url: /mordialloc/budget-auto-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "co-studio"
 url: /collingwood/co-studio/
-shop: Friseur
+shop: hairdresser
 ---

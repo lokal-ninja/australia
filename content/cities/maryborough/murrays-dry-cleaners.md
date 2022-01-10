@@ -1,5 +1,5 @@
 ---
 title: "Murray's Dry Cleaners"
 url: /maryborough/murrays-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

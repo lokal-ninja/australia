@@ -1,5 +1,5 @@
 ---
 title: "B Masters Plumbing"
 url: /mordialloc/b-masters-plumbing/
-shop: Baustoffe
+shop: trade
 ---

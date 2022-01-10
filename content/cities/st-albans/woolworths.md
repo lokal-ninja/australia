@@ -1,5 +1,5 @@
 ---
 title: "Woolworths"
 url: /st-albans/woolworths/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Reject Shop"
 url: /corowa/reject-shop/
-shop: Warenhaus
+shop: department store
 ---

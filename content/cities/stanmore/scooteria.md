@@ -1,5 +1,5 @@
 ---
 title: "Scooteria"
 url: /stanmore/scooteria/
-shop: Motorrad
+shop: motorcycle
 ---

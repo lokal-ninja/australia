@@ -1,5 +1,5 @@
 ---
 title: "Seawitch Images"
 url: /port-adelaide/seawitch-images/
-shop: Allgemein
+shop: shop
 ---

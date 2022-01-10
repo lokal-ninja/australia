@@ -1,5 +1,5 @@
 ---
 title: "Ravensthorpe IGA"
 url: /ravensthorpe/ravensthorpe-iga/
-shop: Supermarkt
+shop: supermarket
 ---

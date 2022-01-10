@@ -1,5 +1,5 @@
 ---
 title: "Godfreys"
 url: /kelso/godfreys/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zedi"
 url: /fitzroy/zedi/
-shop: Friseur
+shop: hairdresser
 ---

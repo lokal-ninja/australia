@@ -1,5 +1,5 @@
 ---
 title: "Spring Bay Pharmacy"
 url: /triabunna/spring-bay-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Elegant Slax"
 url: /port-melboune/elegant-slax/
-shop: Kleidung
+shop: clothes
 ---

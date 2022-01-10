@@ -1,5 +1,5 @@
 ---
 title: "Super Amart"
 url: /wendouree/super-amart/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lance Dixon Service"
 url: /collingwood/lance-dixon-service/
-shop: Autowerkstatt
+shop: car repair
 ---

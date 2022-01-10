@@ -1,5 +1,5 @@
 ---
 title: "Camping World"
 url: /maryborough/camping-world/
-shop: Outdoor
+shop: outdoor
 ---

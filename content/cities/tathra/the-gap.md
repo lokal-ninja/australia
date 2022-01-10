@@ -1,5 +1,5 @@
 ---
 title: "The Gap"
 url: /tathra/the-gap/
-shop: Allgemein
+shop: shop
 ---

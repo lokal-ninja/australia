@@ -1,5 +1,5 @@
 ---
 title: "Beaurepaires"
 url: /footscray/beaurepaires/
-shop: Autowerkstatt
+shop: car repair
 ---

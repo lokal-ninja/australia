@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /shearwater/iga/
-shop: Supermarkt
+shop: supermarket
 ---

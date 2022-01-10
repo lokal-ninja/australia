@@ -1,5 +1,5 @@
 ---
 title: "Lindsay's Tyres"
 url: /mount-evelyn/lindsays-tyres/
-shop: Autowerkstatt
+shop: car repair
 ---

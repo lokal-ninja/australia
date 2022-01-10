@@ -1,5 +1,5 @@
 ---
 title: "Bengal Traders"
 url: /oakleigh/bengal-traders/
-shop: Lebensmittel
+shop: convenience
 ---

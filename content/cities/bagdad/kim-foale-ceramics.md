@@ -1,5 +1,5 @@
 ---
 title: "Kim Foale Ceramics"
 url: /bagdad/kim-foale-ceramics/
-shop: Andenken
+shop: gift
 ---

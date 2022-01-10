@@ -1,5 +1,5 @@
 ---
 title: "Tyrepower"
 url: /logan/tyrepower/
-shop: Reifen
+shop: tyres
 ---

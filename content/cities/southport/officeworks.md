@@ -1,5 +1,5 @@
 ---
 title: "Officeworks"
 url: /southport/officeworks/
-shop: Schreibwaren
+shop: office supplies
 ---

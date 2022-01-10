@@ -1,5 +1,5 @@
 ---
 title: "Basalt Rock Cottage Nursery"
 url: /daylesford/basalt-rock-cottage-nursery/
-shop: Garten-Center
+shop: garden centre
 ---

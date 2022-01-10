@@ -1,5 +1,5 @@
 ---
 title: "Critical Hit"
 url: /melbourne/critical-hit/
-shop: Sammler
+shop: collector
 ---

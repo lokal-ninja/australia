@@ -1,5 +1,5 @@
 ---
 title: "Aralia Supermarket"
 url: /nightcliff/aralia-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

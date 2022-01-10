@@ -1,5 +1,5 @@
 ---
 title: "Beaurepaires"
 url: /hornsby/beaurepaires/
-shop: Autoteile
+shop: car parts
 ---

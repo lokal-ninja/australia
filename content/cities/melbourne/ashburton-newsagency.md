@@ -1,5 +1,5 @@
 ---
 title: "Ashburton Newsagency"
 url: /melbourne/ashburton-newsagency/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Red Cross"
 url: /coffs-harbour/red-cross/
-shop: Gebrauchtwaren
+shop: charity
 ---

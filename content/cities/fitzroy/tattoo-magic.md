@@ -1,5 +1,5 @@
 ---
 title: "Tattoo Magic"
 url: /fitzroy/tattoo-magic/
-shop: Tattoo
+shop: tattoo
 ---

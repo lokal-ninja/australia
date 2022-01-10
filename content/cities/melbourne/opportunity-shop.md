@@ -1,5 +1,5 @@
 ---
 title: "Opportunity Shop"
 url: /melbourne/opportunity-shop/
-shop: Gebrauchtwaren
+shop: charity
 ---

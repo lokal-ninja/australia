@@ -1,5 +1,5 @@
 ---
 title: "Friendly Grocer"
 url: /newport/friendly-grocer/
-shop: Lebensmittel
+shop: convenience
 ---

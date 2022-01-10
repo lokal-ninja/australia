@@ -1,5 +1,5 @@
 ---
 title: "Woolworths"
 url: /pakenham/woolworths/
-shop: Supermarkt
+shop: supermarket
 ---

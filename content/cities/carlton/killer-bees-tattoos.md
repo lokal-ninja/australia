@@ -1,5 +1,5 @@
 ---
 title: "Killer Bees Tattoos"
 url: /carlton/killer-bees-tattoos/
-shop: Tattoo
+shop: tattoo
 ---

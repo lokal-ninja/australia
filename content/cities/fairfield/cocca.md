@@ -1,5 +1,5 @@
 ---
 title: "Cocca"
 url: /fairfield/cocca/
-shop: Friseur
+shop: hairdresser
 ---

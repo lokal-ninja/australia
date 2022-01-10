@@ -1,5 +1,5 @@
 ---
 title: "The Reject Shop"
 url: /bendigo/the-reject-shop/
-shop: Kramladen
+shop: variety store
 ---

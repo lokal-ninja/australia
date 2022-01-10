@@ -1,5 +1,5 @@
 ---
 title: "Workwear Division"
 url: /tuggerah/workwear-division/
-shop: Kleidung
+shop: clothes
 ---

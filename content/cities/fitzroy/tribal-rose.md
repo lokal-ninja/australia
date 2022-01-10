@@ -1,5 +1,5 @@
 ---
 title: "Tribal Rose"
 url: /fitzroy/tribal-rose/
-shop: Blumen
+shop: florist
 ---

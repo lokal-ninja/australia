@@ -1,5 +1,5 @@
 ---
 title: "Wilga Clothing"
 url: /fitzroy/wilga-clothing/
-shop: Kleidung
+shop: clothes
 ---

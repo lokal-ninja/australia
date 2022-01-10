@@ -1,5 +1,5 @@
 ---
 title: "IGA X-press Ouse"
 url: /ouse/iga-x-press-ouse/
-shop: Lebensmittel
+shop: convenience
 ---

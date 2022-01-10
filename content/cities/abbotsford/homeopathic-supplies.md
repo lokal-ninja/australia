@@ -1,5 +1,5 @@
 ---
 title: "Homeopathic Supplies"
 url: /abbotsford/homeopathic-supplies/
-shop: Allgemein
+shop: shop
 ---

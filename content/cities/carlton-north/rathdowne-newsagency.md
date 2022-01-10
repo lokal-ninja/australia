@@ -1,5 +1,5 @@
 ---
 title: "Rathdowne Newsagency"
 url: /carlton-north/rathdowne-newsagency/
-shop: Zeitungen
+shop: newsagent
 ---

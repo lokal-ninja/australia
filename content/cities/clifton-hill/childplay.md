@@ -1,5 +1,5 @@
 ---
 title: "Childplay"
 url: /clifton-hill/childplay/
-shop: Spielzeug
+shop: toys
 ---

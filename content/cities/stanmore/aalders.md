@@ -1,5 +1,5 @@
 ---
 title: "Aalders"
 url: /stanmore/aalders/
-shop: Antiquitäten
+shop: antiques
 ---

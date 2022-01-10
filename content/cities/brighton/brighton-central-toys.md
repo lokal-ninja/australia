@@ -1,5 +1,5 @@
 ---
 title: "Brighton Central Toys"
 url: /brighton/brighton-central-toys/
-shop: Spielzeug
+shop: toys
 ---

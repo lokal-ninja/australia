@@ -1,5 +1,5 @@
 ---
 title: "Foodland"
 url: /peterborough/foodland/
-shop: Supermarkt
+shop: supermarket
 ---

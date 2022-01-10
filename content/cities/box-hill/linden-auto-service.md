@@ -1,5 +1,5 @@
 ---
 title: "Linden Auto Service"
 url: /box-hill/linden-auto-service/
-shop: Lebensmittel
+shop: convenience
 ---

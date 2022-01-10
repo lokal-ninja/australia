@@ -1,5 +1,5 @@
 ---
 title: "Jools For Jim"
 url: /bendigo/jools-for-jim/
-shop: Kosmetik
+shop: beauty
 ---

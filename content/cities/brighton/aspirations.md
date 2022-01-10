@@ -1,5 +1,5 @@
 ---
 title: "Aspirations"
 url: /brighton/aspirations/
-shop: Kleidung
+shop: clothes
 ---

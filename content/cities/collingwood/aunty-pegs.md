@@ -1,5 +1,5 @@
 ---
 title: "Aunty Peg's"
 url: /collingwood/aunty-pegs/
-shop: Allgemein
+shop: shop
 ---

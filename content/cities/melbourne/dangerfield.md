@@ -1,5 +1,5 @@
 ---
 title: "Dangerfield"
 url: /melbourne/dangerfield/
-shop: Kleidung
+shop: clothes
 ---

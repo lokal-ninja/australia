@@ -1,5 +1,5 @@
 ---
 title: "Laundrette"
 url: /thornbury/laundrette/
-shop: Wäscherei
+shop: laundry
 ---

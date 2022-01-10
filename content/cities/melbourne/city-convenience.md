@@ -1,5 +1,5 @@
 ---
 title: "City Convenience"
 url: /melbourne/city-convenience/
-shop: Lebensmittel
+shop: convenience
 ---

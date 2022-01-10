@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /green-point/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

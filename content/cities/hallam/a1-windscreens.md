@@ -1,5 +1,5 @@
 ---
 title: "A1 Windscreens"
 url: /hallam/a1-windscreens/
-shop: Autowerkstatt
+shop: car repair
 ---

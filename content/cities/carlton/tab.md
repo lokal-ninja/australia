@@ -1,5 +1,5 @@
 ---
 title: "TAB"
 url: /carlton/tab/
-shop: Wettbüro
+shop: bookmaker
 ---

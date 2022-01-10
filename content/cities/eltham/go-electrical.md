@@ -1,5 +1,5 @@
 ---
 title: "Go Electrical"
 url: /eltham/go-electrical/
-shop: Baustoffe
+shop: trade
 ---

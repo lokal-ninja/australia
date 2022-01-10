@@ -1,5 +1,5 @@
 ---
 title: "Lyn's Shoetique"
 url: /armidale/lyns-shoetique/
-shop: Schuhe
+shop: shoes
 ---

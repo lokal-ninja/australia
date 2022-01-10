@@ -1,5 +1,5 @@
 ---
 title: "ufs Pharmacy"
 url: /beaufort/ufs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

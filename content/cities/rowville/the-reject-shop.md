@@ -1,5 +1,5 @@
 ---
 title: "The Reject Shop"
 url: /rowville/the-reject-shop/
-shop: Kramladen
+shop: variety store
 ---

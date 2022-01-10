@@ -1,5 +1,5 @@
 ---
 title: "Vicquote Roadworthy"
 url: /fitzroy/vicquote-roadworthy/
-shop: Autowerkstatt
+shop: car repair
 ---

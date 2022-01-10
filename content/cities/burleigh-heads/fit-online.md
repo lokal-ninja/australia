@@ -1,5 +1,5 @@
 ---
 title: "Fit Online"
 url: /burleigh-heads/fit-online/
-shop: Outdoor
+shop: outdoor
 ---

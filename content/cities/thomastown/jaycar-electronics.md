@@ -1,5 +1,5 @@
 ---
 title: "Jaycar Electronics"
 url: /thomastown/jaycar-electronics/
-shop: Elektronik
+shop: electronics
 ---

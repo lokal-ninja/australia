@@ -1,5 +1,5 @@
 ---
 title: "The Motor House"
 url: /delegate/the-motor-house/
-shop: Autowerkstatt
+shop: car repair
 ---

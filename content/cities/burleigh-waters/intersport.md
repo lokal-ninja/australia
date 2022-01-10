@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /burleigh-waters/intersport/
-shop: Sport
+shop: sports
 ---

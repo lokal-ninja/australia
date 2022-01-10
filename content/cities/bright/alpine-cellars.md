@@ -1,5 +1,5 @@
 ---
 title: "Alpine Cellars"
 url: /bright/alpine-cellars/
-shop: Spirituosen
+shop: alcohol
 ---

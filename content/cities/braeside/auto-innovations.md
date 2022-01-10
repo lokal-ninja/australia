@@ -1,5 +1,5 @@
 ---
 title: "Auto Innovations"
 url: /braeside/auto-innovations/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Men’s Biz"
 url: /docklands/mens-biz/
-shop: Friseur
+shop: hairdresser
 ---

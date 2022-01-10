@@ -1,5 +1,5 @@
 ---
 title: "Onslow Hardware"
 url: /onslow/onslow-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

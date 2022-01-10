@@ -1,5 +1,5 @@
 ---
 title: "Home Hardware"
 url: /bendigo/home-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

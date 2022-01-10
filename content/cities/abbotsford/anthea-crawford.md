@@ -1,5 +1,5 @@
 ---
 title: "Anthea Crawford"
 url: /abbotsford/anthea-crawford/
-shop: Modehaus
+shop: boutique
 ---

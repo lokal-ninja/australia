@@ -1,5 +1,5 @@
 ---
 title: "Northgate Shopping Centre"
 url: /geraldton/northgate-shopping-centre/
-shop: Einkaufszentrum
+shop: mall
 ---

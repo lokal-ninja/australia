@@ -1,5 +1,5 @@
 ---
 title: "Yeomans Rentals"
 url: /ballarat/yeomans-rentals/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Side Show Design"
 url: /fairfield/side-show-design/
-shop: Kleidung
+shop: clothes
 ---

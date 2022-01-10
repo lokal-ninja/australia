@@ -1,5 +1,5 @@
 ---
 title: "Supercheap Auto Cairns"
 url: /earlville/supercheap-auto-cairns/
-shop: Autoteile
+shop: car parts
 ---

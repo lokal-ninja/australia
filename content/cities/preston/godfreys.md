@@ -1,5 +1,5 @@
 ---
 title: "Godfreys"
 url: /preston/godfreys/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

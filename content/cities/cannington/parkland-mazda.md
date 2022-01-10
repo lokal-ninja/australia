@@ -1,5 +1,5 @@
 ---
 title: "Parkland Mazda"
 url: /cannington/parkland-mazda/
-shop: Autohaus
+shop: car
 ---

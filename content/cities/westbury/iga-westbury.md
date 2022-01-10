@@ -1,5 +1,5 @@
 ---
 title: "IGA Westbury"
 url: /westbury/iga-westbury/
-shop: Supermarkt
+shop: supermarket
 ---

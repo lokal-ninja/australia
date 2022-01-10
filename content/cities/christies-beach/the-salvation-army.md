@@ -1,5 +1,5 @@
 ---
 title: "The Salvation Army"
 url: /christies-beach/the-salvation-army/
-shop: Allgemein
+shop: shop
 ---

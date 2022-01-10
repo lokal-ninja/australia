@@ -1,5 +1,5 @@
 ---
 title: "Biba Academy"
 url: /fitzroy/biba-academy/
-shop: Friseur
+shop: hairdresser
 ---

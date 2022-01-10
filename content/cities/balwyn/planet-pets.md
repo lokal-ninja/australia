@@ -1,5 +1,5 @@
 ---
 title: "Planet Pets"
 url: /balwyn/planet-pets/
-shop: Tiere
+shop: pet
 ---

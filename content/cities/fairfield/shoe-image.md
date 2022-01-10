@@ -1,5 +1,5 @@
 ---
 title: "Shoe Image"
 url: /fairfield/shoe-image/
-shop: Schuhe
+shop: shoes
 ---

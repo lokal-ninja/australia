@@ -1,5 +1,5 @@
 ---
 title: "MAYS Exotic Gems"
 url: /south-yarra/mays-exotic-gems/
-shop: Schmuck
+shop: jewelry
 ---

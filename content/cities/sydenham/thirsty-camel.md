@@ -1,5 +1,5 @@
 ---
 title: "Thirsty Camel"
 url: /sydenham/thirsty-camel/
-shop: Spirituosen
+shop: alcohol
 ---

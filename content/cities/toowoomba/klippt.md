@@ -1,5 +1,5 @@
 ---
 title: "Klippt"
 url: /toowoomba/klippt/
-shop: Friseur
+shop: hairdresser
 ---

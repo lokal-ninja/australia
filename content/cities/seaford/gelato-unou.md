@@ -1,5 +1,5 @@
 ---
 title: "Gelato Unou"
 url: /seaford/gelato-unou/
-shop: Eisprodukte
+shop: ice cream
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Freedom"
 url: /wendouree/freedom/
-shop: Möbel
+shop: furniture
 ---

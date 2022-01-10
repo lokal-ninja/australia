@@ -1,5 +1,5 @@
 ---
 title: "Bridgestone"
 url: /stanmore/bridgestone/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Florsheim"
 url: /melbourne/florsheim/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rockbank Discount Nursery"
 url: /rockbank/rockbank-discount-nursery/
-shop: Garten-Center
+shop: garden centre
 ---

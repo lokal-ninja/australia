@@ -1,5 +1,5 @@
 ---
 title: "Firucci"
 url: /abbotsford/firucci/
-shop: Kleidung
+shop: clothes
 ---

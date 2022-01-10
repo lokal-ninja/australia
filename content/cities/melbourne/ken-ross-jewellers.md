@@ -1,5 +1,5 @@
 ---
 title: "Ken Ross Jewellers"
 url: /melbourne/ken-ross-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

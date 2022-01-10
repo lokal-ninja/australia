@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /coffs-harbour/specsavers/
-shop: Optiker
+shop: optician
 ---

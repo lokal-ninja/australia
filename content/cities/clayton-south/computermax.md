@@ -1,5 +1,5 @@
 ---
 title: "Computermax"
 url: /clayton-south/computermax/
-shop: Computer
+shop: computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Novar Gardens Newsagency"
 url: /novar-gardens/novar-gardens-newsagency/
-shop: Zeitungen
+shop: newsagent
 ---

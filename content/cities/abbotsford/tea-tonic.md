@@ -1,5 +1,5 @@
 ---
 title: "Tea Tonic"
 url: /abbotsford/tea-tonic/
-shop: Tee
+shop: tea
 ---

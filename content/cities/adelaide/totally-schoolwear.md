@@ -1,5 +1,5 @@
 ---
 title: "Totally Schoolwear"
 url: /adelaide/totally-schoolwear/
-shop: Kleidung
+shop: clothes
 ---

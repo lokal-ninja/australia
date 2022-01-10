@@ -1,5 +1,5 @@
 ---
 title: "UltraTune East Melbourne"
 url: /fitzroy/ultratune-east-melbourne/
-shop: Autowerkstatt
+shop: car repair
 ---

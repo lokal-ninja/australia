@@ -1,5 +1,5 @@
 ---
 title: "Barbers On Burke"
 url: /camberwell/barbers-on-burke/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Camera House"
 url: /mount-gambier/camera-house/
-shop: Foto
+shop: photo
 ---

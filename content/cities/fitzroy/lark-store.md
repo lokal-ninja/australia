@@ -1,5 +1,5 @@
 ---
 title: "Lark Store"
 url: /fitzroy/lark-store/
-shop: Andenken
+shop: gift
 ---

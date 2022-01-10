@@ -1,5 +1,5 @@
 ---
 title: "Vintage Cellars Cottesloe"
 url: /cottesloe/vintage-cellars-cottesloe/
-shop: Spirituosen
+shop: alcohol
 ---

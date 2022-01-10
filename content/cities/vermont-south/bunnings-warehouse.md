@@ -1,5 +1,5 @@
 ---
 title: "Bunnings Warehouse"
 url: /vermont-south/bunnings-warehouse/
-shop: Baumarkt
+shop: doityourself
 ---

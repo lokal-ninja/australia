@@ -1,5 +1,5 @@
 ---
 title: "Salvos Stores"
 url: /smithfield/salvos-stores/
-shop: Gebrauchtwaren
+shop: charity
 ---

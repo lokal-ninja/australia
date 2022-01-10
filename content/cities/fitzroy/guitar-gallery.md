@@ -1,5 +1,5 @@
 ---
 title: "Guitar Gallery"
 url: /fitzroy/guitar-gallery/
-shop: Instrumente
+shop: musical instrument
 ---

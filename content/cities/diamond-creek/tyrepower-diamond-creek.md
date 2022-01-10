@@ -1,5 +1,5 @@
 ---
 title: "Tyrepower Diamond Creek"
 url: /diamond-creek/tyrepower-diamond-creek/
-shop: Reifen
+shop: tyres
 ---

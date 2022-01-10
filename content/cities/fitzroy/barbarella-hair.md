@@ -1,5 +1,5 @@
 ---
 title: "Barbarella Hair"
 url: /fitzroy/barbarella-hair/
-shop: Friseur
+shop: hairdresser
 ---

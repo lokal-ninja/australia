@@ -1,5 +1,5 @@
 ---
 title: "Woolworths"
 url: /tamworth/woolworths/
-shop: Supermarkt
+shop: supermarket
 ---

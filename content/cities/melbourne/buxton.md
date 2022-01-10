@@ -1,5 +1,5 @@
 ---
 title: "Buxton"
 url: /melbourne/buxton/
-shop: Immobilien
+shop: estate agent
 ---

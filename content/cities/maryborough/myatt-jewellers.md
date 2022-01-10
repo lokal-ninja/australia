@@ -1,5 +1,5 @@
 ---
 title: "Myatt Jewellers"
 url: /maryborough/myatt-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

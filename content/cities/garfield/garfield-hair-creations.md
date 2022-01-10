@@ -1,5 +1,5 @@
 ---
 title: "Garfield Hair Creations"
 url: /garfield/garfield-hair-creations/
-shop: Friseur
+shop: hairdresser
 ---

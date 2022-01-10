@@ -1,5 +1,5 @@
 ---
 title: "Nillumbik Auto Electrical"
 url: /diamond-creek/nillumbik-auto-electrical/
-shop: Autowerkstatt
+shop: car repair
 ---
