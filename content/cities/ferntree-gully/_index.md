@@ -1,6 +1,6 @@
 ---
 title: Ferntree Gully
 url: /ferntree-gully/
-latitude: -37.879
-longitude: 145.284
+latitude: -37.895
+longitude: 145.262
 ---
