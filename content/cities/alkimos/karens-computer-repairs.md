@@ -1,5 +1,5 @@
 ---
 title: "Karen’s Computer Repairs"
-url: /jindalee/karens-computer-repairs/
+url: /alkimos/karens-computer-repairs/
 shop: computer
 ---
