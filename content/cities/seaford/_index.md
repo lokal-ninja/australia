@@ -1,6 +1,6 @@
 ---
 title: Seaford
 url: /seaford/
-latitude: -38.104
-longitude: 145.126
+latitude: -38.113
+longitude: 145.134
 ---
