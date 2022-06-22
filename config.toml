@@ -1,4 +1,4 @@
-baseURL = "https://au.shoogle.net/australia"
+baseURL = "https://au.shoogle.net/australia/"
 languageCode = "en-US"
 title = "Australia"
 theme = "ln-base"
