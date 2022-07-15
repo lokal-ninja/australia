@@ -1,5 +1,5 @@
 ---
 title: "Maryborough Shed Shop"
 url: /maryborough/maryborough-shed-shop/
-shop: shop
+shop: garden furniture
 ---
