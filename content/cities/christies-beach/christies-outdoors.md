@@ -1,5 +1,5 @@
 ---
 title: "Christies Outdoors"
 url: /christies-beach/christies-outdoors/
-shop: shop
+shop: outdoor
 ---
