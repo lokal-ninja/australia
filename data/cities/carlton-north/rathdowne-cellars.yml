@@ -7,5 +7,5 @@ city: Carlton North
 street: "Rathdowne Street"
 housenumber: 348
 phone: "+61 03 9349 3366"
-opening_hours: "Mo-We 10:00-19:00; Th-Sa 10:00-21:00; Su 11:00-19:00"
+opening_hours: "Mo-We,Su 11:00-19:00; Th-Sa 11:00-21:00"
 website: "https://www.rathdownecellars.com.au"
