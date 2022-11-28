@@ -1,6 +1,6 @@
 ---
 title: Penrith
 url: /penrith/
-latitude: -33.754
-longitude: 150.705
+latitude: -33.753
+longitude: 150.69
 ---
