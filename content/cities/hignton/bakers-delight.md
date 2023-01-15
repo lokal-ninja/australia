@@ -1,5 +1,5 @@
 ---
 title: "Bakers Delight"
-url: /belmont/bakers-delight/
+url: /hignton/bakers-delight/
 shop: bakery
 ---
