@@ -1,5 +1,5 @@
 ---
 title: "St Luke Artists Colourmen"
-url: /collingwood/st-luke-artists-colourmen/
+url: /fitzroy/st-luke-artists-colourmen/
 shop: craft
 ---
