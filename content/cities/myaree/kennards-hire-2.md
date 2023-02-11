@@ -1,5 +1,5 @@
 ---
 title: "Kennards Hire"
-url: /myaree/kennards-hire-2/
+url: /myaree/kennards-hire/
 shop: hardware
 ---
