@@ -1,6 +1,6 @@
 ---
 title: Manjimup
 url: /manjimup/
-latitude: -34.251
-longitude: 116.145
+latitude: -34.24
+longitude: 116.146
 ---
