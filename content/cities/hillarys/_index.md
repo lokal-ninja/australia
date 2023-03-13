@@ -1,6 +1,6 @@
 ---
 title: Hillarys
 url: /hillarys/
-latitude: -31.797
-longitude: 115.744
+latitude: -31.798
+longitude: 115.745
 ---
