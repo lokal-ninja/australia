@@ -1,6 +1,6 @@
 ---
 title: Mentone
 url: /mentone/
-latitude: -37.982
-longitude: 145.062
+latitude: -37.981
+longitude: 145.063
 ---
