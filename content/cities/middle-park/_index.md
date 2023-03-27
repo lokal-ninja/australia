@@ -1,6 +1,6 @@
 ---
 title: Middle Park
 url: /middle-park/
-latitude: -37.851
+latitude: -37.85
 longitude: 144.964
 ---
