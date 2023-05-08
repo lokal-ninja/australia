@@ -1,5 +1,5 @@
 ---
 title: "Jaycar"
 url: /eltham/jaycar/
-shop: electronics
+shop: radiotechnics
 ---

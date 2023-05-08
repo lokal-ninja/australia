@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /southern-river/aldi/
+url: /varsity-lakes/aldi/
 shop: supermarket
 ---

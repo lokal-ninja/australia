@@ -1,6 +1,6 @@
 ---
 title: Cannington
 url: /cannington/
-latitude: -32.027
-longitude: 115.949
+latitude: -32.023
+longitude: 115.939
 ---
