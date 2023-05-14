@@ -1,5 +1,5 @@
 ---
 title: "Supercheap Auto"
 url: /bendigo/supercheap-auto/
-shop: car
+shop: car parts
 ---
