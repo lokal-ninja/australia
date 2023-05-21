@@ -1,6 +1,6 @@
 ---
 title: Thebarton
 url: /thebarton/
-latitude: -34.914
-longitude: 138.57
+latitude: -34.919
+longitude: 138.577
 ---
