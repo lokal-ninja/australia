@@ -1,6 +1,6 @@
 ---
 title: Jandakot
 url: /jandakot/
-latitude: -32.09
-longitude: 115.87
+latitude: -32.126
+longitude: 115.869
 ---
