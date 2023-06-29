@@ -1,6 +1,6 @@
 ---
 title: Potts Point
 url: /potts-point/
-latitude: -33.875
-longitude: 151.222
+latitude: -33.874
+longitude: 151.223
 ---
