@@ -1,6 +1,6 @@
 ---
 title: Myaree
 url: /myaree/
-latitude: -32.04
-longitude: 115.822
+latitude: -32.044
+longitude: 115.816
 ---
