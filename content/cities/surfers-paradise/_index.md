@@ -1,6 +1,6 @@
 ---
-title: Surfers paradise
+title: Surfers Paradise
 url: /surfers-paradise/
 latitude: -27.936
-longitude: 153.398
+longitude: 153.395
 ---
