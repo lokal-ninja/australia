@@ -1,6 +1,6 @@
 ---
 title: Narrabeen
 url: /narrabeen/
-latitude: -33.714
-longitude: 151.298
+latitude: -33.724
+longitude: 151.299
 ---
