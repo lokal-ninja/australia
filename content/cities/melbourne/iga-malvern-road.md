@@ -1,5 +1,5 @@
 ---
 title: "IGA"
-url: /melbourne/iga/
+url: /melbourne/iga-malvern-road/
 shop: supermarket
 ---

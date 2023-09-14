@@ -1,5 +1,5 @@
 ---
 title: "Miracle Supermarket"
-url: /zetland/miracle-supermarket/
+url: /zetland/miracle-supermarket-botany-road/
 shop: supermarket
 ---

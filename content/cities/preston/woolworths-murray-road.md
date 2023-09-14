@@ -1,5 +1,5 @@
 ---
 title: "Woolworths"
-url: /preston/woolworths/
+url: /preston/woolworths-murray-road/
 shop: supermarket
 ---

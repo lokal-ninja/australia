@@ -1,5 +1,5 @@
 ---
 title: "Bunnings Warehouse"
-url: /brisbane/bunnings-warehouse/
+url: /brisbane/bunnings-warehouse-wondall-road/
 shop: doityourself
 ---

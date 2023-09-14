@@ -1,5 +1,5 @@
 ---
 title: "Foodworks"
-url: /montmorency/foodworks/
+url: /montmorency/foodworks-were-street/
 shop: supermarket
 ---

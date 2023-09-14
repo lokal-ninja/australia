@@ -1,5 +1,5 @@
 ---
 title: "Jude"
-url: /fitzroy/jude/
+url: /fitzroy/jude-johnston-street/
 shop: clothes
 ---

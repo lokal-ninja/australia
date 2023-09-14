@@ -1,5 +1,5 @@
 ---
 title: "Piano Time"
-url: /south-melbourne/piano-time/
+url: /south-melbourne/piano-time-park-street/
 shop: musical instrument
 ---

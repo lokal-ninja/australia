@@ -1,5 +1,5 @@
 ---
 title: "Coles Express"
-url: /melbourne/coles-express/
+url: /melbourne/coles-express-cemetery-road/
 shop: convenience
 ---
