@@ -1,5 +1,5 @@
 ---
-title: "UpTown Local"
+title: "Uptown Local"
 url: /coffs-harbour/uptown-local/
 shop: clothes
 ---
