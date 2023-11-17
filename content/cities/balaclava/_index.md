@@ -1,6 +1,6 @@
 ---
-title: Balaclava
+title: balaclava
 url: /balaclava/
-latitude: -37.868
-longitude: 144.991
+latitude: -37.869
+longitude: 144.997
 ---

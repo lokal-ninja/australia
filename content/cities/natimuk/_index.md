@@ -1,6 +1,6 @@
 ---
 title: Natimuk
 url: /natimuk/
-latitude: -36.742
-longitude: 141.941
+latitude: -36.741
+longitude: 141.945
 ---

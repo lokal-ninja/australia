@@ -1,6 +1,6 @@
 ---
 title: Logan
 url: /logan/
-latitude: -27.702
-longitude: 153.212
+latitude: -27.719
+longitude: 153.203
 ---

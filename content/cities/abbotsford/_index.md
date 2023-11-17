@@ -1,6 +1,6 @@
 ---
 title: Abbotsford
 url: /abbotsford/
-latitude: -37.806
+latitude: -37.802
 longitude: 144.998
 ---

@@ -1,6 +1,6 @@
 ---
-title: Gold Coast
+title: Gold coast
 url: /gold-coast/
-latitude: -28.011
-longitude: 153.424
+latitude: -28.037
+longitude: 153.427
 ---
