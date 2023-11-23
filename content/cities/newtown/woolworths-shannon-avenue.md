@@ -1,5 +1,5 @@
 ---
 title: "Woolworths"
-url: /newtown/woolworths-erskineville-road/
+url: /newtown/woolworths-shannon-avenue/
 shop: supermarket
 ---
