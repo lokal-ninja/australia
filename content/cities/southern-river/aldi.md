@@ -1,5 +1,0 @@
----
-title: "ALDI"
-url: /southern-river/aldi/
-shop: supermarket
----
