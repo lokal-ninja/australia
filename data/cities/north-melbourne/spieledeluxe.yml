@@ -1,11 +1,11 @@
-id: 5248106102
-type: node
-latitude: -37.80282
-longitude: 144.94854
+id: 1125999561
+type: way
+latitude: -37.80269
+longitude: 144.94848
 postcode: "3051"
 city: North Melbourne
 street: "Queensberry Street"
-housenumber: 566
+housenumber: 566-574
 phone: "+61 3 8394 7589"
 opening_hours: "Tu,We,Th,Sa 10:00-16:00; Fr 11:00-17:00"
 website: ""
