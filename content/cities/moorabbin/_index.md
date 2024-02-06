@@ -1,6 +1,6 @@
 ---
 title: Moorabbin
 url: /moorabbin/
-latitude: -37.938
-longitude: 145.066
+latitude: -37.939
+longitude: 145.075
 ---
