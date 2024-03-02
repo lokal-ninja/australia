@@ -1,5 +1,5 @@
 ---
 title: "Fire & Wire"
-url: /eltham/fire-and-wire-brisbane-street/
+url: /eltham/fire-and-wire-susan-street/
 shop: electrical
 ---

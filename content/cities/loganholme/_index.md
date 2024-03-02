@@ -1,6 +1,6 @@
 ---
 title: Loganholme
 url: /loganholme/
-latitude: -27.679
-longitude: 153.194
+latitude: -27.674
+longitude: 153.184
 ---
