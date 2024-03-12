@@ -7,5 +7,5 @@ city: Morphett Vale
 street: "Bains Road"
 housenumber: 185-191
 phone: "+61 8 8325 1200"
-opening_hours: "Mo-We 9:00-17:30; Th 9:00-21:00; F 9:00-17:30; Sa 9:00-17:30"
+opening_hours: "Mo-We,Fr-Sa 09:00-17:30; Th 09:00-21:00"
 website: ""
