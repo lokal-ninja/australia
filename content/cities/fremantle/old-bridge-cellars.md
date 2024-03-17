@@ -1,5 +1,5 @@
 ---
 title: "Old Bridge Cellars"
-url: /north-fremantle/old-bridge-cellars/
+url: /fremantle/old-bridge-cellars/
 shop: alcohol
 ---
