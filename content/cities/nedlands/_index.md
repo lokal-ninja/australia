@@ -1,6 +1,6 @@
 ---
 title: Nedlands
 url: /nedlands/
-latitude: -31.979
-longitude: 115.802
+latitude: -31.98
+longitude: 115.801
 ---
