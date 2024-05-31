@@ -1,6 +1,6 @@
 ---
 title: Braidwood
 url: /braidwood/
-latitude: -35.445
-longitude: 149.8
+latitude: -35.444
+longitude: 149.796
 ---
