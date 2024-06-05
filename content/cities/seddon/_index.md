@@ -1,6 +1,6 @@
 ---
 title: Seddon
 url: /seddon/
-latitude: -37.81
-longitude: 144.895
+latitude: -37.806
+longitude: 144.891
 ---
