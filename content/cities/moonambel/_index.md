@@ -1,6 +1,6 @@
 ---
 title: Moonambel
 url: /moonambel/
-latitude: -36.97
-longitude: 143.263
+latitude: -36.983
+longitude: 143.253
 ---
