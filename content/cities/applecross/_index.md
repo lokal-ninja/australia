@@ -1,6 +1,6 @@
 ---
 title: Applecross
 url: /applecross/
-latitude: -32.011
+latitude: -32.01
 longitude: 115.835
 ---
