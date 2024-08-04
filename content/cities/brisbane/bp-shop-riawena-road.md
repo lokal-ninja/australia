@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
-url: /brisbane/bp-shop-moggill-road/
+url: /brisbane/bp-shop-riawena-road/
 shop: convenience
 ---
