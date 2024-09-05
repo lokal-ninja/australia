@@ -1,5 +1,5 @@
 ---
 title: "Liquorland"
 url: /bendigo/liquorland/
-shop: alcohol
+shop: Spirituosen
 ---

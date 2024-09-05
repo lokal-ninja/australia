@@ -1,5 +1,5 @@
 ---
 title: "Coles"
 url: /armidale/coles/
-shop: supermarket
+shop: Supermarkt
 ---

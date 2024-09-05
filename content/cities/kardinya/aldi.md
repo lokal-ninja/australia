@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /kardinya/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

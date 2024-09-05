@@ -1,5 +1,5 @@
 ---
 title: "Spudshed"
 url: /jandakot/spudshed/
-shop: supermarket
+shop: Supermarkt
 ---

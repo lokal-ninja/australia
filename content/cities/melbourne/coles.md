@@ -1,5 +1,5 @@
 ---
 title: "Coles"
 url: /melbourne/coles/
-shop: supermarket
+shop: Supermarkt
 ---

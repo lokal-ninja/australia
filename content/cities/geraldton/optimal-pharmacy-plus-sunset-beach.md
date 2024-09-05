@@ -1,5 +1,5 @@
 ---
 title: "Optimal Pharmacy Plus Sunset Beach"
 url: /geraldton/optimal-pharmacy-plus-sunset-beach/
-shop: chemist
+shop: Drogerie
 ---

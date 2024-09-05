@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /bertram/iga/
-shop: supermarket
+shop: Supermarkt
 ---

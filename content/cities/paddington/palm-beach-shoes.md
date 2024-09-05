@@ -1,5 +1,5 @@
 ---
 title: "Palm Beach Shoes"
 url: /paddington/palm-beach-shoes/
-shop: shoes
+shop: Schuhe
 ---

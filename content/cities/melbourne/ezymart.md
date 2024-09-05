@@ -1,5 +1,5 @@
 ---
 title: "EzyMart"
 url: /melbourne/ezymart/
-shop: convenience
+shop: Lebensmittel
 ---

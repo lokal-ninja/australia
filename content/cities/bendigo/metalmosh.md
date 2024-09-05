@@ -1,5 +1,5 @@
 ---
 title: "Metalmosh"
 url: /bendigo/metalmosh/
-shop: tattoo
+shop: Tattoo
 ---

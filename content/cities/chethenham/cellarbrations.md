@@ -1,5 +1,5 @@
 ---
 title: "Cellarbrations"
 url: /chethenham/cellarbrations/
-shop: alcohol
+shop: Spirituosen
 ---

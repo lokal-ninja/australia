@@ -1,5 +1,5 @@
 ---
 title: "Macdonaldtown"
 url: /toowoomba/macdonaldtown/
-shop: mall
+shop: Einkaufszentrum
 ---

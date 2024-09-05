@@ -1,5 +1,5 @@
 ---
 title: "Yea Meat Supply"
 url: /yea/yea-meat-supply/
-shop: butcher
+shop: Metzgerei
 ---

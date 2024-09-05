@@ -1,5 +1,5 @@
 ---
 title: "Trusports"
 url: /toowoomba/trusports/
-shop: sports
+shop: Sport
 ---

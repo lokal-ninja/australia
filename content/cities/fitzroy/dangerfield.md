@@ -1,5 +1,5 @@
 ---
 title: "Dangerfield"
 url: /fitzroy/dangerfield/
-shop: clothes
+shop: Kleidung
 ---

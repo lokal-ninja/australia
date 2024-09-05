@@ -1,5 +1,5 @@
 ---
 title: "Amart Furniture"
 url: /north-rockhampton/amart-furniture/
-shop: furniture
+shop: Möbel
 ---

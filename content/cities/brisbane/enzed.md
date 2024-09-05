@@ -1,5 +1,5 @@
 ---
 title: "ENZED"
 url: /brisbane/enzed/
-shop: car repair
+shop: Autowerkstatt
 ---

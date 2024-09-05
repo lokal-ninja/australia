@@ -1,5 +1,5 @@
 ---
 title: "Cunjurong Point Cafe"
 url: /cunjurong-point/cunjurong-point-cafe/
-shop: convenience
+shop: Lebensmittel
 ---

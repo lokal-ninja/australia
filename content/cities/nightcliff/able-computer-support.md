@@ -1,5 +1,5 @@
 ---
 title: "Able Computer Support"
 url: /nightcliff/able-computer-support/
-shop: computer
+shop: Computer
 ---

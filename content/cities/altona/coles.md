@@ -1,5 +1,5 @@
 ---
 title: "Coles"
 url: /altona/coles/
-shop: supermarket
+shop: Supermarkt
 ---

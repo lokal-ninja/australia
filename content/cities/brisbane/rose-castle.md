@@ -1,5 +1,5 @@
 ---
 title: "Rose Castle"
 url: /brisbane/rose-castle/
-shop: erotic
+shop: Erotik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bottlemart"
 url: /carnarvon/bottlemart/
-shop: alcohol
+shop: Spirituosen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MacAlert"
 url: /edwardstown/macalert/
-shop: computer
+shop: Computer
 ---

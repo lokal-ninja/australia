@@ -1,5 +1,5 @@
 ---
 title: "Sakura"
 url: /camberwell/sakura/
-shop: massage
+shop: Massage
 ---

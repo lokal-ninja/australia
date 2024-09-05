@@ -1,5 +1,5 @@
 ---
 title: "Jaycar"
 url: /brisbane/jaycar/
-shop: radiotechnics
+shop: Radiotechnik
 ---

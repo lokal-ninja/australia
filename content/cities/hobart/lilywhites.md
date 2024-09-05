@@ -1,5 +1,5 @@
 ---
 title: "Lilywhites"
 url: /hobart/lilywhites/
-shop: laundry
+shop: Wäscherei
 ---

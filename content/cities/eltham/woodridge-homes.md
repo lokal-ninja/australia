@@ -1,5 +1,5 @@
 ---
 title: "Woodridge Homes"
 url: /eltham/woodridge-homes/
-shop: hardware
+shop: Eisenwaren
 ---

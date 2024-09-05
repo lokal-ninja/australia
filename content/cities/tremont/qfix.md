@@ -1,5 +1,5 @@
 ---
 title: "Qfix"
 url: /tremont/qfix/
-shop: convenience
+shop: Lebensmittel
 ---

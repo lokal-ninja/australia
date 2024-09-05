@@ -1,5 +1,5 @@
 ---
 title: "Florence Footwear"
 url: /preston/florence-footwear/
-shop: shoes
+shop: Schuhe
 ---

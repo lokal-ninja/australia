@@ -1,5 +1,5 @@
 ---
 title: "Moire"
 url: /coffs-harbour/moire/
-shop: clothes
+shop: Kleidung
 ---

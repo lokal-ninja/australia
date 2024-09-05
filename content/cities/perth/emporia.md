@@ -1,5 +1,5 @@
 ---
 title: "Emporia"
 url: /perth/emporia/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Strands"
 url: /brisbane/strands/
-shop: hairdresser
+shop: Friseur
 ---

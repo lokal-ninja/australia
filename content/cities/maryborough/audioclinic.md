@@ -1,5 +1,5 @@
 ---
 title: "AudioClinic"
 url: /maryborough/audioclinic/
-shop: hearing aids
+shop: Hörgeräte
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cheesecake Shop"
 url: /brisbane/cheesecake-shop/
-shop: bakery
+shop: Bäckerei
 ---

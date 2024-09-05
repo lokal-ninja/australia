@@ -1,5 +1,5 @@
 ---
 title: "AWM"
 url: /clayton/awm/
-shop: electrical
+shop: Elektrisch
 ---

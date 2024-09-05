@@ -1,5 +1,5 @@
 ---
 title: "Poyser Trucks"
 url: /epsom/poyser-trucks/
-shop: shop
+shop: Allgemein
 ---

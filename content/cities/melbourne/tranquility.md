@@ -1,5 +1,5 @@
 ---
 title: "Tranquility +"
 url: /melbourne/tranquility/
-shop: gift
+shop: Andenken
 ---

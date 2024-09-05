@@ -1,5 +1,5 @@
 ---
 title: "Crumpler"
 url: /fitzroy/crumpler/
-shop: bag
+shop: Taschen & Koffer
 ---

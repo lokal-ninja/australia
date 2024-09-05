@@ -1,5 +1,5 @@
 ---
 title: "Wallrocks"
 url: /brisbane/wallrocks/
-shop: furniture
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walsh Motors"
 url: /charlton/walsh-motors/
-shop: car
+shop: Autohaus
 ---

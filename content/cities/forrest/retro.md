@@ -1,5 +1,5 @@
 ---
 title: "Retro"
 url: /forrest/retro/
-shop: antiques
+shop: Antiquitäten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "UGG"
 url: /miami/ugg/
-shop: shoes
+shop: Schuhe
 ---

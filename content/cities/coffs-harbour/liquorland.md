@@ -1,5 +1,5 @@
 ---
 title: "Liquorland"
 url: /coffs-harbour/liquorland/
-shop: alcohol
+shop: Spirituosen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Liquorland"
 url: /narrabeen/liquorland/
-shop: alcohol
+shop: Spirituosen
 ---

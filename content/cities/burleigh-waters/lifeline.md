@@ -1,5 +1,5 @@
 ---
 title: "Lifeline"
 url: /burleigh-waters/lifeline/
-shop: clothes
+shop: Kleidung
 ---

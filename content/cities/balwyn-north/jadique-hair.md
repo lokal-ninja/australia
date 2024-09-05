@@ -1,5 +1,5 @@
 ---
 title: "Jadique Hair"
 url: /balwyn-north/jadique-hair/
-shop: hairdresser
+shop: Friseur
 ---

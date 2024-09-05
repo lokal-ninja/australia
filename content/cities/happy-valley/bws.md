@@ -1,5 +1,5 @@
 ---
 title: "BWS"
 url: /happy-valley/bws/
-shop: alcohol
+shop: Spirituosen
 ---

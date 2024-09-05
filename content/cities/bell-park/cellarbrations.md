@@ -1,5 +1,5 @@
 ---
 title: "Cellarbrations"
 url: /bell-park/cellarbrations/
-shop: alcohol
+shop: Spirituosen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sportsco"
 url: /bendigo/sportsco/
-shop: sports
+shop: Sport
 ---

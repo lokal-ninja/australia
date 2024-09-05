@@ -1,5 +1,5 @@
 ---
 title: "Australian Red Chross"
 url: /camberwell/australian-red-chross/
-shop: charity
+shop: Gebrauchtwaren
 ---

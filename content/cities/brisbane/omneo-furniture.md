@@ -1,5 +1,5 @@
 ---
 title: "Omneo Furniture"
 url: /brisbane/omneo-furniture/
-shop: furniture
+shop: Möbel
 ---

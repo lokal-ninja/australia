@@ -1,5 +1,5 @@
 ---
 title: "Liquorland"
 url: /swan-view/liquorland/
-shop: alcohol
+shop: Spirituosen
 ---

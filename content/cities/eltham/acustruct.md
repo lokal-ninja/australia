@@ -1,5 +1,5 @@
 ---
 title: "Acustruct"
 url: /eltham/acustruct/
-shop: hardware
+shop: Eisenwaren
 ---

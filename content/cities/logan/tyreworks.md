@@ -1,5 +1,5 @@
 ---
 title: "Tyreworks"
 url: /logan/tyreworks/
-shop: tyres
+shop: Reifen
 ---

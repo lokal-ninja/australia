@@ -1,5 +1,5 @@
 ---
 title: "Woolworths"
 url: /lake-munmorah/woolworths/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rockbank Nursery"
 url: /rockbank/rockbank-nursery/
-shop: garden centre
+shop: Garten-Center
 ---

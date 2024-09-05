@@ -1,5 +1,5 @@
 ---
 title: "Flux"
 url: /collingwood/flux/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Prophecy"
 url: /fitzroy/prophecy/
-shop: hairdresser
+shop: Friseur
 ---

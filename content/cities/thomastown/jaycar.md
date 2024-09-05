@@ -1,5 +1,5 @@
 ---
 title: "Jaycar"
 url: /thomastown/jaycar/
-shop: radiotechnics
+shop: Radiotechnik
 ---

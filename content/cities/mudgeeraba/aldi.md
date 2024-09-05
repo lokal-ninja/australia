@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /mudgeeraba/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

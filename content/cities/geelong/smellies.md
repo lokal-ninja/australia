@@ -1,5 +1,5 @@
 ---
 title: "Smellies"
 url: /geelong/smellies/
-shop: florist
+shop: Blumen
 ---

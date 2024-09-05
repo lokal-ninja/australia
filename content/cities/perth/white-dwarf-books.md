@@ -1,5 +1,5 @@
 ---
 title: "White Dwarf Books"
 url: /perth/white-dwarf-books/
-shop: books
+shop: Bücher
 ---

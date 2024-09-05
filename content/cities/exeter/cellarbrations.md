@@ -1,5 +1,5 @@
 ---
 title: "Cellarbrations"
 url: /exeter/cellarbrations/
-shop: alcohol
+shop: Spirituosen
 ---

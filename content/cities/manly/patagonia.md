@@ -1,5 +1,5 @@
 ---
 title: "Patagonia"
 url: /manly/patagonia/
-shop: clothes
+shop: Kleidung
 ---

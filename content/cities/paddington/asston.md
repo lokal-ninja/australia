@@ -1,5 +1,5 @@
 ---
 title: "Asston"
 url: /paddington/asston/
-shop: shoes
+shop: Schuhe
 ---

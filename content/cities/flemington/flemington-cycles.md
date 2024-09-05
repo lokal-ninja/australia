@@ -1,5 +1,5 @@
 ---
 title: "Flemington Cycles"
 url: /flemington/flemington-cycles/
-shop: bicycle
+shop: Fahrrad
 ---

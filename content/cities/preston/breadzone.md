@@ -1,5 +1,5 @@
 ---
 title: "Breadzone"
 url: /preston/breadzone/
-shop: bakery
+shop: Bäckerei
 ---

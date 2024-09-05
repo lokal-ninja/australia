@@ -1,5 +1,5 @@
 ---
 title: "Bvlgari"
 url: /melbourne/bvlgari/
-shop: boutique
+shop: Modehaus
 ---

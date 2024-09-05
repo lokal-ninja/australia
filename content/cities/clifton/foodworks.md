@@ -1,5 +1,5 @@
 ---
 title: "Foodworks"
 url: /clifton/foodworks/
-shop: supermarket
+shop: Supermarkt
 ---

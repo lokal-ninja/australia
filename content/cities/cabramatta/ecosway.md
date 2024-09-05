@@ -1,5 +1,5 @@
 ---
 title: "eCosway"
 url: /cabramatta/ecosway/
-shop: computer
+shop: Computer
 ---

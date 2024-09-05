@@ -1,5 +1,5 @@
 ---
 title: "EzyMart"
 url: /the-rocks/ezymart/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "APCO"
 url: /newcomb/apco/
-shop: kiosk
+shop: Kiosk
 ---

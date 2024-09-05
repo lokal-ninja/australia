@@ -1,5 +1,5 @@
 ---
 title: "Leible"
 url: /sydney/leible/
-shop: coffee
+shop: Kaffee
 ---

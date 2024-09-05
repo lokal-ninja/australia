@@ -1,5 +1,5 @@
 ---
 title: "gorman"
 url: /brighton/gorman/
-shop: clothes
+shop: Kleidung
 ---

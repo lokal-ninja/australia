@@ -1,5 +1,5 @@
 ---
 title: "Begents"
 url: /burnie/begents/
-shop: electronics
+shop: Elektronik
 ---

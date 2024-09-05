@@ -1,5 +1,5 @@
 ---
 title: "Ampol Foodary Wonthella"
 url: /geraldton/ampol-foodary-wonthella/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chesterfield Australia"
 url: /wellington/chesterfield-australia/
-shop: agrarian
+shop: Landwirtschaftlich
 ---

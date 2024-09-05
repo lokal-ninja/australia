@@ -1,5 +1,5 @@
 ---
 title: "Avanti Plus Alice Springs"
 url: /braitling/avanti-plus-alice-springs/
-shop: bicycle
+shop: Fahrrad
 ---

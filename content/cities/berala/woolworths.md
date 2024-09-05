@@ -1,5 +1,5 @@
 ---
 title: "Woolworths"
 url: /berala/woolworths/
-shop: supermarket
+shop: Supermarkt
 ---

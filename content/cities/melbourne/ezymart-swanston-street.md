@@ -1,5 +1,5 @@
 ---
 title: "EzyMart"
 url: /melbourne/ezymart-swanston-street/
-shop: convenience
+shop: Lebensmittel
 ---

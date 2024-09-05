@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /yarraville/iga/
-shop: supermarket
+shop: Supermarkt
 ---

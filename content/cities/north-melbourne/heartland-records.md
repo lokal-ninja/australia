@@ -1,5 +1,5 @@
 ---
 title: "Heartland Records"
 url: /north-melbourne/heartland-records/
-shop: music
+shop: Musik
 ---

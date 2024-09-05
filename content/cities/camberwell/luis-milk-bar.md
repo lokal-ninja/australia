@@ -1,5 +1,5 @@
 ---
 title: "Luis Milk Bar"
 url: /camberwell/luis-milk-bar/
-shop: convenience
+shop: Lebensmittel
 ---

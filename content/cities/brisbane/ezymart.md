@@ -1,5 +1,5 @@
 ---
 title: "EzyMart"
 url: /brisbane/ezymart/
-shop: convenience
+shop: Lebensmittel
 ---

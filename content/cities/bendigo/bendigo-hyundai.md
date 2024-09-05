@@ -1,5 +1,5 @@
 ---
 title: "Bendigo Hyundai"
 url: /bendigo/bendigo-hyundai/
-shop: car
+shop: Autohaus
 ---

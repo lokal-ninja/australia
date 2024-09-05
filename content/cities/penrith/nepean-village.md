@@ -1,5 +1,5 @@
 ---
 title: "Nepean Village"
 url: /penrith/nepean-village/
-shop: mall
+shop: Einkaufszentrum
 ---

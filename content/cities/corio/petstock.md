@@ -1,5 +1,5 @@
 ---
 title: "Petstock"
 url: /corio/petstock/
-shop: pet
+shop: Tiere
 ---

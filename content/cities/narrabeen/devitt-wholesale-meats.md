@@ -1,5 +1,5 @@
 ---
 title: "Devitt Wholesale Meats"
 url: /narrabeen/devitt-wholesale-meats/
-shop: butcher
+shop: Metzgerei
 ---

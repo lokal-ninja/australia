@@ -1,5 +1,5 @@
 ---
 title: "Lotsa Pots"
 url: /renmark/lotsa-pots/
-shop: houseware
+shop: Haushaltsartikel
 ---

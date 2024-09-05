@@ -1,5 +1,5 @@
 ---
 title: "Beaurepaires"
 url: /carlton/beaurepaires/
-shop: car repair
+shop: Autowerkstatt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Foodworks"
 url: /port-macquarie/foodworks/
-shop: supermarket
+shop: Supermarkt
 ---

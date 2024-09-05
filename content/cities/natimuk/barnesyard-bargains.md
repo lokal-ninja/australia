@@ -1,5 +1,5 @@
 ---
 title: "Barnesyard Bargains"
 url: /natimuk/barnesyard-bargains/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Golden Nugget Bakery"
 url: /ballarat/golden-nugget-bakery/
-shop: bakery
+shop: Bäckerei
 ---

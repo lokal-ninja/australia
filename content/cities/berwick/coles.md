@@ -1,5 +1,5 @@
 ---
 title: "Coles"
 url: /berwick/coles/
-shop: supermarket
+shop: Supermarkt
 ---

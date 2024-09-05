@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /camberwell/vodafone/
-shop: mobile phone
+shop: Handy
 ---
