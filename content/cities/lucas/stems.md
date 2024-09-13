@@ -1,5 +1,5 @@
 ---
 title: "Stems"
 url: /lucas/stems/
-shop: Blumen
+shop: florist
 ---

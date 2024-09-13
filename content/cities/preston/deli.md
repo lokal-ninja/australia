@@ -1,5 +1,5 @@
 ---
 title: "Deli+"
 url: /preston/deli/
-shop: Feinkost
+shop: deli
 ---

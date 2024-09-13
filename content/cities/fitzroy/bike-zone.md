@@ -1,5 +1,5 @@
 ---
 title: "Bike Zone"
 url: /fitzroy/bike-zone/
-shop: Fahrrad
+shop: bicycle
 ---

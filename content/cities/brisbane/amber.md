@@ -1,5 +1,5 @@
 ---
 title: "Amber"
 url: /brisbane/amber/
-shop: Fußböden
+shop: flooring
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Floreat Forum"
 url: /floreat/floreat-forum/
-shop: Einkaufszentrum
+shop: mall
 ---

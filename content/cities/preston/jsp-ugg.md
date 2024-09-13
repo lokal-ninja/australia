@@ -1,5 +1,5 @@
 ---
 title: "JSP UGG"
 url: /preston/jsp-ugg/
-shop: Kleidung
+shop: clothes
 ---

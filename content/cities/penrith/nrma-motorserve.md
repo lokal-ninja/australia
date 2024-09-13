@@ -1,5 +1,5 @@
 ---
 title: "NRMA Motorserve"
 url: /penrith/nrma-motorserve/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Cricket Warehouse"
 url: /fitzroy/the-cricket-warehouse/
-shop: Sport
+shop: sports
 ---

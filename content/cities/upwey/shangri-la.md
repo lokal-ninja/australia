@@ -1,5 +1,5 @@
 ---
 title: "Shangri-La"
 url: /upwey/shangri-la/
-shop: Friseur
+shop: hairdresser
 ---

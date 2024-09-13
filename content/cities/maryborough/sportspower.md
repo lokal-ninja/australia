@@ -1,5 +1,5 @@
 ---
 title: "SportsPower"
 url: /maryborough/sportspower/
-shop: Sport
+shop: sports
 ---

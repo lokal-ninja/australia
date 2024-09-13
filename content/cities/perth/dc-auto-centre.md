@@ -1,5 +1,5 @@
 ---
 title: "DC Auto Centre"
 url: /perth/dc-auto-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

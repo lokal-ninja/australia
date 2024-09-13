@@ -1,5 +1,5 @@
 ---
 title: "Yarraville Laundrette"
 url: /yarraville/yarraville-laundrette/
-shop: Wäscherei
+shop: laundry
 ---

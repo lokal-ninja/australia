@@ -1,5 +1,5 @@
 ---
 title: "UltraTune"
 url: /fitzroy/ultratune/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stranded on Peel"
 url: /ballarat/stranded-on-peel/
-shop: Friseur
+shop: hairdresser
 ---

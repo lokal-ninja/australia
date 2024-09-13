@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /brisbane/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

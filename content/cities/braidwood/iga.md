@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /braidwood/iga/
-shop: Supermarkt
+shop: supermarket
 ---

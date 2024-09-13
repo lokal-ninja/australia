@@ -1,5 +1,5 @@
 ---
 title: "Origin Clothing"
 url: /corowa/origin-clothing/
-shop: Kleidung
+shop: clothes
 ---

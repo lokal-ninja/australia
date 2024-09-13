@@ -1,5 +1,5 @@
 ---
 title: "Cycle De Vie"
 url: /west-end/cycle-de-vie/
-shop: Fahrrad
+shop: bicycle
 ---

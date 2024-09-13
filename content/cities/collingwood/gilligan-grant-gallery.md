@@ -1,5 +1,5 @@
 ---
 title: "Gilligan Grant Gallery"
 url: /collingwood/gilligan-grant-gallery/
-shop: Kunst
+shop: art
 ---

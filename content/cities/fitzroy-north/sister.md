@@ -1,5 +1,5 @@
 ---
 title: "Sister"
 url: /fitzroy-north/sister/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Highway Tyres"
 url: /mordialloc/highway-tyres/
-shop: Reifen
+shop: tyres
 ---

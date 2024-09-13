@@ -1,5 +1,5 @@
 ---
 title: "Aesthete Hair Salon"
 url: /sydney/aesthete-hair-salon/
-shop: Friseur
+shop: hairdresser
 ---

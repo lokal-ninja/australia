@@ -1,5 +1,5 @@
 ---
 title: "Beaurepaires"
 url: /kew-east/beaurepaires/
-shop: Reifen
+shop: tyres
 ---

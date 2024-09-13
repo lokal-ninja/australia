@@ -1,5 +1,5 @@
 ---
 title: "Totally Workwear"
 url: /logan/totally-workwear/
-shop: Kleidung
+shop: clothes
 ---

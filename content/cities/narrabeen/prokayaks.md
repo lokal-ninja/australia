@@ -1,5 +1,5 @@
 ---
 title: "Prokayaks"
 url: /narrabeen/prokayaks/
-shop: Allgemein
+shop: shop
 ---

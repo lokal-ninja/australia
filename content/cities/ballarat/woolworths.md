@@ -1,5 +1,5 @@
 ---
 title: "Woolworths"
 url: /ballarat/woolworths/
-shop: Supermarkt
+shop: supermarket
 ---

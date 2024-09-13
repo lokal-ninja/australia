@@ -1,5 +1,5 @@
 ---
 title: "Lemac"
 url: /artarmon/lemac/
-shop: Foto
+shop: photo
 ---

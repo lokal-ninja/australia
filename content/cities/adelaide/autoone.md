@@ -1,5 +1,5 @@
 ---
 title: "AutoOne"
 url: /adelaide/autoone/
-shop: Autoteile
+shop: car parts
 ---

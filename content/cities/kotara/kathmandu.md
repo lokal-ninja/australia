@@ -1,5 +1,5 @@
 ---
 title: "Kathmandu"
 url: /kotara/kathmandu/
-shop: Outdoor
+shop: outdoor
 ---

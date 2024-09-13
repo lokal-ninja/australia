@@ -1,5 +1,5 @@
 ---
 title: "Suffolk Bakery"
 url: /suffolk-park/suffolk-bakery/
-shop: Bäckerei
+shop: bakery
 ---

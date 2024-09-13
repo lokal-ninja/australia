@@ -1,5 +1,5 @@
 ---
 title: "Halo"
 url: /brisbane/halo/
-shop: Autowerkstatt
+shop: car repair
 ---

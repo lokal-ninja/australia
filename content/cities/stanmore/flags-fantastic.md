@@ -1,5 +1,5 @@
 ---
 title: "Flags Fantastic"
 url: /stanmore/flags-fantastic/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Egg Records"
 url: /newtown/egg-records/
-shop: Musik
+shop: music
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Northcoast Locksmiths"
 url: /nambour/northcoast-locksmiths/
-shop: Schlüsseldienst
+shop: locksmith
 ---

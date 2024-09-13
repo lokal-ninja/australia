@@ -1,5 +1,5 @@
 ---
 title: "Toyworld"
 url: /manjimup/toyworld/
-shop: Spielzeug
+shop: toys
 ---

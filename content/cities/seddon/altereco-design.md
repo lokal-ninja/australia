@@ -1,5 +1,5 @@
 ---
 title: "Altereco Design"
 url: /seddon/altereco-design/
-shop: Raumausstattung
+shop: interior decoration
 ---

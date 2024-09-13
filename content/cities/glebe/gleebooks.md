@@ -1,5 +1,5 @@
 ---
 title: "Gleebooks"
 url: /glebe/gleebooks/
-shop: Bücher
+shop: books
 ---

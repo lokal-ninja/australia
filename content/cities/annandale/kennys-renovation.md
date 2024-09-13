@@ -1,5 +1,5 @@
 ---
 title: "Kennys Renovation"
 url: /annandale/kennys-renovation/
-shop: Badezimmer
+shop: bathroom
 ---

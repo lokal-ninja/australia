@@ -1,5 +1,5 @@
 ---
 title: "National Storage"
 url: /storage/national-storage/
-shop: Mieten
+shop: storage rental
 ---

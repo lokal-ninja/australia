@@ -1,5 +1,5 @@
 ---
 title: "Day Day Market"
 url: /parramatta/day-day-market/
-shop: Lebensmittel
+shop: convenience
 ---

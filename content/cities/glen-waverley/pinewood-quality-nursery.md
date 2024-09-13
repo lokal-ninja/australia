@@ -1,5 +1,5 @@
 ---
 title: "Pinewood Quality Nursery"
 url: /glen-waverley/pinewood-quality-nursery/
-shop: Garten-Center
+shop: garden centre
 ---

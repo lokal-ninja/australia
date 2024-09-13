@@ -1,5 +1,5 @@
 ---
 title: "Smoke Ape"
 url: /melbourne/smoke-ape/
-shop: Tabak
+shop: tobacco
 ---

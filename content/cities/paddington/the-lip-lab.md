@@ -1,5 +1,5 @@
 ---
 title: "The Lip Lab"
 url: /paddington/the-lip-lab/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Derrimut Village"
 url: /deer-park/derrimut-village/
-shop: Einkaufszentrum
+shop: mall
 ---

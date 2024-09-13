@@ -1,5 +1,5 @@
 ---
 title: "Chelsea Heights Bakehouse"
 url: /chelsea-heights/chelsea-heights-bakehouse/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nike"
 url: /camberwell/nike/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Waves Laundromat"
 url: /miami/waves-laundromat/
-shop: Wäscherei
+shop: laundry
 ---

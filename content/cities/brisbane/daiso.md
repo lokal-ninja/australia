@@ -1,5 +1,5 @@
 ---
 title: "Daiso"
 url: /brisbane/daiso/
-shop: Warenhaus
+shop: department store
 ---

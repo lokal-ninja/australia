@@ -1,5 +1,5 @@
 ---
 title: "KimKim Bakehouse"
 url: /montmorency/kimkim-bakehouse/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DJ Warehouse"
 url: /abbotsford/dj-warehouse/
-shop: Instrumente
+shop: musical instrument
 ---

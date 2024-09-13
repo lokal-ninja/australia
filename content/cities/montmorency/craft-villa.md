@@ -1,5 +1,5 @@
 ---
 title: "Craft Villa"
 url: /montmorency/craft-villa/
-shop: Allgemein
+shop: shop
 ---

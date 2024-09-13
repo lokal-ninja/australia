@@ -1,5 +1,5 @@
 ---
 title: "Gyles Newsagency"
 url: /corowa/gyles-newsagency/
-shop: Zeitungen
+shop: newsagent
 ---

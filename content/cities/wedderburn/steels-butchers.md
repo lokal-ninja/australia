@@ -1,5 +1,5 @@
 ---
 title: "Steel's Butchers"
 url: /wedderburn/steels-butchers/
-shop: Metzgerei
+shop: butcher
 ---

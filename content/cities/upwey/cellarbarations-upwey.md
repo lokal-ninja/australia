@@ -1,5 +1,5 @@
 ---
 title: "Cellarbarations Upwey"
 url: /upwey/cellarbarations-upwey/
-shop: Spirituosen
+shop: alcohol
 ---

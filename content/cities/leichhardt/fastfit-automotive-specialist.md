@@ -1,5 +1,5 @@
 ---
 title: "Fastfit Automotive Specialist"
 url: /leichhardt/fastfit-automotive-specialist/
-shop: Autoteile
+shop: car parts
 ---

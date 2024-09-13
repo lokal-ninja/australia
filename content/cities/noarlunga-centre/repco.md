@@ -1,5 +1,5 @@
 ---
 title: "Repco"
 url: /noarlunga-centre/repco/
-shop: Autoteile
+shop: car parts
 ---

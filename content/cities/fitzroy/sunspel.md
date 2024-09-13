@@ -1,5 +1,5 @@
 ---
 title: "Sunspel"
 url: /fitzroy/sunspel/
-shop: Kleidung
+shop: clothes
 ---

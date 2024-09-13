@@ -1,5 +1,5 @@
 ---
 title: "Boutique Hair Parlour"
 url: /ballarat/boutique-hair-parlour/
-shop: Friseur
+shop: hairdresser
 ---

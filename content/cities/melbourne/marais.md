@@ -1,5 +1,5 @@
 ---
 title: "Marais"
 url: /melbourne/marais/
-shop: Kleidung
+shop: clothes
 ---

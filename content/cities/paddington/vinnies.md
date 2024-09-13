@@ -1,5 +1,5 @@
 ---
 title: "Vinnies"
 url: /paddington/vinnies/
-shop: Gebrauchtwaren
+shop: charity
 ---

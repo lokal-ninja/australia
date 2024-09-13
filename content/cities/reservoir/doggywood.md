@@ -1,5 +1,5 @@
 ---
 title: "Doggywood"
 url: /reservoir/doggywood/
-shop: Tiersalon
+shop: pet grooming
 ---

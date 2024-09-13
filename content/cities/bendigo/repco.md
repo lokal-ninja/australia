@@ -1,5 +1,5 @@
 ---
 title: "Repco"
 url: /bendigo/repco/
-shop: Autoteile
+shop: car parts
 ---

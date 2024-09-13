@@ -1,5 +1,5 @@
 ---
 title: "Bendigo Small Engines"
 url: /bendigo/bendigo-small-engines/
-shop: Haushaltsgeräte
+shop: appliance
 ---

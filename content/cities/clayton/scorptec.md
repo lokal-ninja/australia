@@ -1,5 +1,5 @@
 ---
 title: "Scorptec"
 url: /clayton/scorptec/
-shop: Computer
+shop: computer
 ---

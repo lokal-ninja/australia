@@ -1,5 +1,5 @@
 ---
 title: "Yass Jewellers"
 url: /yass/yass-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "QueensPlaza"
 url: /brisbane/queensplaza/
-shop: Einkaufszentrum
+shop: mall
 ---

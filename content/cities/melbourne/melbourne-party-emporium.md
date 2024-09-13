@@ -1,5 +1,5 @@
 ---
 title: "Melbourne Party Emporium"
 url: /melbourne/melbourne-party-emporium/
-shop: Partyzubehör
+shop: party
 ---

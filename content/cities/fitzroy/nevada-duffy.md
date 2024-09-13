@@ -1,5 +1,5 @@
 ---
 title: "Nevada Duffy"
 url: /fitzroy/nevada-duffy/
-shop: Kleidung
+shop: clothes
 ---

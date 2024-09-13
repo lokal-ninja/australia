@@ -1,5 +1,5 @@
 ---
 title: "Bathurst Toyota"
 url: /bathurst/bathurst-toyota/
-shop: Autohaus
+shop: car
 ---

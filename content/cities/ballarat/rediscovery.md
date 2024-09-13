@@ -1,5 +1,5 @@
 ---
 title: "Rediscovery"
 url: /ballarat/rediscovery/
-shop: Musik
+shop: music
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Amazing Paints"
 url: /camperdown/amazing-paints/
-shop: Eisenwaren
+shop: hardware
 ---

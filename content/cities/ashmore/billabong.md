@@ -1,5 +1,5 @@
 ---
 title: "Billabong"
 url: /ashmore/billabong/
-shop: Kleidung
+shop: clothes
 ---

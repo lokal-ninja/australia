@@ -1,5 +1,5 @@
 ---
 title: "Gabba Screen Printing Supplies"
 url: /brisbane/gabba-screen-printing-supplies/
-shop: Schreibwaren
+shop: office supplies
 ---

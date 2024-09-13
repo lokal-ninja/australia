@@ -1,5 +1,5 @@
 ---
 title: "Bupa"
 url: /melbourne/bupa/
-shop: Sport
+shop: sports
 ---

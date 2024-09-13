@@ -1,5 +1,5 @@
 ---
 title: "Lestyle"
 url: /melbourne/lestyle/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Protector Alsafe"
 url: /ballarat/protector-alsafe/
-shop: Allgemein
+shop: shop
 ---

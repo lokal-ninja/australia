@@ -1,5 +1,5 @@
 ---
 title: "Schots Home Emporium"
 url: /clifton-hill/schots-home-emporium/
-shop: Haushaltsartikel
+shop: houseware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pilbara Motor Group"
 url: /newman/pilbara-motor-group/
-shop: Autowerkstatt
+shop: car repair
 ---

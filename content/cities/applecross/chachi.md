@@ -1,5 +1,5 @@
 ---
 title: "Chachi"
 url: /applecross/chachi/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Yarraville Mini Storage"
 url: /yarraville/yarraville-mini-storage/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vinnies"
 url: /newport/vinnies/
-shop: Gebrauchtwaren
+shop: charity
 ---

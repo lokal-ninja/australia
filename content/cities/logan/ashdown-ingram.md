@@ -1,5 +1,5 @@
 ---
 title: "Ashdown Ingram"
 url: /logan/ashdown-ingram/
-shop: Autoteile
+shop: car parts
 ---

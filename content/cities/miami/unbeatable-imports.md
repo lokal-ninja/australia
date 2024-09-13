@@ -1,5 +1,5 @@
 ---
 title: "Unbeatable Imports"
 url: /miami/unbeatable-imports/
-shop: Gartenmöbel
+shop: garden furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "For Lease"
 url: /south-melbourne/for-lease/
-shop: Lebensmittel
+shop: convenience
 ---

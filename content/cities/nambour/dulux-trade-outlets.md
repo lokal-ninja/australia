@@ -1,5 +1,5 @@
 ---
 title: "Dulux Trade Outlets"
 url: /nambour/dulux-trade-outlets/
-shop: Farben
+shop: paint
 ---

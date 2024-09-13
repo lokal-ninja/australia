@@ -1,5 +1,5 @@
 ---
 title: "Lobethal Bakery Stirling"
 url: /stirling/lobethal-bakery-stirling/
-shop: Bäckerei
+shop: bakery
 ---

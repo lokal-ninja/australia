@@ -1,5 +1,5 @@
 ---
 title: "Telstra"
 url: /maryborough/telstra/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Adventure Shack"
 url: /brisbane/adventure-shack/
-shop: Wohnwagen
+shop: caravan
 ---

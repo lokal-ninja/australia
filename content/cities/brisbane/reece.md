@@ -1,5 +1,5 @@
 ---
 title: "reece"
 url: /brisbane/reece/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ashburton Service Centre"
 url: /melbourne/ashburton-service-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Glory Wedding Creations"
 url: /brunswick/glory-wedding-creations/
-shop: Allgemein
+shop: shop
 ---

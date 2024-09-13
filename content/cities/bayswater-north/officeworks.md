@@ -1,5 +1,5 @@
 ---
 title: "Officeworks"
 url: /bayswater-north/officeworks/
-shop: Schreibwaren
+shop: office supplies
 ---

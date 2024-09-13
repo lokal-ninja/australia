@@ -1,5 +1,5 @@
 ---
 title: "Onslow Supermarket"
 url: /onslow/onslow-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Halftix"
 url: /melbourne/halftix/
-shop: Tickets
+shop: ticket
 ---

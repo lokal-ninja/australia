@@ -1,5 +1,5 @@
 ---
 title: "Posterfactory"
 url: /marrickville/posterfactory/
-shop: Kopieren
+shop: copyshop
 ---

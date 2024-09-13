@@ -1,5 +1,5 @@
 ---
 title: "Foodworks"
 url: /ravensthorpe/foodworks/
-shop: Supermarkt
+shop: supermarket
 ---

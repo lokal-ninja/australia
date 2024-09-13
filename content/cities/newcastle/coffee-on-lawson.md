@@ -1,5 +1,5 @@
 ---
 title: "Coffee on Lawson"
 url: /newcastle/coffee-on-lawson/
-shop: Kaffee
+shop: coffee
 ---

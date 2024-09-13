@@ -1,5 +1,5 @@
 ---
 title: "Alpaca Maps"
 url: /abbotsford/alpaca-maps/
-shop: Reisebüro
+shop: travel agency
 ---

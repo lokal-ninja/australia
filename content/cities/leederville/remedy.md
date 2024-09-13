@@ -1,5 +1,5 @@
 ---
 title: "Remedy"
 url: /leederville/remedy/
-shop: Andenken
+shop: gift
 ---

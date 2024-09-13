@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /euroa/iga/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Foodworks"
 url: /canungra/foodworks/
-shop: Supermarkt
+shop: supermarket
 ---

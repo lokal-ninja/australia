@@ -1,5 +1,5 @@
 ---
 title: "Frank Rocca Men's Wear"
 url: /fairfield/frank-rocca-mens-wear/
-shop: Kleidung
+shop: clothes
 ---

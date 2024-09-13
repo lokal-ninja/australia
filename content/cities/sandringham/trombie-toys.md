@@ -1,5 +1,5 @@
 ---
 title: "Trombie Toys"
 url: /sandringham/trombie-toys/
-shop: Spielzeug
+shop: toys
 ---

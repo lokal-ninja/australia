@@ -1,5 +1,5 @@
 ---
 title: "Woolworths Metro"
 url: /newtown/woolworths-metro/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Burson Auto Parts"
 url: /clayton/burson-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

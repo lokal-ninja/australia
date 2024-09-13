@@ -1,5 +1,5 @@
 ---
 title: "Bedworks"
 url: /stanmore/bedworks/
-shop: Betten
+shop: bed
 ---

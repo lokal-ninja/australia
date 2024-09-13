@@ -1,5 +1,5 @@
 ---
 title: "Mozi"
 url: /fitzroy/mozi/
-shop: Raumausstattung
+shop: interior decoration
 ---

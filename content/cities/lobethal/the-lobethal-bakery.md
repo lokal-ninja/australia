@@ -1,5 +1,5 @@
 ---
 title: "The Lobethal Bakery"
 url: /lobethal/the-lobethal-bakery/
-shop: Bäckerei
+shop: bakery
 ---

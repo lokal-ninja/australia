@@ -1,5 +1,5 @@
 ---
 title: "Salvos"
 url: /ballarat/salvos/
-shop: Gebrauchtwaren
+shop: charity
 ---

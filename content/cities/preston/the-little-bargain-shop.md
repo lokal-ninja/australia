@@ -1,5 +1,5 @@
 ---
 title: "The Little Bargain Shop"
 url: /preston/the-little-bargain-shop/
-shop: Kramladen
+shop: variety store
 ---

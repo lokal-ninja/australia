@@ -1,5 +1,5 @@
 ---
 title: "Genki Mart Alderley"
 url: /brisbane/genki-mart-alderley/
-shop: Supermarkt
+shop: supermarket
 ---

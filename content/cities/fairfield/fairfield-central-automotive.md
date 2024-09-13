@@ -1,5 +1,5 @@
 ---
 title: "Fairfield Central Automotive"
 url: /fairfield/fairfield-central-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Battery Barn"
 url: /toowoomba/battery-barn/
-shop: Autoteile
+shop: car parts
 ---

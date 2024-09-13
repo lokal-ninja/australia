@@ -1,5 +1,5 @@
 ---
 title: "Real Toys"
 url: /melbourne/real-toys/
-shop: Spielzeug
+shop: toys
 ---

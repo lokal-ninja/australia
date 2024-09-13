@@ -1,5 +1,5 @@
 ---
 title: "Uptown Local"
 url: /coffs-harbour/uptown-local/
-shop: Kleidung
+shop: clothes
 ---

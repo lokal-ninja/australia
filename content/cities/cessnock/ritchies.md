@@ -1,5 +1,5 @@
 ---
 title: "Ritchies"
 url: /cessnock/ritchies/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hudson"
 url: /fitzroy/hudson/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BP"
 url: /frankston/bp/
-shop: Lebensmittel
+shop: convenience
 ---

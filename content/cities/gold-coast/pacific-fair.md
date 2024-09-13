@@ -1,5 +1,5 @@
 ---
 title: "Pacific Fair"
 url: /gold-coast/pacific-fair/
-shop: Einkaufszentrum
+shop: mall
 ---

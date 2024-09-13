@@ -1,5 +1,5 @@
 ---
 title: "Cellarbrations"
 url: /belmont/cellarbrations/
-shop: Spirituosen
+shop: alcohol
 ---

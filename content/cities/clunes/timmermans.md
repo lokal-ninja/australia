@@ -1,5 +1,5 @@
 ---
 title: "Timmermans"
 url: /clunes/timmermans/
-shop: Möbel
+shop: furniture
 ---

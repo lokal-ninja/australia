@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /gembrook/iga/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Birkenstock"
 url: /paddington/birkenstock/
-shop: Schuhe
+shop: shoes
 ---

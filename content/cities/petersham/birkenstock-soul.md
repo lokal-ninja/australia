@@ -1,5 +1,5 @@
 ---
 title: "Birkenstock Soul"
 url: /petersham/birkenstock-soul/
-shop: Allgemein
+shop: shop
 ---

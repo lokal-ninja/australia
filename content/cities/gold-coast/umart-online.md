@@ -1,5 +1,5 @@
 ---
 title: "Umart Online"
 url: /gold-coast/umart-online/
-shop: Computer
+shop: computer
 ---

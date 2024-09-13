@@ -1,5 +1,5 @@
 ---
 title: "EG Australia"
 url: /brisbane/eg-australia/
-shop: Lebensmittel
+shop: convenience
 ---

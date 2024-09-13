@@ -1,5 +1,5 @@
 ---
 title: "Freedom"
 url: /melbourne/freedom/
-shop: Möbel
+shop: furniture
 ---

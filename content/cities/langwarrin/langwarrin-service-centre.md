@@ -1,5 +1,5 @@
 ---
 title: "Langwarrin Service Centre"
 url: /langwarrin/langwarrin-service-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

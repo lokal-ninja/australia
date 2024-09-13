@@ -1,5 +1,5 @@
 ---
 title: "Watch Doctor"
 url: /adelaide/watch-doctor/
-shop: Uhren
+shop: watches
 ---

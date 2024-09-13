@@ -1,5 +1,5 @@
 ---
 title: "The Galeries"
 url: /sydney/the-galeries/
-shop: Einkaufszentrum
+shop: mall
 ---

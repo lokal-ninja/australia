@@ -1,5 +1,5 @@
 ---
 title: "Taboo on Ripon"
 url: /ballarat/taboo-on-ripon/
-shop: Friseur
+shop: hairdresser
 ---

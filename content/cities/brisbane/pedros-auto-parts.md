@@ -1,5 +1,5 @@
 ---
 title: "Pedros Auto Parts"
 url: /brisbane/pedros-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kathmandu"
 url: /fitzroy/kathmandu/
-shop: Outdoor
+shop: outdoor
 ---

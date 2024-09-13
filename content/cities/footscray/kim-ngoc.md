@@ -1,5 +1,5 @@
 ---
 title: "Kim Ngọc"
 url: /footscray/kim-ngoc/
-shop: Schmuck
+shop: jewelry
 ---

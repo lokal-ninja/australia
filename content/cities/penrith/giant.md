@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /penrith/giant/
-shop: Fahrrad
+shop: bicycle
 ---

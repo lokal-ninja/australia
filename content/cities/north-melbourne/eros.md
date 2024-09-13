@@ -1,5 +1,5 @@
 ---
 title: "Eros"
 url: /north-melbourne/eros/
-shop: Kosmetik
+shop: beauty
 ---

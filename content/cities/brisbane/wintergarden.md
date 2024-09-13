@@ -1,5 +1,5 @@
 ---
 title: "Wintergarden"
 url: /brisbane/wintergarden/
-shop: Einkaufszentrum
+shop: mall
 ---

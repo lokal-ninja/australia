@@ -1,5 +1,5 @@
 ---
 title: "APCO"
 url: /golden-point/apco/
-shop: Lebensmittel
+shop: convenience
 ---

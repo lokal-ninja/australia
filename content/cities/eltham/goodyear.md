@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /eltham/goodyear/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Celebrations"
 url: /balwyn-north/celebrations/
-shop: Brautkleider
+shop: wedding gown
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tan's Greenhouse"
 url: /preston/tans-greenhouse/
-shop: Blumen
+shop: florist
 ---

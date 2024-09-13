@@ -1,5 +1,5 @@
 ---
 title: "Gas Up"
 url: /brisbane/gas-up/
-shop: Autowerkstatt
+shop: car repair
 ---

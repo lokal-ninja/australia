@@ -1,5 +1,5 @@
 ---
 title: "Jura Books"
 url: /sydney/jura-books/
-shop: Bücher
+shop: books
 ---

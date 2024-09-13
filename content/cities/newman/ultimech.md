@@ -1,5 +1,5 @@
 ---
 title: "UltiMech"
 url: /newman/ultimech/
-shop: Autowerkstatt
+shop: car repair
 ---

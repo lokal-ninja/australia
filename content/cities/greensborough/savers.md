@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /greensborough/savers/
-shop: Gebrauchtwaren
+shop: charity
 ---

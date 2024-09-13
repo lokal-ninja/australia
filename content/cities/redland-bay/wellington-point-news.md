@@ -1,5 +1,5 @@
 ---
 title: "Wellington Point News"
 url: /redland-bay/wellington-point-news/
-shop: Zeitungen
+shop: newsagent
 ---

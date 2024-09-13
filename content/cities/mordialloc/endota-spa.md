@@ -1,5 +1,5 @@
 ---
 title: "Endota Spa"
 url: /mordialloc/endota-spa/
-shop: Kosmetik
+shop: beauty
 ---

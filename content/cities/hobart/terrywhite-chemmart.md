@@ -1,5 +1,5 @@
 ---
 title: "TerryWhite Chemmart"
 url: /hobart/terrywhite-chemmart/
-shop: Leerstehend
+shop: vacant
 ---

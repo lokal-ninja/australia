@@ -1,5 +1,5 @@
 ---
 title: "Harvey Norman"
 url: /south-nowra/harvey-norman/
-shop: Warenhaus
+shop: department store
 ---

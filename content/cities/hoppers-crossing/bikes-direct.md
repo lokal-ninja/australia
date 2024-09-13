@@ -1,5 +1,5 @@
 ---
 title: "Bikes Direct"
 url: /hoppers-crossing/bikes-direct/
-shop: Fahrrad
+shop: bicycle
 ---

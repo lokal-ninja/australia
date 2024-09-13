@@ -1,5 +1,5 @@
 ---
 title: "Shing Hing Butchers"
 url: /preston/shing-hing-butchers/
-shop: Metzgerei
+shop: butcher
 ---

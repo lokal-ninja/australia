@@ -1,5 +1,5 @@
 ---
 title: "Lithium Bicycle"
 url: /carlton/lithium-bicycle/
-shop: Fahrrad
+shop: bicycle
 ---

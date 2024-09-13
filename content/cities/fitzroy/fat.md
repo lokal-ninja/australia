@@ -1,5 +1,5 @@
 ---
 title: "Fat"
 url: /fitzroy/fat/
-shop: Kleidung
+shop: clothes
 ---

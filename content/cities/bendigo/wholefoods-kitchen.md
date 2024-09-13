@@ -1,5 +1,5 @@
 ---
 title: "Wholefoods Kitchen"
 url: /bendigo/wholefoods-kitchen/
-shop: Kaffee
+shop: coffee
 ---

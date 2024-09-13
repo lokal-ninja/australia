@@ -1,5 +1,5 @@
 ---
 title: "Jason Gallagher Mechanical Services"
 url: /beenleigh/jason-gallagher-mechanical-services/
-shop: Autowerkstatt
+shop: car repair
 ---

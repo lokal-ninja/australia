@@ -1,5 +1,5 @@
 ---
 title: "SOS Phone Repairs"
 url: /coffs-harbour/sos-phone-repairs/
-shop: Elektronik
+shop: electronics
 ---

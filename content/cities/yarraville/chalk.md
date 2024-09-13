@@ -1,5 +1,5 @@
 ---
 title: "Chalk"
 url: /yarraville/chalk/
-shop: Spielzeug
+shop: toys
 ---

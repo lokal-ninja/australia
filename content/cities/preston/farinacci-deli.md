@@ -1,5 +1,5 @@
 ---
 title: "Farinacci Deli"
 url: /preston/farinacci-deli/
-shop: Feinkost
+shop: deli
 ---

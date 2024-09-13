@@ -1,5 +1,5 @@
 ---
 title: "Bakers Delight"
 url: /melbourne/bakers-delight-union-road/
-shop: Bäckerei
+shop: bakery
 ---

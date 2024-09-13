@@ -1,5 +1,5 @@
 ---
 title: "NQR"
 url: /frankston/nqr/
-shop: Supermarkt
+shop: supermarket
 ---

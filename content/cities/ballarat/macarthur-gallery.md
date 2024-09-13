@@ -1,5 +1,5 @@
 ---
 title: "Macarthur Gallery"
 url: /ballarat/macarthur-gallery/
-shop: Kunst
+shop: art
 ---

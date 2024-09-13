@@ -1,5 +1,5 @@
 ---
 title: "IGA Express"
 url: /seaford/iga-express/
-shop: Supermarkt
+shop: supermarket
 ---

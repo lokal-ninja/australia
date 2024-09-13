@@ -1,5 +1,5 @@
 ---
 title: "Superhuman Food Store"
 url: /brunswick/superhuman-food-store/
-shop: Bioladen
+shop: health food
 ---

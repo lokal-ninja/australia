@@ -1,5 +1,5 @@
 ---
 title: "Hydraulic Repairs Australia"
 url: /brisbane/hydraulic-repairs-australia/
-shop: Allgemein
+shop: shop
 ---

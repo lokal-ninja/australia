@@ -1,5 +1,5 @@
 ---
 title: "Anda"
 url: /balwyn/anda/
-shop: Massage
+shop: massage
 ---

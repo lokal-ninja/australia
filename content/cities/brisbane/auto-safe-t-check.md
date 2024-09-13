@@ -1,5 +1,5 @@
 ---
 title: "Auto Safe T Check"
 url: /brisbane/auto-safe-t-check/
-shop: Autowerkstatt
+shop: car repair
 ---

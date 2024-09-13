@@ -1,5 +1,5 @@
 ---
 title: "Genesis"
 url: /perth/genesis/
-shop: Autowerkstatt
+shop: car repair
 ---

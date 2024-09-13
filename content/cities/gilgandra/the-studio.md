@@ -1,5 +1,5 @@
 ---
 title: "The Studio"
 url: /gilgandra/the-studio/
-shop: Friseur
+shop: hairdresser
 ---

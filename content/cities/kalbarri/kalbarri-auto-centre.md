@@ -1,5 +1,5 @@
 ---
 title: "Kalbarri Auto Centre"
 url: /kalbarri/kalbarri-auto-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spectacles Galore"
 url: /preston/spectacles-galore/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spicelines"
 url: /melbourne/spicelines/
-shop: Supermarkt
+shop: supermarket
 ---

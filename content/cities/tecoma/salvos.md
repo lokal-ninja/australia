@@ -1,5 +1,5 @@
 ---
 title: "Salvos"
 url: /tecoma/salvos/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AMR Renault"
 url: /haberfield/amr-renault/
-shop: Autoteile
+shop: car parts
 ---

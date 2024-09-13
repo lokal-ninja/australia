@@ -1,5 +1,5 @@
 ---
 title: "Anne Moran"
 url: /mont-albert/anne-moran/
-shop: Kleidung
+shop: clothes
 ---

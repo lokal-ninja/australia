@@ -1,5 +1,5 @@
 ---
 title: "Helloworld Forbes"
 url: /forbes/helloworld-forbes/
-shop: Reisebüro
+shop: travel agency
 ---

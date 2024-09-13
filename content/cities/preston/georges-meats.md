@@ -1,5 +1,5 @@
 ---
 title: "George's Meats"
 url: /preston/georges-meats/
-shop: Metzgerei
+shop: butcher
 ---

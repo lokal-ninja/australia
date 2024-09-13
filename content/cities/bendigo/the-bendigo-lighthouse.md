@@ -1,5 +1,5 @@
 ---
 title: "The Bendigo Lighthouse"
 url: /bendigo/the-bendigo-lighthouse/
-shop: Eisenwaren
+shop: hardware
 ---

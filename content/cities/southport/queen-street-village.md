@@ -1,5 +1,5 @@
 ---
 title: "Queen Street Village"
 url: /southport/queen-street-village/
-shop: Einkaufszentrum
+shop: mall
 ---

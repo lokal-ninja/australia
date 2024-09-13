@@ -1,5 +1,5 @@
 ---
 title: "Pamak Hobbies"
 url: /bargo/pamak-hobbies/
-shop: Sport
+shop: sports
 ---

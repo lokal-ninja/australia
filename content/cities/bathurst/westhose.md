@@ -1,5 +1,5 @@
 ---
 title: "Westhose"
 url: /bathurst/westhose/
-shop: Baustoffe
+shop: trade
 ---

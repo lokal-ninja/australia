@@ -1,5 +1,5 @@
 ---
 title: "Telstra"
 url: /narrabri/telstra/
-shop: Handy
+shop: mobile phone
 ---

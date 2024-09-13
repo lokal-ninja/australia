@@ -1,5 +1,5 @@
 ---
 title: "Premier Hearing"
 url: /coffs-harbour/premier-hearing/
-shop: Hörgeräte
+shop: hearing aids
 ---

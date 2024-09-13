@@ -1,5 +1,5 @@
 ---
 title: "Spotlight"
 url: /kelso/spotlight/
-shop: Textil
+shop: fabric
 ---

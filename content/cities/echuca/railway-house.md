@@ -1,5 +1,5 @@
 ---
 title: "Railway House"
 url: /echuca/railway-house/
-shop: Sport
+shop: sports
 ---

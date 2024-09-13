@@ -1,5 +1,5 @@
 ---
 title: "Barratts Coin Operated Laundry"
 url: /merewether/barratts-coin-operated-laundry/
-shop: Wäscherei
+shop: laundry
 ---

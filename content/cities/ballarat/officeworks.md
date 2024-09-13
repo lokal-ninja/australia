@@ -1,5 +1,5 @@
 ---
 title: "Officeworks"
 url: /ballarat/officeworks/
-shop: Schreibwaren
+shop: office supplies
 ---

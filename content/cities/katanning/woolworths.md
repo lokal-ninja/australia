@@ -1,5 +1,5 @@
 ---
 title: "Woolworths"
 url: /katanning/woolworths/
-shop: Supermarkt
+shop: supermarket
 ---

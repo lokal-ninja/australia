@@ -1,5 +1,5 @@
 ---
 title: "Officeworks"
 url: /hornsby/officeworks/
-shop: Schreibwaren
+shop: office supplies
 ---

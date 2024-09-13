@@ -1,5 +1,5 @@
 ---
 title: "Cash Converters"
 url: /brisbane/cash-converters/
-shop: Leiher
+shop: pawnbroker
 ---

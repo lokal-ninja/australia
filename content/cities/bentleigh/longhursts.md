@@ -1,5 +1,5 @@
 ---
 title: "Longhursts"
 url: /bentleigh/longhursts/
-shop: Bäckerei
+shop: bakery
 ---

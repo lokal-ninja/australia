@@ -1,5 +1,5 @@
 ---
 title: "Bicycle Workshop"
 url: /ringwood/bicycle-workshop/
-shop: Fahrrad
+shop: bicycle
 ---

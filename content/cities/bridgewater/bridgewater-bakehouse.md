@@ -1,5 +1,5 @@
 ---
 title: "Bridgewater Bakehouse"
 url: /bridgewater/bridgewater-bakehouse/
-shop: Bäckerei
+shop: bakery
 ---

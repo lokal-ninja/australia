@@ -1,5 +1,5 @@
 ---
 title: "Sacca's Fine Foods"
 url: /coburg/saccas-fine-foods/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Glenross Antiques"
 url: /holbrook-nsw/glenross-antiques/
-shop: Antiquitäten
+shop: antiques
 ---

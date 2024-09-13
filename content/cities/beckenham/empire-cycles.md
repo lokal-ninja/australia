@@ -1,5 +1,5 @@
 ---
 title: "Empire Cycles"
 url: /beckenham/empire-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

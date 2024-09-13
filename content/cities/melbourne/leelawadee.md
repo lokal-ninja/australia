@@ -1,5 +1,5 @@
 ---
 title: "Leelawadee"
 url: /melbourne/leelawadee/
-shop: Massage
+shop: massage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "OTR"
 url: /hyde-park/otr/
-shop: Lebensmittel
+shop: convenience
 ---

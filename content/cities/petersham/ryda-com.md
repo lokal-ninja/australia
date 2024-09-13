@@ -1,5 +1,5 @@
 ---
 title: "Ryda.com"
 url: /petersham/ryda-com/
-shop: Elektronik
+shop: electronics
 ---

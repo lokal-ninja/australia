@@ -1,5 +1,5 @@
 ---
 title: "Bridgestone"
 url: /toowoomba/bridgestone/
-shop: Reifen
+shop: tyres
 ---

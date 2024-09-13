@@ -1,5 +1,5 @@
 ---
 title: "Ultra Tune"
 url: /christies-beach/ultra-tune/
-shop: Autowerkstatt
+shop: car repair
 ---

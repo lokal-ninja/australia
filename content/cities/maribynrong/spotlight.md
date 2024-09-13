@@ -1,5 +1,5 @@
 ---
 title: "Spotlight"
 url: /maribynrong/spotlight/
-shop: Textil
+shop: fabric
 ---

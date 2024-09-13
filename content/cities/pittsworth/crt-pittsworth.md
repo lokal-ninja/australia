@@ -1,5 +1,5 @@
 ---
 title: "CRT Pittsworth"
 url: /pittsworth/crt-pittsworth/
-shop: Eisenwaren
+shop: hardware
 ---

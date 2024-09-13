@@ -1,5 +1,5 @@
 ---
 title: "Foodworks"
 url: /wedderburn/foodworks/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bendigo Marketplace"
 url: /bendigo/bendigo-marketplace/
-shop: Einkaufszentrum
+shop: mall
 ---

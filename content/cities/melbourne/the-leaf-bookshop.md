@@ -1,5 +1,5 @@
 ---
 title: "The Leaf Bookshop"
 url: /melbourne/the-leaf-bookshop/
-shop: Bücher
+shop: books
 ---

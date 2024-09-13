@@ -1,5 +1,5 @@
 ---
 title: "Patterson Cheney Isuzu"
 url: /dandenong/patterson-cheney-isuzu/
-shop: Autohaus
+shop: car
 ---

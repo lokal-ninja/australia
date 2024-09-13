@@ -1,5 +1,5 @@
 ---
 title: "Repco"
 url: /rowville/repco/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Officeworks"
 url: /prospect/officeworks/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sensara"
 url: /coffs-harbour/sensara/
-shop: Kleidung
+shop: clothes
 ---

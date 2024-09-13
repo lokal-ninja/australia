@@ -1,5 +1,5 @@
 ---
 title: "Attune"
 url: /maryborough/attune/
-shop: Hörgeräte
+shop: hearing aids
 ---

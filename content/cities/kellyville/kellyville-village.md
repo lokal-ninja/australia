@@ -1,5 +1,5 @@
 ---
 title: "Kellyville Village"
 url: /kellyville/kellyville-village/
-shop: Einkaufszentrum
+shop: mall
 ---

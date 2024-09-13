@@ -1,5 +1,5 @@
 ---
 title: "Electric Brain"
 url: /brunswick-east/electric-brain/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coles"
 url: /geelong-west/coles/
-shop: Supermarkt
+shop: supermarket
 ---

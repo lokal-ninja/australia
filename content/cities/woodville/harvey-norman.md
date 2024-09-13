@@ -1,5 +1,5 @@
 ---
 title: "Harvey Norman"
 url: /woodville/harvey-norman/
-shop: Warenhaus
+shop: department store
 ---

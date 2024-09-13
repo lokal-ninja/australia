@@ -1,5 +1,5 @@
 ---
 title: "Micomputer"
 url: /murwillumbah/micomputer/
-shop: Computer
+shop: computer
 ---

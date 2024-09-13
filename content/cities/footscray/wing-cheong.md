@@ -1,5 +1,5 @@
 ---
 title: "Wing Cheong"
 url: /footscray/wing-cheong/
-shop: Lebensmittel
+shop: convenience
 ---

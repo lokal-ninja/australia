@@ -1,5 +1,5 @@
 ---
 title: "The Haunted Bookshop"
 url: /melbourne/the-haunted-bookshop/
-shop: Bücher
+shop: books
 ---

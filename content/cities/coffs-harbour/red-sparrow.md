@@ -1,5 +1,5 @@
 ---
 title: "Red Sparrow"
 url: /coffs-harbour/red-sparrow/
-shop: Tee
+shop: tea
 ---

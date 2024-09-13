@@ -1,5 +1,5 @@
 ---
 title: "Dream Lighting"
 url: /logan/dream-lighting/
-shop: Raumausstattung
+shop: interior decoration
 ---

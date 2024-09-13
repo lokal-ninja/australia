@@ -1,5 +1,5 @@
 ---
 title: "Mount Pleasant"
 url: /polkolbin/mount-pleasant/
-shop: Wein
+shop: wine
 ---

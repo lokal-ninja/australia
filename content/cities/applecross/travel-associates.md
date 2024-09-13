@@ -1,5 +1,5 @@
 ---
 title: "Travel Associates"
 url: /applecross/travel-associates/
-shop: Reisebüro
+shop: travel agency
 ---

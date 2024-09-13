@@ -1,5 +1,5 @@
 ---
 title: "Optus"
 url: /melbourne/optus/
-shop: Handy
+shop: mobile phone
 ---

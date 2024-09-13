@@ -1,5 +1,5 @@
 ---
 title: "Premix King"
 url: /ballarat/premix-king/
-shop: Spirituosen
+shop: alcohol
 ---

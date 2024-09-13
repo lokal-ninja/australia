@@ -1,5 +1,5 @@
 ---
 title: "Mornington Cycles"
 url: /melbourne/mornington-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

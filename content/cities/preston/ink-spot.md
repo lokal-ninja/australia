@@ -1,5 +1,5 @@
 ---
 title: "Ink Spot"
 url: /preston/ink-spot/
-shop: Schreibwaren
+shop: office supplies
 ---

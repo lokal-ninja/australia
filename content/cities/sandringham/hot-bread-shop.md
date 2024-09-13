@@ -1,5 +1,5 @@
 ---
 title: "Hot Bread Shop"
 url: /sandringham/hot-bread-shop/
-shop: Bäckerei
+shop: bakery
 ---

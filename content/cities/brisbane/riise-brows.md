@@ -1,5 +1,5 @@
 ---
 title: "Riise Brows"
 url: /brisbane/riise-brows/
-shop: Kosmetik
+shop: beauty
 ---

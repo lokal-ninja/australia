@@ -1,5 +1,5 @@
 ---
 title: "Forbes Smash"
 url: /forbes/forbes-smash/
-shop: Autowerkstatt
+shop: car repair
 ---

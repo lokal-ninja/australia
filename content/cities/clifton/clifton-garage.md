@@ -1,5 +1,5 @@
 ---
 title: "Clifton Garage"
 url: /clifton/clifton-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alco Battery Sales"
 url: /yatala/alco-battery-sales/
-shop: Autoteile
+shop: car parts
 ---

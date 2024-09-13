@@ -1,5 +1,5 @@
 ---
 title: "Lollies2Go"
 url: /bendigo/lollies2go/
-shop: Süßwaren
+shop: confectionery
 ---

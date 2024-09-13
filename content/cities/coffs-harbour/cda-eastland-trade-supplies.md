@@ -1,5 +1,5 @@
 ---
 title: "CDA Eastland Trade Supplies"
 url: /coffs-harbour/cda-eastland-trade-supplies/
-shop: Eisenwaren
+shop: hardware
 ---

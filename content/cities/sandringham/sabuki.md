@@ -1,5 +1,5 @@
 ---
 title: "Sabuki"
 url: /sandringham/sabuki/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eneraque"
 url: /brisbane/eneraque/
-shop: Eisenwaren
+shop: hardware
 ---

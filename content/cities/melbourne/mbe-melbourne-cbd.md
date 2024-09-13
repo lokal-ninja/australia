@@ -1,5 +1,5 @@
 ---
 title: "MBE Melbourne CBD"
 url: /melbourne/mbe-melbourne-cbd/
-shop: Kopieren
+shop: copyshop
 ---

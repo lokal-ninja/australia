@@ -1,5 +1,5 @@
 ---
 title: "Fairfield Station Tobacconist"
 url: /fairfield/fairfield-station-tobacconist/
-shop: Tabak
+shop: tobacco
 ---

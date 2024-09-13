@@ -1,5 +1,5 @@
 ---
 title: "United"
 url: /myaree/united/
-shop: Lebensmittel
+shop: convenience
 ---

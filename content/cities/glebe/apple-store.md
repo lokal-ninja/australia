@@ -1,5 +1,5 @@
 ---
 title: "Apple Store"
 url: /glebe/apple-store/
-shop: Elektronik
+shop: electronics
 ---

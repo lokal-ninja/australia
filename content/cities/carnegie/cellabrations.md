@@ -1,5 +1,5 @@
 ---
 title: "Cellabrations"
 url: /carnegie/cellabrations/
-shop: Spirituosen
+shop: alcohol
 ---

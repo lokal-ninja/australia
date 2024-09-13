@@ -1,5 +1,5 @@
 ---
 title: "UnitingCare Bargain Centre"
 url: /yarraville/unitingcare-bargain-centre/
-shop: Gebrauchtwaren
+shop: charity
 ---

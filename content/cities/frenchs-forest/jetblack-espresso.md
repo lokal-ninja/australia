@@ -1,5 +1,5 @@
 ---
 title: "Jetblack Espresso"
 url: /frenchs-forest/jetblack-espresso/
-shop: Kaffee
+shop: coffee
 ---

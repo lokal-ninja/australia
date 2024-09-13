@@ -1,5 +1,5 @@
 ---
 title: "Divine Plants"
 url: /bundanoon/divine-plants/
-shop: Garten-Center
+shop: garden centre
 ---

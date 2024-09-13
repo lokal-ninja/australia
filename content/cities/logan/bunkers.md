@@ -1,5 +1,5 @@
 ---
 title: "Bunkers"
 url: /logan/bunkers/
-shop: Betten
+shop: bed
 ---

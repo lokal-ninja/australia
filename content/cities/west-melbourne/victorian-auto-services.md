@@ -1,5 +1,5 @@
 ---
 title: "Victorian Auto Services"
 url: /west-melbourne/victorian-auto-services/
-shop: Autowerkstatt
+shop: car repair
 ---

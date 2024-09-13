@@ -1,5 +1,5 @@
 ---
 title: "Officeworks"
 url: /mitchell-park/officeworks/
-shop: Schreibwaren
+shop: office supplies
 ---

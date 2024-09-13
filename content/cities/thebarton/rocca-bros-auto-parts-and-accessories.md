@@ -1,5 +1,5 @@
 ---
 title: "Rocca Bros. Auto Parts and Accessories"
 url: /thebarton/rocca-bros-auto-parts-and-accessories/
-shop: Autoteile
+shop: car parts
 ---

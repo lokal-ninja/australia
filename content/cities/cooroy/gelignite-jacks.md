@@ -1,5 +1,5 @@
 ---
 title: "Gelignite Jacks"
 url: /cooroy/gelignite-jacks/
-shop: Kramladen
+shop: variety store
 ---

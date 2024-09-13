@@ -1,5 +1,5 @@
 ---
 title: "Andersens"
 url: /brisbane/andersens/
-shop: Fußböden
+shop: flooring
 ---

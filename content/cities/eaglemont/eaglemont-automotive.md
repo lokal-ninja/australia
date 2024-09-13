@@ -1,5 +1,5 @@
 ---
 title: "Eaglemont Automotive"
 url: /eaglemont/eaglemont-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supercheap Auto"
 url: /wangaratta/supercheap-auto/
-shop: Autoteile
+shop: car parts
 ---

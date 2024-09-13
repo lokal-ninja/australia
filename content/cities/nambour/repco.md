@@ -1,5 +1,5 @@
 ---
 title: "Repco"
 url: /nambour/repco/
-shop: Autoteile
+shop: car parts
 ---

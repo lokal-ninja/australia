@@ -1,5 +1,5 @@
 ---
 title: "EzyMart"
 url: /carlton/ezymart/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Recycled Delightful"
 url: /northcote/recycled-delightful/
-shop: Kunst
+shop: art
 ---

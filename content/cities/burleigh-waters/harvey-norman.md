@@ -1,5 +1,5 @@
 ---
 title: "Harvey Norman"
 url: /burleigh-waters/harvey-norman/
-shop: Haushaltsartikel
+shop: houseware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hill Street Grocer New Town"
 url: /hobart/hill-street-grocer-new-town/
-shop: Supermarkt
+shop: supermarket
 ---

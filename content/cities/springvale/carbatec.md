@@ -1,5 +1,5 @@
 ---
 title: "Carbatec"
 url: /springvale/carbatec/
-shop: Baumarkt
+shop: doityourself
 ---

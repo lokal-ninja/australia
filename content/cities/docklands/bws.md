@@ -1,5 +1,5 @@
 ---
 title: "BWS"
 url: /docklands/bws/
-shop: Spirituosen
+shop: alcohol
 ---

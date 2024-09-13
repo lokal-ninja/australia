@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /point-cook/iga/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cooks Trailer Hire Office"
 url: /seaton/cooks-trailer-hire-office/
-shop: Allgemein
+shop: shop
 ---

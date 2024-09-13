@@ -1,5 +1,5 @@
 ---
 title: "Spar Express"
 url: /beaudesert/spar-express/
-shop: Lebensmittel
+shop: convenience
 ---

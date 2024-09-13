@@ -1,5 +1,5 @@
 ---
 title: "Rent-a-Shed"
 url: /burleigh-heads/rent-a-shed/
-shop: Mieten
+shop: storage rental
 ---

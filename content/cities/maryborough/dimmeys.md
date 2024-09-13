@@ -1,5 +1,5 @@
 ---
 title: "Dimmeys"
 url: /maryborough/dimmeys/
-shop: Warenhaus
+shop: department store
 ---

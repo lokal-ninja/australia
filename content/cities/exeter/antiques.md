@@ -1,5 +1,5 @@
 ---
 title: "Antiques"
 url: /exeter/antiques/
-shop: Antiquitäten
+shop: antiques
 ---

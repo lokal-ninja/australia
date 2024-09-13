@@ -1,5 +1,5 @@
 ---
 title: "The Football Hub"
 url: /brisbane/the-football-hub/
-shop: Sport
+shop: sports
 ---

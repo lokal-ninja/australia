@@ -1,5 +1,5 @@
 ---
 title: "Berkelo"
 url: /mona-vale/berkelo/
-shop: Bäckerei
+shop: bakery
 ---

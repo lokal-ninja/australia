@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /dubbo/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

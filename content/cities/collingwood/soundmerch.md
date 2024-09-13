@@ -1,5 +1,5 @@
 ---
 title: "SOUNDMERCH"
 url: /collingwood/soundmerch/
-shop: Musik
+shop: music
 ---

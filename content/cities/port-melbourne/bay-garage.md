@@ -1,5 +1,5 @@
 ---
 title: "Bay Garage"
 url: /port-melbourne/bay-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

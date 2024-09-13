@@ -1,5 +1,5 @@
 ---
 title: "Macpac"
 url: /nunawading/macpac/
-shop: Outdoor
+shop: outdoor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Saint Cloud"
 url: /fitzroy/saint-cloud/
-shop: Fahrrad
+shop: bicycle
 ---

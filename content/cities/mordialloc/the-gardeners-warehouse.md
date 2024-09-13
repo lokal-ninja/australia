@@ -1,5 +1,5 @@
 ---
 title: "The Gardeners Warehouse"
 url: /mordialloc/the-gardeners-warehouse/
-shop: Garten-Center
+shop: garden centre
 ---

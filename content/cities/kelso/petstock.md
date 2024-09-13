@@ -1,5 +1,5 @@
 ---
 title: "Petstock"
 url: /kelso/petstock/
-shop: Tiere
+shop: pet
 ---

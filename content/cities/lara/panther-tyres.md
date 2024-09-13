@@ -1,5 +1,5 @@
 ---
 title: "Panther Tyres"
 url: /lara/panther-tyres/
-shop: Reifen
+shop: tyres
 ---

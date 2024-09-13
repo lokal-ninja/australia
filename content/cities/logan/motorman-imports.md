@@ -1,5 +1,5 @@
 ---
 title: "Motorman Imports"
 url: /logan/motorman-imports/
-shop: Autohaus
+shop: car
 ---

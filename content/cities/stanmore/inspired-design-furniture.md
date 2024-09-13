@@ -1,5 +1,5 @@
 ---
 title: "Inspired Design Furniture"
 url: /stanmore/inspired-design-furniture/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Officeworks"
 url: /bendigo/officeworks/
-shop: Schreibwaren
+shop: office supplies
 ---

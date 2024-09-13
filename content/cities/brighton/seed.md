@@ -1,5 +1,5 @@
 ---
 title: "Seed"
 url: /brighton/seed/
-shop: Kleidung
+shop: clothes
 ---

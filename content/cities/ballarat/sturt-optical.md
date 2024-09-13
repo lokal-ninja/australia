@@ -1,5 +1,5 @@
 ---
 title: "Sturt Optical"
 url: /ballarat/sturt-optical/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Union Liquor"
 url: /newtown/union-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

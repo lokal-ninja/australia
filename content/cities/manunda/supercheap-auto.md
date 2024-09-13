@@ -1,5 +1,5 @@
 ---
 title: "Supercheap Auto"
 url: /manunda/supercheap-auto/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Foodworks"
 url: /heidelberg-west/foodworks/
-shop: Supermarkt
+shop: supermarket
 ---

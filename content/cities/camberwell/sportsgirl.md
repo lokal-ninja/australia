@@ -1,5 +1,5 @@
 ---
 title: "Sportsgirl"
 url: /camberwell/sportsgirl/
-shop: Kleidung
+shop: clothes
 ---

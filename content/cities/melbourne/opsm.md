@@ -1,5 +1,5 @@
 ---
 title: "OPSM"
 url: /melbourne/opsm/
-shop: Optiker
+shop: optician
 ---

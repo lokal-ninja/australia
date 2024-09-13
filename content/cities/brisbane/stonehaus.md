@@ -1,5 +1,5 @@
 ---
 title: "StoneHaus"
 url: /brisbane/stonehaus/
-shop: Fußböden
+shop: flooring
 ---

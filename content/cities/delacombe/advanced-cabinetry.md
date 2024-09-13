@@ -1,5 +1,5 @@
 ---
 title: "Advanced Cabinetry"
 url: /delacombe/advanced-cabinetry/
-shop: Allgemein
+shop: shop
 ---

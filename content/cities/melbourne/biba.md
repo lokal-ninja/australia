@@ -1,5 +1,5 @@
 ---
 title: "Biba"
 url: /melbourne/biba/
-shop: Friseur
+shop: hairdresser
 ---

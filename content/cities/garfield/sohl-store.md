@@ -1,5 +1,5 @@
 ---
 title: "SOHL Store"
 url: /garfield/sohl-store/
-shop: Kleidung
+shop: clothes
 ---

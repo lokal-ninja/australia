@@ -1,5 +1,5 @@
 ---
 title: "On the Run"
 url: /plympton-south/on-the-run/
-shop: Lebensmittel
+shop: convenience
 ---

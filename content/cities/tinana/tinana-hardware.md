@@ -1,5 +1,5 @@
 ---
 title: "Tinana Hardware"
 url: /tinana/tinana-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

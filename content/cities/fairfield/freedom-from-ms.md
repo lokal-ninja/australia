@@ -1,5 +1,5 @@
 ---
 title: "Freedom From Ms"
 url: /fairfield/freedom-from-ms/
-shop: Gebrauchtwaren
+shop: charity
 ---

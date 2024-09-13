@@ -1,5 +1,5 @@
 ---
 title: "TradeTools"
 url: /brisbane/tradetools/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Woolworths"
 url: /mudgeeraba/woolworths/
-shop: Supermarkt
+shop: supermarket
 ---

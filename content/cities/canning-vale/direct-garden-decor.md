@@ -1,5 +1,5 @@
 ---
 title: "Direct Garden Decor"
 url: /canning-vale/direct-garden-decor/
-shop: Garten-Center
+shop: garden centre
 ---
