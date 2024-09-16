@@ -1,11 +1,11 @@
 id: 1070233454
-type: way
+type: node
 latitude: -27.55495
 longitude: 153.01226
 postcode: "4106"
 city: Brisbane
-street: "Marshall Road"
-housenumber: 164
+street: Marshall Road
+housenumber: "164"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: -33.81433
 longitude: 151.00613
 postcode: "2150"
 city: Parramatta
-street: "Smith Street"
-housenumber: 29
-phone: "+61 2 9891 1144"
-opening_hours: "Mo-Fr 08:45-17:15;Sa,Su,PH off"
-website: "https://www.mbeparramatta.com.au/"
+street: Smith Street
+housenumber: "29"
+phone: +61 2 9891 1144
+opening_hours: Mo-Fr 08:45-17:15;Sa,Su,PH off
+website: https://www.mbeparramatta.com.au/

@@ -1,11 +1,11 @@
 id: 496386101
-type: way
+type: node
 latitude: -37.67299
 longitude: 145.15606
 postcode: "3089"
 city: DIamond Creek
-street: "Elizabeth Street"
-housenumber: 10
+street: Elizabeth Street
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

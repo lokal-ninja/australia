@@ -1,11 +1,11 @@
 id: 553021212
-type: way
+type: node
 latitude: -34.84029
 longitude: 138.4925
 postcode: "5019"
 city: Exeter
-street: "Semaphore Road"
+street: Semaphore Road
 housenumber: 185a
-phone: "+61 8 8242 7737"
-opening_hours: "by apointment"
+phone: +61 8 8242 7737
+opening_hours: '"by apointment"'
 website: ""

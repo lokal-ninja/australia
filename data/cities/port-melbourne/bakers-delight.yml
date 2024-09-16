@@ -4,8 +4,8 @@ latitude: -37.83863
 longitude: 144.94207
 postcode: "3207"
 city: Port Melbourne
-street: "Bay Street"
-housenumber: 201
+street: Bay Street
+housenumber: "201"
 phone: ""
 opening_hours: ""
-website: "https://www.bakersdelight.com.au/"
+website: https://www.bakersdelight.com.au/

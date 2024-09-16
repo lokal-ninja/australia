@@ -1,11 +1,11 @@
 id: 336995337
-type: way
+type: node
 latitude: -37.83828
 longitude: 144.98986
 postcode: "3141"
 city: South Yarra
-street: "Toorak Road"
-housenumber: 101
+street: Toorak Road
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

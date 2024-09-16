@@ -1,11 +1,11 @@
 id: 469383403
-type: way
+type: node
 latitude: -37.80863
 longitude: 144.94759
 postcode: "3003"
 city: West Melbourne
-street: "Stanley Street"
-housenumber: 142
-phone: "+61 3 9329 6595"
+street: Stanley Street
+housenumber: "142"
+phone: +61 3 9329 6595
 opening_hours: ""
 website: ""

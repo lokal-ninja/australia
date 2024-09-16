@@ -1,11 +1,11 @@
 id: 480932404
-type: way
+type: node
 latitude: -30.28745
 longitude: 153.12943
 postcode: "2450"
 city: Coffs Harbour
-street: "Orlando Street"
-housenumber: 173
+street: Orlando Street
+housenumber: "173"
 phone: ""
 opening_hours: ""
 website: ""

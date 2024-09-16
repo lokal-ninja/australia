@@ -4,8 +4,8 @@ latitude: -33.41611
 longitude: 149.58288
 postcode: "2795"
 city: Bathurst
-street: "William Street"
-housenumber: 35
-phone: "+61 2 5355 0632"
-opening_hours: "Mo-Sa 09:00-18:00; Su,PH 10:00-16:00"
-website: "https://www.cheesecake.com.au/find-bakery/bathurst"
+street: William Street
+housenumber: "35"
+phone: +61 2 5355 0632
+opening_hours: Mo-Sa 09:00-18:00; Su,PH 10:00-16:00
+website: https://www.cheesecake.com.au/find-bakery/bathurst

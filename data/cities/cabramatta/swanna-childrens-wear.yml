@@ -1,11 +1,11 @@
 id: 246292323
-type: way
+type: node
 latitude: -33.8952
 longitude: 150.93627
 postcode: "2166"
 city: Cabramatta
-street: "John Street"
-housenumber: 54
-phone: "+61 2 9755 1633"
+street: John Street
+housenumber: "54"
+phone: +61 2 9755 1633
 opening_hours: ""
 website: ""

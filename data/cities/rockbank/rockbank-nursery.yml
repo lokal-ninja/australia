@@ -1,11 +1,11 @@
 id: 606228857
-type: way
+type: node
 latitude: -37.71665
 longitude: 144.6397
 postcode: "3335"
 city: Rockbank
-street: "Western Freeway"
-housenumber: 2341
-phone: "+61 3 9747 1860"
-opening_hours: "Mo-Su 10:00-27:00"
-website: "https://rockbanknursery.com.au"
+street: Western Freeway
+housenumber: "2341"
+phone: +61 3 9747 1860
+opening_hours: Mo-Su 10:00-27:00
+website: https://rockbanknursery.com.au

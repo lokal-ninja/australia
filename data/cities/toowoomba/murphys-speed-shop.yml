@@ -1,11 +1,11 @@
 id: 885523503
-type: way
+type: node
 latitude: -27.56621
 longitude: 151.95074
 postcode: "4350"
 city: Toowoomba
-street: "Society Street"
-housenumber: 9
+street: Society Street
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

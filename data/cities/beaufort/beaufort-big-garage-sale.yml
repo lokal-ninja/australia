@@ -1,11 +1,11 @@
 id: 193044710
-type: way
+type: node
 latitude: -37.43013
 longitude: 143.38459
 postcode: "3373"
 city: Beaufort
-street: "Neill Street"
-housenumber: 31
-phone: "+61 3 5349 2771"
+street: Neill Street
+housenumber: "31"
+phone: +61 3 5349 2771
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 540188153
-type: way
+type: node
 latitude: -37.89968
 longitude: 145.08989
 postcode: "3166"
 city: Melbourne
-street: "Eaton Mall"
-housenumber: 25
+street: Eaton Mall
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

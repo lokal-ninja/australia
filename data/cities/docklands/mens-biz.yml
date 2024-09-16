@@ -4,8 +4,8 @@ latitude: -37.8212
 longitude: 144.94957
 postcode: "3008"
 city: Docklands
-street: "Collins Street"
-housenumber: 727
-phone: "+61 3 9629 8838"
-opening_hours: "Mo-Th 08:00-19:00; Fr 08:00-17:30; Sa-Su off"
-website: "https://www.mensbiz.com.au"
+street: Collins Street
+housenumber: "727"
+phone: +61 3 9629 8838
+opening_hours: Mo-Th 08:00-19:00; Fr 08:00-17:30; Sa-Su off
+website: https://www.mensbiz.com.au

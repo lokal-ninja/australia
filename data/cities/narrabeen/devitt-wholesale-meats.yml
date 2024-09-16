@@ -1,11 +1,11 @@
 id: 674228744
-type: way
+type: node
 latitude: -33.71983
 longitude: 151.29741
 postcode: "2101"
 city: Narrabeen
-street: "Devitt Street"
-housenumber: 2
-phone: "+61 2 9913 3686"
-opening_hours: "Mo-Fr 05:00-17:00; Sa 05:00-12:30; Su, PH off"
-website: "https://devittmeats.com.au/"
+street: Devitt Street
+housenumber: "2"
+phone: +61 2 9913 3686
+opening_hours: Mo-Fr 05:00-17:00; Sa 05:00-12:30; Su, PH off
+website: https://devittmeats.com.au/

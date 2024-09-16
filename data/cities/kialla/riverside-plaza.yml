@@ -1,11 +1,11 @@
 id: 50344084
-type: way
+type: node
 latitude: -36.40702
 longitude: 145.39137
 postcode: "3631"
 city: Kialla
-street: "Riverview Drive"
-housenumber: 
+street: Riverview Drive
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

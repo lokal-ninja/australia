@@ -1,11 +1,11 @@
 id: 540335948
-type: way
+type: node
 latitude: -27.50241
 longitude: 152.97468
 postcode: "4068"
 city: Brisbane
-street: "Station Road"
-housenumber: 20
+street: Station Road
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 09:00-16:30; Su 10:00-16:00"
+opening_hours: Mo-Sa 09:00-16:30; Su 10:00-16:00
 website: ""

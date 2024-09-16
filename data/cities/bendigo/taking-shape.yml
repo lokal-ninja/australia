@@ -4,8 +4,8 @@ latitude: -36.75971
 longitude: 144.28127
 postcode: "3550"
 city: Bendigo
-street: "Williamson Street"
-housenumber: 40
+street: Williamson Street
+housenumber: "40"
 phone: ""
 opening_hours: ""
-website: "https://takingshape.com/AU/storelocator/storedetails?slug=bendigo"
+website: https://takingshape.com/AU/storelocator/storedetails?slug=bendigo

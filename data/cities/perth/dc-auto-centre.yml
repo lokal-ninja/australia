@@ -4,8 +4,8 @@ latitude: -31.90471
 longitude: 115.84971
 postcode: "6060"
 city: Perth
-street: "Flinders Street"
-housenumber: 86
+street: Flinders Street
+housenumber: "86"
 phone: ""
-opening_hours: "Mo-Fr 08:00-16:00"
-website: "https://dcautocentre.com.au/"
+opening_hours: Mo-Fr 08:00-16:00
+website: https://dcautocentre.com.au/

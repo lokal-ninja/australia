@@ -1,11 +1,11 @@
 id: 885104056
-type: way
+type: node
 latitude: -27.56777
 longitude: 151.95145
 postcode: "4350"
 city: Toowoomba
-street: "Donald Street"
-housenumber: 5
+street: Donald Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

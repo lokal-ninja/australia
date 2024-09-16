@@ -1,11 +1,11 @@
 id: 65085998
-type: way
+type: node
 latitude: -27.77977
 longitude: 153.36669
 postcode: "4208"
 city: Jacobs Well
-street: "Pimpama Jacobs Well Road"
-housenumber: 1161
+street: Pimpama Jacobs Well Road
+housenumber: "1161"
 phone: ""
-opening_hours: "5:00-17:00"
+opening_hours: 5:00-17:00
 website: ""

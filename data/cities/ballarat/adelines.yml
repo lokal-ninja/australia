@@ -1,11 +1,11 @@
 id: 151225346
-type: way
+type: node
 latitude: -37.56125
 longitude: 143.84956
 postcode: "3350"
 city: Ballarat
-street: "Sturt Street"
-housenumber: 723
-phone: "+61 3 5332 1281"
+street: Sturt Street
+housenumber: "723"
+phone: +61 3 5332 1281
 opening_hours: ""
 website: ""

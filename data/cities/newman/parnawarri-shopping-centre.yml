@@ -1,11 +1,11 @@
 id: 337361669
-type: way
+type: node
 latitude: -23.35656
 longitude: 119.73052
 postcode: "6753"
 city: Newman
-street: "Lee Lane"
-housenumber: 1
+street: Lee Lane
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

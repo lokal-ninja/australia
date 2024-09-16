@@ -4,8 +4,8 @@ latitude: -37.7782
 longitude: 145.01842
 postcode: "3078"
 city: Fairfield
-street: "Station Street"
-housenumber: 103
-phone: "+61 3 9489 0820"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-16:00"
-website: "http://brentameats.com.au"
+street: Station Street
+housenumber: "103"
+phone: +61 3 9489 0820
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-16:00
+website: http://brentameats.com.au

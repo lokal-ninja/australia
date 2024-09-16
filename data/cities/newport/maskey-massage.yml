@@ -4,8 +4,8 @@ latitude: -37.84175
 longitude: 144.88288
 postcode: "3015"
 city: Newport
-street: "Melbourne Road"
-housenumber: 423
-phone: "+61 434 414 910"
+street: Melbourne Road
+housenumber: "423"
+phone: +61 434 414 910
 opening_hours: ""
-website: "https://www.maskeymassage.com.au"
+website: https://www.maskeymassage.com.au

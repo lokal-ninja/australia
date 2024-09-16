@@ -1,11 +1,11 @@
 id: 543898376
-type: way
+type: node
 latitude: -27.42952
 longitude: 153.03912
 postcode: "4010"
 city: Brisbane
-street: "Albion Road"
-housenumber: 59
+street: Albion Road
+housenumber: "59"
 phone: ""
-opening_hours: "by appointment"
+opening_hours: '"by appointment"'
 website: ""

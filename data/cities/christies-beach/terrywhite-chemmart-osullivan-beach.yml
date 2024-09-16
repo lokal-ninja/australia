@@ -1,11 +1,11 @@
 id: 549070592
-type: way
+type: node
 latitude: -35.13092
 longitude: 138.48206
 postcode: "5165"
 city: Christies Beach
-street: "Gulfview Road"
-housenumber: 100
+street: Gulfview Road
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

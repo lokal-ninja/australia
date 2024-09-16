@@ -1,11 +1,11 @@
 id: 216658737
-type: way
+type: node
 latitude: -23.84816
 longitude: 151.25915
 postcode: "4680"
 city: Gladstone
-street: "Goondoon Street"
-housenumber: 184
+street: Goondoon Street
+housenumber: "184"
 phone: ""
 opening_hours: ""
 website: ""

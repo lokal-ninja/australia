@@ -1,11 +1,11 @@
 id: 217652378
-type: way
+type: node
 latitude: -34.84332
 longitude: 138.50589
 postcode: "5015"
 city: Port Adelaide
-street: "Lipson Street"
-housenumber: 121
+street: Lipson Street
+housenumber: "121"
 phone: ""
 opening_hours: ""
 website: ""

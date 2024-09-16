@@ -1,11 +1,11 @@
 id: 408538261
-type: way
+type: node
 latitude: -34.83419
 longitude: 138.68174
 postcode: "5092"
 city: Modbury
-street: "North East Road"
-housenumber: 931
+street: North East Road
+housenumber: "931"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 186632599
-type: way
+type: node
 latitude: -27.58939
 longitude: 153.08611
 postcode: "4113"
 city: Brisbane
-street: "Warrigal Road"
-housenumber: 261
+street: Warrigal Road
+housenumber: "261"
 phone: ""
 opening_hours: ""
-website: "https://warrigal-centre.edan.io/"
+website: https://warrigal-centre.edan.io/

@@ -1,11 +1,11 @@
 id: 568603544
-type: way
+type: node
 latitude: -37.42311
 longitude: 144.56405
 postcode: "3440"
 city: Macedon
-street: "Victoria Street"
-housenumber: 21
+street: Victoria Street
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:30; Sa,Su 07:00-15:30"
+opening_hours: Mo-Fr 07:00-17:30; Sa,Su 07:00-15:30
 website: ""

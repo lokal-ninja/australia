@@ -4,8 +4,8 @@ latitude: -31.94337
 longitude: 115.86387
 postcode: "6000"
 city: Perth
-street: "Brisbane Street"
-housenumber: 117
-phone: "+61 8 6311 9194"
-opening_hours: "Mo-Fr 09:00 - 17:00; Su off; PH off"
-website: "http://mbenorthbridge.com.au/"
+street: Brisbane Street
+housenumber: "117"
+phone: +61 8 6311 9194
+opening_hours: Mo-Fr 09:00 - 17:00; Su off; PH off
+website: http://mbenorthbridge.com.au/

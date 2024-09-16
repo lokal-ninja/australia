@@ -1,11 +1,11 @@
 id: 237272613
-type: way
+type: node
 latitude: -28.65349
 longitude: 151.935
 postcode: ""
 city: Stanthorpe
-street: "High Street"
-housenumber: 124
+street: High Street
+housenumber: "124"
 phone: ""
 opening_hours: ""
 website: ""

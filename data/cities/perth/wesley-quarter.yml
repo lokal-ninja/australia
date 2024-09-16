@@ -1,11 +1,11 @@
 id: 147108481
-type: way
+type: node
 latitude: -31.95322
 longitude: 115.85616
 postcode: "6000"
 city: Perth
-street: "William Street"
-housenumber: 93
+street: William Street
+housenumber: "93"
 phone: ""
 opening_hours: ""
 website: ""

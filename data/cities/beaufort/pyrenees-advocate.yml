@@ -1,11 +1,11 @@
 id: 192671661
-type: way
+type: node
 latitude: -37.42824
 longitude: 143.38098
 postcode: "3373"
 city: Beaufort
-street: "Willoby Street"
-housenumber: 32
-phone: "+61 3 5349 2105"
+street: Willoby Street
+housenumber: "32"
+phone: +61 3 5349 2105
 opening_hours: ""
 website: ""

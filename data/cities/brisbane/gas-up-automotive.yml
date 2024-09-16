@@ -1,11 +1,11 @@
 id: 545656468
-type: way
+type: node
 latitude: -27.43324
 longitude: 153.04398
 postcode: "4010"
 city: Brisbane
-street: "Collingwood Street"
-housenumber: 19
+street: Collingwood Street
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

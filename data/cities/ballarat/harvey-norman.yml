@@ -1,11 +1,11 @@
 id: 137381058
-type: way
+type: node
 latitude: -37.53909
 longitude: 143.8232
 postcode: "3355"
 city: Ballarat
-street: "Howitt Street & Gillies Street North"
-housenumber: 
-phone: "+61 3 5332 5100"
+street: Howitt Street & Gillies Street North
+housenumber: ""
+phone: +61 3 5332 5100
 opening_hours: ""
-website: "https://www.harveynorman.com.au/"
+website: https://www.harveynorman.com.au/

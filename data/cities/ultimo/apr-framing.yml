@@ -1,11 +1,11 @@
 id: 577322132
-type: way
+type: node
 latitude: -33.87744
 longitude: 151.19635
 postcode: "2007"
 city: Ultimo
-street: "Jones Street"
-housenumber: 392
-phone: "+61 2 9267 4355"
+street: Jones Street
+housenumber: "392"
+phone: +61 2 9267 4355
 opening_hours: ""
-website: "https://antiqueprintmaproom.com/"
+website: https://antiqueprintmaproom.com/

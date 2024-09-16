@@ -1,11 +1,11 @@
 id: 238748222
-type: way
+type: node
 latitude: -32.05724
 longitude: 115.89985
 postcode: "6155"
 city: Willetton
-street: "Woodthorpe Drive"
-housenumber: 17
+street: Woodthorpe Drive
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

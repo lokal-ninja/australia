@@ -1,11 +1,11 @@
 id: 148868685
-type: way
+type: node
 latitude: -37.53978
 longitude: 143.8259
 postcode: "3355"
 city: Ballarat
-street: "Howitt Street"
-housenumber: 1249
-phone: "+61 3 5339 9661"
+street: Howitt Street
+housenumber: "1249"
+phone: +61 3 5339 9661
 opening_hours: ""
-website: "http://www.ellebeauty.com.au/"
+website: http://www.ellebeauty.com.au/

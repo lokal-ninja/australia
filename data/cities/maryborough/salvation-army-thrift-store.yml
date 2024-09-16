@@ -1,11 +1,11 @@
 id: 489976151
-type: way
+type: node
 latitude: -37.04694
 longitude: 143.73891
 postcode: "3465"
 city: Maryborough
-street: "Alma Street"
-housenumber: 80
+street: Alma Street
+housenumber: "80"
 phone: ""
 opening_hours: ""
 website: ""

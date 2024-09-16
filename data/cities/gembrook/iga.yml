@@ -1,11 +1,11 @@
 id: 106896938
-type: way
+type: node
 latitude: -37.95298
 longitude: 145.55091
 postcode: "3783"
 city: Gembrook
-street: "Main Street"
-housenumber: 85
+street: Main Street
+housenumber: "85"
 phone: ""
 opening_hours: ""
 website: ""

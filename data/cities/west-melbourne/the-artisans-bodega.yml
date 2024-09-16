@@ -1,11 +1,11 @@
 id: 837477465
-type: way
+type: node
 latitude: -37.80546
 longitude: 144.95105
 postcode: "3003"
 city: West Melbourne
-street: "Victoria Street"
+street: Victoria Street
 housenumber: 317-319
-phone: "+61 3 8560 3640"
-opening_hours: "Mo-Fr 09:00-16:00; Sa 10:00-13:30"
-website: "https://artisansbottega.com.au/"
+phone: +61 3 8560 3640
+opening_hours: Mo-Fr 09:00-16:00; Sa 10:00-13:30
+website: https://artisansbottega.com.au/

@@ -1,11 +1,11 @@
 id: 885523514
-type: way
+type: node
 latitude: -27.56471
 longitude: 151.95052
 postcode: "4350"
 city: Toowoomba
-street: "Herries Street"
-housenumber: 170
+street: Herries Street
+housenumber: "170"
 phone: ""
 opening_hours: ""
 website: ""

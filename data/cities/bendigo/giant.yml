@@ -1,11 +1,11 @@
 id: 823463814
-type: way
+type: node
 latitude: -36.76252
 longitude: 144.28232
 postcode: "3550"
 city: Bendigo
-street: "Myers Street"
-housenumber: 2
+street: Myers Street
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

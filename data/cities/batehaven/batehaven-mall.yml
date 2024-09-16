@@ -1,11 +1,11 @@
 id: 435273198
-type: way
+type: node
 latitude: -35.73262
 longitude: 150.19919
 postcode: "2536"
 city: Batehaven
-street: "Corrigan Crescent"
-housenumber: 1
+street: Corrigan Crescent
+housenumber: "1"
 phone: ""
-opening_hours: "06:30-17:30"
+opening_hours: 06:30-17:30
 website: ""

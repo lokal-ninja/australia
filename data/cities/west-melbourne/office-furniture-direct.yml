@@ -1,11 +1,11 @@
 id: 314943912
-type: way
+type: node
 latitude: -37.80772
 longitude: 144.94765
 postcode: "3003"
 city: West Melbourne
-street: "Spencer Street"
-housenumber: 551
+street: Spencer Street
+housenumber: "551"
 phone: ""
 opening_hours: ""
 website: ""

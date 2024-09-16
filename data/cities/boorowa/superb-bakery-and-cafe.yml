@@ -1,11 +1,11 @@
 id: 362964865
-type: way
+type: node
 latitude: -34.43808
 longitude: 148.71625
 postcode: "2586"
 city: Boorowa
-street: "Marsden Street"
-housenumber: 36
+street: Marsden Street
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

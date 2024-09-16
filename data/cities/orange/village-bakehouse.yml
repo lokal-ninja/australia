@@ -1,11 +1,11 @@
 id: 532863333
-type: way
+type: node
 latitude: -33.28369
 longitude: 149.1039
 postcode: "2800"
 city: Orange
-street: "Peisley Street"
-housenumber: 208
+street: Peisley Street
+housenumber: "208"
 phone: ""
 opening_hours: ""
 website: ""

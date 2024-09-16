@@ -4,8 +4,8 @@ latitude: -42.86801
 longitude: 147.31143
 postcode: "7008"
 city: Hobart
-street: "Augusta Road"
-housenumber: 2
-phone: "+61 3 6228 2908"
-opening_hours: "Mo-Fr 07:30-19:00; Sa-Su 08:00-19:00"
-website: "https://hillstreetgrocer.com/"
+street: Augusta Road
+housenumber: "2"
+phone: +61 3 6228 2908
+opening_hours: Mo-Fr 07:30-19:00; Sa-Su 08:00-19:00
+website: https://hillstreetgrocer.com/

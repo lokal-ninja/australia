@@ -1,11 +1,11 @@
 id: 308684446
-type: way
+type: node
 latitude: -34.86285
 longitude: 138.58033
 postcode: "5084"
 city: Kilburn
-street: "Churchill Road"
+street: Churchill Road
 housenumber: 404-406
-phone: "+61 8 8360 3700"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:00-17:00; Su 10:00-17:00"
-website: "https://www.costco.com.au"
+phone: +61 8 8360 3700
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:00-17:00; Su 10:00-17:00
+website: https://www.costco.com.au

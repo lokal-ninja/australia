@@ -1,11 +1,11 @@
 id: 326660003
-type: way
+type: node
 latitude: -42.87452
 longitude: 147.32019
 postcode: "7000"
 city: Hobart
-street: "Argyle Street"
-housenumber: 248
-phone: "+61 3 6234 3888"
-opening_hours: "Mo-Fr 08:00-17:00; Sa,Su,PH off"
-website: "https://motorworks.com.au/"
+street: Argyle Street
+housenumber: "248"
+phone: +61 3 6234 3888
+opening_hours: Mo-Fr 08:00-17:00; Sa,Su,PH off
+website: https://motorworks.com.au/

@@ -1,11 +1,11 @@
 id: 561375787
-type: way
+type: node
 latitude: -32.73485
 longitude: 151.55305
 postcode: "2320"
 city: Maitland
-street: "Elgin Street"
-housenumber: 44
+street: Elgin Street
+housenumber: "44"
 phone: ""
 opening_hours: ""
-website: "https://www.penderplace.com.au"
+website: https://www.penderplace.com.au

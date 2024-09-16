@@ -4,8 +4,8 @@ latitude: -37.80703
 longitude: 145.03119
 postcode: "3101"
 city: Melbourne
-street: "Cotham Road"
-housenumber: 16
-phone: "+61 3 9853 2277"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.mbekew.com.au/"
+street: Cotham Road
+housenumber: "16"
+phone: +61 3 9853 2277
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.mbekew.com.au/

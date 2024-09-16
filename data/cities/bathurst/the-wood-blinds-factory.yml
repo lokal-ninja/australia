@@ -1,11 +1,11 @@
 id: 846026237
-type: way
+type: node
 latitude: -33.42335
 longitude: 149.58054
 postcode: ""
 city: Bathurst
-street: "Keppel Street"
-housenumber: 50
+street: Keppel Street
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

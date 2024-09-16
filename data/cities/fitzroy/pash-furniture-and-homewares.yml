@@ -1,11 +1,11 @@
 id: 234366389
-type: way
+type: node
 latitude: -37.79838
 longitude: 144.98205
 postcode: "3065"
 city: Fitzroy
-street: "Johnston Street"
+street: Johnston Street
 housenumber: 205-211
-phone: "+61 3 9416 2377"
-opening_hours: "Mo-Sa 10:00-17:00; Su 11:00-17:00"
-website: "https://pashfurniture.com.au/"
+phone: +61 3 9416 2377
+opening_hours: Mo-Sa 10:00-17:00; Su 11:00-17:00
+website: https://pashfurniture.com.au/

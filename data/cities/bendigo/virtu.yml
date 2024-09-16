@@ -1,11 +1,11 @@
 id: 838844008
-type: way
+type: node
 latitude: -36.7598
 longitude: 144.28138
 postcode: "3550"
 city: Bendigo
-street: "Williamson Street"
-housenumber: 44
+street: Williamson Street
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

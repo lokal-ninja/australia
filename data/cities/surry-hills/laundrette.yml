@@ -1,11 +1,11 @@
 id: 256778398
-type: way
+type: node
 latitude: -33.88028
 longitude: 151.2151
 postcode: "2010"
 city: Surry Hills
-street: "Crown Street"
-housenumber: 298
+street: Crown Street
+housenumber: "298"
 phone: ""
 opening_hours: ""
 website: ""

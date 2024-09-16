@@ -1,11 +1,11 @@
 id: 256605194
-type: way
+type: node
 latitude: -34.84003
 longitude: 138.48878
 postcode: "5019"
 city: Exeter
-street: "Semaphore Road"
-housenumber: 130
+street: Semaphore Road
+housenumber: "130"
 phone: ""
-opening_hours: "Su-We 09:00-20:00, Th-Sa 09:00-21:00"
-website: "http://www.semaphoreroadcellars.com.au/"
+opening_hours: Su-We 09:00-20:00, Th-Sa 09:00-21:00
+website: http://www.semaphoreroadcellars.com.au/

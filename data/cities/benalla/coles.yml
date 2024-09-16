@@ -1,11 +1,11 @@
 id: 582717934
-type: way
+type: node
 latitude: -36.54974
 longitude: 145.98546
 postcode: "3672"
 city: Benalla
-street: "Carrier Street"
-housenumber: 45
+street: Carrier Street
+housenumber: "45"
 phone: ""
 opening_hours: ""
-website: "https://www.coles.com.au/"
+website: https://www.coles.com.au/

@@ -1,11 +1,11 @@
 id: 522082130
-type: way
+type: node
 latitude: -37.84252
 longitude: 144.88151
 postcode: "3015"
 city: Newport
-street: "Mason Street"
-housenumber: 25
+street: Mason Street
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

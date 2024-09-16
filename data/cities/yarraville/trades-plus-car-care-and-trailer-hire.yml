@@ -1,11 +1,11 @@
 id: 502576501
-type: way
+type: node
 latitude: -37.82126
 longitude: 144.88173
 postcode: "3013"
 city: Yarraville
-street: "Williamstown Road"
-housenumber: 354
-phone: "+61 3 9314 6224"
-opening_hours: "Mo-Sa 08:00-18:00; Su 09:00-15:00"
+street: Williamstown Road
+housenumber: "354"
+phone: +61 3 9314 6224
+opening_hours: Mo-Sa 08:00-18:00; Su 09:00-15:00
 website: ""

@@ -1,11 +1,11 @@
 id: 244236911
-type: way
+type: node
 latitude: -34.17276
 longitude: 140.74961
 postcode: "5341"
 city: Renmark
-street: "Renmark Avenue"
-housenumber: 17
+street: Renmark Avenue
+housenumber: "17"
 phone: ""
-opening_hours: "We-Su 10:00-04:00"
+opening_hours: We-Su 10:00-04:00
 website: ""

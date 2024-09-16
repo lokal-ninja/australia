@@ -1,11 +1,11 @@
 id: 696367721
-type: way
+type: node
 latitude: -34.28997
 longitude: 140.36766
 postcode: ""
 city: Moorook
-street: "Kingston Road"
-housenumber: 656
+street: Kingston Road
+housenumber: "656"
 phone: ""
 opening_hours: ""
 website: ""

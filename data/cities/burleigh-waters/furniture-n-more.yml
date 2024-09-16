@@ -1,11 +1,11 @@
 id: 355391782
-type: way
+type: node
 latitude: -28.10119
 longitude: 153.43496
 postcode: "4220"
 city: Burleigh Waters
-street: "Sunlight Drive"
-housenumber: 2
-phone: "+61 7 5520 2002"
+street: Sunlight Drive
+housenumber: "2"
+phone: +61 7 5520 2002
 opening_hours: ""
-website: "https://www.furniturenmore.com.au/"
+website: https://www.furniturenmore.com.au/

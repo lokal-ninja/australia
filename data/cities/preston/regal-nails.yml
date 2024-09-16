@@ -4,8 +4,8 @@ latitude: -37.74007
 longitude: 145.00351
 postcode: "3072"
 city: Preston
-street: "High Street"
-housenumber: 401
-phone: "+61 3 9471 2311"
-opening_hours: "Mo-We 09:00-18:00; Th-Fr 09:00-19:00; Sa-Su 09:00-17:00"
+street: High Street
+housenumber: "401"
+phone: +61 3 9471 2311
+opening_hours: Mo-We 09:00-18:00; Th-Fr 09:00-19:00; Sa-Su 09:00-17:00
 website: ""

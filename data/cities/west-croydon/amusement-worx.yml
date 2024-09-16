@@ -1,11 +1,11 @@
 id: 218602429
-type: way
+type: node
 latitude: -34.8843
 longitude: 138.5631
 postcode: ""
 city: West Croydon
-street: "Torrens Road"
-housenumber: 287
+street: Torrens Road
+housenumber: "287"
 phone: ""
 opening_hours: ""
-website: "https://www.amusementworx.com.au/"
+website: https://www.amusementworx.com.au/

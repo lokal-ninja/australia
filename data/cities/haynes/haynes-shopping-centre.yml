@@ -1,11 +1,11 @@
 id: 495193344
-type: way
+type: node
 latitude: -32.14765
 longitude: 115.98601
 postcode: "6112"
 city: Haynes
 street: ""
-housenumber: 
-phone: "+61 8 9426 1777"
-opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-17:00; Su 11:00-17:00"
-website: "https://www.haynesshoppingcentre.com.au/"
+housenumber: ""
+phone: +61 8 9426 1777
+opening_hours: Mo-Fr 08:00-21:00; Sa 08:00-17:00; Su 11:00-17:00
+website: https://www.haynesshoppingcentre.com.au/

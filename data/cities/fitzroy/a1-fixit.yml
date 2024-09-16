@@ -4,8 +4,8 @@ latitude: -37.80539
 longitude: 144.98301
 postcode: "3065"
 city: Fitzroy
-street: "Smith Street"
-housenumber: 121
+street: Smith Street
+housenumber: "121"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "http://www.a1fixit.com.au"
+opening_hours: Mo-Sa 10:00-19:00
+website: http://www.a1fixit.com.au

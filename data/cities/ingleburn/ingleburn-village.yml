@@ -1,11 +1,11 @@
 id: 485039230
-type: way
+type: node
 latitude: -33.99679
 longitude: 150.8659
 postcode: "2565"
 city: Ingleburn
-street: "Macquarie Road"
-housenumber: 100
+street: Macquarie Road
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

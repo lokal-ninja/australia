@@ -1,11 +1,11 @@
 id: 204008905
-type: way
+type: node
 latitude: -37.56205
 longitude: 143.85431
 postcode: "3350"
 city: Ballarat
-street: "Sturt Street"
+street: Sturt Street
 housenumber: 403A
-phone: "+61 3 5331 9476"
+phone: +61 3 5331 9476
 opening_hours: ""
-website: "https://fellahamilton.com.au/"
+website: https://fellahamilton.com.au/

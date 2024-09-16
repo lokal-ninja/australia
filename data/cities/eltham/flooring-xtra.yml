@@ -1,11 +1,11 @@
 id: 177189831
-type: way
+type: node
 latitude: -37.7196
 longitude: 145.13785
 postcode: "3095"
 city: Eltham
-street: "Bolton Street"
-housenumber: 290
-phone: "+61 3 9431 5780"
+street: Bolton Street
+housenumber: "290"
+phone: +61 3 9431 5780
 opening_hours: ""
-website: "https://www.carpetone.com.au/"
+website: https://www.carpetone.com.au/

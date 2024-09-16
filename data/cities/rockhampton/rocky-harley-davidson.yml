@@ -1,11 +1,11 @@
 id: 514922685
-type: way
+type: node
 latitude: -23.38328
 longitude: 150.50957
 postcode: "4700"
 city: Rockhampton
-street: "William Street"
-housenumber: 125
-phone: "+61 7 4924 9200"
+street: William Street
+housenumber: "125"
+phone: +61 7 4924 9200
 opening_hours: ""
-website: "http://www.rockyhd.com.au"
+website: http://www.rockyhd.com.au

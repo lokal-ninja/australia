@@ -1,11 +1,11 @@
 id: 537473564
-type: way
+type: node
 latitude: -26.41083
 longitude: 153.04713
 postcode: "4566"
 city: Noosaville
-street: "Lionel Donovan Drive"
-housenumber: 5
-phone: "+61 7 5474 4016"
-opening_hours: "Mo-Fr 08:30-17:00; Sa 08:30-12:30; Su,PH off"
-website: "http://www.eurobikesnoosa.com.au"
+street: Lionel Donovan Drive
+housenumber: "5"
+phone: +61 7 5474 4016
+opening_hours: Mo-Fr 08:30-17:00; Sa 08:30-12:30; Su,PH off
+website: http://www.eurobikesnoosa.com.au

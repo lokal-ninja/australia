@@ -1,11 +1,11 @@
 id: 1070829954
-type: way
+type: node
 latitude: -27.56146
 longitude: 152.99668
 postcode: "4106"
 city: Brisbane
-street: "Ipswich Road"
-housenumber: 1816
+street: Ipswich Road
+housenumber: "1816"
 phone: ""
 opening_hours: ""
 website: ""

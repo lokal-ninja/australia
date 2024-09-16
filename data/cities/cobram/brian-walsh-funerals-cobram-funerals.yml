@@ -1,11 +1,11 @@
 id: 85552377
-type: way
+type: node
 latitude: -35.9168
 longitude: 145.64646
 postcode: "3644"
 city: Cobram
-street: "Broadway Street"
-housenumber: 51
+street: Broadway Street
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

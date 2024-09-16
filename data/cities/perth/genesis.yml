@@ -1,11 +1,11 @@
 id: 147925842
-type: way
+type: node
 latitude: -31.95255
 longitude: 115.85467
 postcode: "6000"
 city: Perth
-street: "Hay Street"
-housenumber: 826
+street: Hay Street
+housenumber: "826"
 phone: ""
 opening_hours: ""
 website: ""

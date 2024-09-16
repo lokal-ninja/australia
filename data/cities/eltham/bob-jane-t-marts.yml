@@ -1,11 +1,11 @@
 id: 398093421
-type: way
+type: node
 latitude: -37.71668
 longitude: 145.13753
 postcode: "3095"
 city: Eltham
-street: "Sherbourne Road"
-housenumber: 223
+street: Sherbourne Road
+housenumber: "223"
 phone: ""
 opening_hours: ""
 website: ""

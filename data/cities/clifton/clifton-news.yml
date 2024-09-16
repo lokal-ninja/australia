@@ -1,11 +1,11 @@
 id: 463135827
-type: way
+type: node
 latitude: -27.9302
 longitude: 151.90574
 postcode: "4361"
 city: Clifton
-street: "King Street"
-housenumber: 73
+street: King Street
+housenumber: "73"
 phone: ""
 opening_hours: ""
 website: ""

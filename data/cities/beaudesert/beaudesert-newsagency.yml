@@ -1,11 +1,11 @@
 id: 560610625
-type: way
+type: node
 latitude: -27.98766
 longitude: 152.99589
 postcode: "4285"
 city: Beaudesert
-street: "Brisbane Street"
-housenumber: 97
-phone: "+61 7 5541 1084"
+street: Brisbane Street
+housenumber: "97"
+phone: +61 7 5541 1084
 opening_hours: ""
 website: ""

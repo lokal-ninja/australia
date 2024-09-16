@@ -1,11 +1,11 @@
 id: 629474447
-type: way
+type: node
 latitude: -27.57018
 longitude: 151.92697
 postcode: "4350"
 city: Toowoomba
-street: "Anzac Avenue"
-housenumber: 154
+street: Anzac Avenue
+housenumber: "154"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 154909557
-type: way
+type: node
 latitude: -37.5588
 longitude: 143.85333
 postcode: "3350"
 city: Ballarat
-street: "Mair Street"
-housenumber: 512
-phone: "+61 3 5331 7500"
+street: Mair Street
+housenumber: "512"
+phone: +61 3 5331 7500
 opening_hours: ""
 website: ""

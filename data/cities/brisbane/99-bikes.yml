@@ -1,11 +1,11 @@
 id: 1302416204
-type: way
+type: node
 latitude: -27.49445
 longitude: 152.97721
 postcode: "4068"
 city: Brisbane
-street: "Moggill Road"
-housenumber: 240
+street: Moggill Road
+housenumber: "240"
 phone: ""
 opening_hours: ""
 website: ""

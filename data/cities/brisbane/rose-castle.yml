@@ -1,11 +1,11 @@
 id: 1074782144
-type: way
+type: node
 latitude: -27.56802
 longitude: 153.02682
 postcode: "4108"
 city: Brisbane
-street: "Boundary Road"
-housenumber: 702
+street: Boundary Road
+housenumber: "702"
 phone: ""
 opening_hours: ""
-website: "https://rosecastle.com.au/"
+website: https://rosecastle.com.au/

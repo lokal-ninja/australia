@@ -1,11 +1,11 @@
 id: 149637222
-type: way
+type: node
 latitude: -37.54145
 longitude: 143.83727
 postcode: "3350"
 city: Ballarat
-street: "Howitt Street"
-housenumber: 1025
-phone: "+61 3 5339 3999"
+street: Howitt Street
+housenumber: "1025"
+phone: +61 3 5339 3999
 opening_hours: ""
 website: ""

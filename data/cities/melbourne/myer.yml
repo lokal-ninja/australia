@@ -1,11 +1,11 @@
 id: 46218295
-type: way
+type: node
 latitude: -37.81396
 longitude: 144.96369
 postcode: "3000"
 city: Melbourne
-street: "Bourke Street Mall"
+street: Bourke Street Mall
 housenumber: 314-336
-phone: "+61 3 9661 1111"
-opening_hours: "Mo-We 09:30-19:00; Th,Fr 09:30-21:00; Sa 09:30-19:00; Su 10:00-19:00"
-website: "https://www.myer.com.au/"
+phone: +61 3 9661 1111
+opening_hours: Mo-We 09:30-19:00; Th,Fr 09:30-21:00; Sa 09:30-19:00; Su 10:00-19:00
+website: https://www.myer.com.au/

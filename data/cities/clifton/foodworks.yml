@@ -1,11 +1,11 @@
 id: 211128034
-type: way
+type: node
 latitude: -27.93158
 longitude: 151.90702
 postcode: "4361"
 city: Clifton
-street: "Clark Street"
-housenumber: 58
+street: Clark Street
+housenumber: "58"
 phone: ""
 opening_hours: ""
 website: ""

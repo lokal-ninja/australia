@@ -1,11 +1,11 @@
 id: 990593214
-type: way
+type: node
 latitude: -34.84276
 longitude: 148.9113
 postcode: "2582"
 city: Yass
-street: "Comur Street"
-housenumber: 125
+street: Comur Street
+housenumber: "125"
 phone: ""
 opening_hours: ""
 website: ""

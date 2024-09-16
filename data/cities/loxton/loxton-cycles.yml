@@ -1,11 +1,11 @@
 id: 486904483
-type: way
+type: node
 latitude: -34.45138
 longitude: 140.56877
 postcode: ""
 city: Loxton
-street: "Drabsch Street"
-housenumber: 6
+street: Drabsch Street
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

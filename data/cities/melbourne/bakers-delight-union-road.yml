@@ -1,11 +1,11 @@
 id: 1042503806
-type: way
+type: node
 latitude: -37.77313
 longitude: 144.91558
 postcode: "3032"
 city: Melbourne
-street: "Union Road"
-housenumber: 195
+street: Union Road
+housenumber: "195"
 phone: ""
 opening_hours: ""
 website: ""

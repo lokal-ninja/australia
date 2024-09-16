@@ -1,11 +1,11 @@
 id: 865306131
-type: way
+type: node
 latitude: -27.55625
 longitude: 151.95474
 postcode: "4350"
 city: Toowoomba
-street: "Ruthven Street"
-housenumber: 302
-phone: "+61 7 4688 3703"
+street: Ruthven Street
+housenumber: "302"
+phone: +61 7 4688 3703
 opening_hours: ""
-website: "https://www.lifelinedarlingdowns.org.au/"
+website: https://www.lifelinedarlingdowns.org.au/

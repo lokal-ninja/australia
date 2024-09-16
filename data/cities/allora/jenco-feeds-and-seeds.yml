@@ -1,11 +1,11 @@
 id: 371682671
-type: way
+type: node
 latitude: -28.03548
 longitude: 151.98155
 postcode: ""
 city: Allora
-street: "Warwick Street"
-housenumber: 47
+street: Warwick Street
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

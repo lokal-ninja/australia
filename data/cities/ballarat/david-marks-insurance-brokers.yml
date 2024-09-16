@@ -1,11 +1,11 @@
 id: 154909513
-type: way
+type: node
 latitude: -37.55891
 longitude: 143.8531
 postcode: "3350"
 city: Ballarat
-street: "Mair Street"
-housenumber: 516
-phone: "+61 3 5331 1300"
+street: Mair Street
+housenumber: "516"
+phone: +61 3 5331 1300
 opening_hours: ""
-website: "https://www.davidmarks.com.au/"
+website: https://www.davidmarks.com.au/

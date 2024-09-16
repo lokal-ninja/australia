@@ -1,11 +1,11 @@
 id: 838389728
-type: way
+type: node
 latitude: -36.76051
 longitude: 144.2807
 postcode: "3550"
 city: Bendigo
-street: "Hargreaves Street"
-housenumber: 297
+street: Hargreaves Street
+housenumber: "297"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-18:00; Su 09:00-18:00"
-website: "https://www.officeworks.com.au/shop/officeworks/storelocator"
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-18:00; Su 09:00-18:00
+website: https://www.officeworks.com.au/shop/officeworks/storelocator

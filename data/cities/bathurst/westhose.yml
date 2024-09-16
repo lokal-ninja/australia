@@ -1,11 +1,11 @@
 id: 1073554380
-type: way
+type: node
 latitude: -33.4279
 longitude: 149.5798
 postcode: ""
 city: Bathurst
-street: "Lambert Street"
-housenumber: 13
+street: Lambert Street
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

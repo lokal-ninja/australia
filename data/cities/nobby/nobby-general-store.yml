@@ -1,11 +1,11 @@
 id: 211128037
-type: way
+type: node
 latitude: -27.8531
 longitude: 151.90283
 postcode: "4360"
 city: Nobby
-street: "Tooth Street"
-housenumber: 14
+street: Tooth Street
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

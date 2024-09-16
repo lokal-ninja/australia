@@ -4,8 +4,8 @@ latitude: -37.81193
 longitude: 144.97171
 postcode: "3000"
 city: Melbourne
-street: "Bourke Street"
-housenumber: 53
-phone: "+61 3 9654 5950"
-opening_hours: "Mo-Fr 07:00-05:30"
+street: Bourke Street
+housenumber: "53"
+phone: +61 3 9654 5950
+opening_hours: Mo-Fr 07:00-05:30
 website: ""

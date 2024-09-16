@@ -1,11 +1,11 @@
 id: 422610150
-type: way
+type: node
 latitude: -30.08876
 longitude: 145.93814
 postcode: ""
 city: Bourke
-street: "Mitchell Street"
-housenumber: 37
-phone: "+61 2 6872 2086"
+street: Mitchell Street
+housenumber: "37"
+phone: +61 2 6872 2086
 opening_hours: ""
 website: ""

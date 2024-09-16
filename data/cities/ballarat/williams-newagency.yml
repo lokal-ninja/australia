@@ -1,11 +1,11 @@
 id: 150873535
-type: way
+type: node
 latitude: -37.56092
 longitude: 143.84674
 postcode: "3350"
 city: Ballarat
-street: "Sturt Street"
-housenumber: 917
-phone: "+61 3 5332 2369"
+street: Sturt Street
+housenumber: "917"
+phone: +61 3 5332 2369
 opening_hours: ""
-website: "https://williamsnews.com.au/"
+website: https://williamsnews.com.au/

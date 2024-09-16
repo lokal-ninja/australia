@@ -4,8 +4,8 @@ latitude: -34.89742
 longitude: 138.56485
 postcode: "5008"
 city: Croydon
-street: "Elizabeth Street"
-housenumber: 3
-phone: "+61 8 8346 0033"
-opening_hours: "Mo-Fr 11:00-16:00; Sa 10:00-16:00; Su 11:00-16:00"
-website: "https://www.hypeandseek.com.au/"
+street: Elizabeth Street
+housenumber: "3"
+phone: +61 8 8346 0033
+opening_hours: Mo-Fr 11:00-16:00; Sa 10:00-16:00; Su 11:00-16:00
+website: https://www.hypeandseek.com.au/

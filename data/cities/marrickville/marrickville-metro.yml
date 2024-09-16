@@ -1,11 +1,11 @@
 id: 341934113
-type: way
+type: node
 latitude: -33.90808
 longitude: 151.17087
 postcode: ""
 city: Marrickville
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.marrickvillemetro.com.au/"
+website: https://www.marrickvillemetro.com.au/

@@ -1,11 +1,11 @@
 id: 542912831
-type: way
+type: node
 latitude: -37.89995
 longitude: 145.09062
 postcode: "3166"
 city: Melbourne
-street: "Portman Street"
-housenumber: 35
+street: Portman Street
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: -35.00365
 longitude: 138.71662
 postcode: "5152"
 city: Stirling
-street: "Mount Barker Road"
-housenumber: 11
+street: Mount Barker Road
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 07:00-16:30; Sa 08:00-15:30; Su 08:00-15:00"
-website: "https://www.stirlingbakery.com.au/"
+opening_hours: Mo-Fr 07:00-16:30; Sa 08:00-15:30; Su 08:00-15:00
+website: https://www.stirlingbakery.com.au/

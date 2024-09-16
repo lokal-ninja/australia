@@ -1,11 +1,11 @@
 id: 1109136586
-type: way
+type: node
 latitude: -27.73465
 longitude: 153.22305
 postcode: "4207"
 city: Yatala
-street: "Access Avenue"
-housenumber: 37
+street: Access Avenue
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 546721764
-type: way
+type: node
 latitude: -27.43309
 longitude: 153.04268
 postcode: "4010"
 city: Brisbane
-street: "Sandgate Road"
-housenumber: 174
+street: Sandgate Road
+housenumber: "174"
 phone: ""
-opening_hours: "Mo-Fr 08:00-16:00"
+opening_hours: Mo-Fr 08:00-16:00
 website: ""

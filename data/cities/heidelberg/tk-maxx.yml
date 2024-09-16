@@ -1,11 +1,11 @@
 id: 112553028
-type: way
+type: node
 latitude: -37.75553
 longitude: 145.06801
 postcode: ""
 city: Heidelberg
-street: "Burgundy Street"
-housenumber: 56
+street: Burgundy Street
+housenumber: "56"
 phone: ""
-opening_hours: "Mo-We 09:00-17:30, Th-Fr 09:00-20:00, Sa 09:00-17:00"
-website: "https://www.tkmaxx.com.au/"
+opening_hours: Mo-We 09:00-17:30, Th-Fr 09:00-20:00, Sa 09:00-17:00
+website: https://www.tkmaxx.com.au/

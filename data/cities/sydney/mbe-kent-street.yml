@@ -4,8 +4,8 @@ latitude: -33.86964
 longitude: 151.2044
 postcode: "2000"
 city: Sydney
-street: "Kent Street"
-housenumber: 377
-phone: "+61 2 9262 1213"
-opening_hours: "Mo-Fr 08:30-17:00; Sa ||By Appointment; Su off; PH off"
-website: "https://mbekentstreet.com.au/"
+street: Kent Street
+housenumber: "377"
+phone: +61 2 9262 1213
+opening_hours: Mo-Fr 08:30-17:00; Sa ||"By Appointment"; Su off; PH off
+website: https://mbekentstreet.com.au/

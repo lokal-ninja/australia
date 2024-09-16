@@ -1,11 +1,11 @@
 id: 1070842105
-type: way
+type: node
 latitude: -27.56095
 longitude: 152.99778
 postcode: "4106"
 city: Brisbane
-street: "Ipswich Road"
-housenumber: 1800
-phone: "+61 7 3275 3311"
+street: Ipswich Road
+housenumber: "1800"
+phone: +61 7 3275 3311
 opening_hours: ""
-website: "https://www.mendhamengineering.com.au/"
+website: https://www.mendhamengineering.com.au/

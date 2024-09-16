@@ -4,8 +4,8 @@ latitude: -37.7773
 longitude: 145.0186
 postcode: "3078"
 city: Fairfield
-street: "Station Street"
-housenumber: 125
-phone: "+61 3 9486 5859"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-17:00; Su 10:00-16:00"
-website: "https://www.nellysark.com.au/"
+street: Station Street
+housenumber: "125"
+phone: +61 3 9486 5859
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:00-17:00; Su 10:00-16:00
+website: https://www.nellysark.com.au/

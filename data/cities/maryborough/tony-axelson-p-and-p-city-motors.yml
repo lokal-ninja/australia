@@ -1,11 +1,11 @@
 id: 408299198
-type: way
+type: node
 latitude: -25.54156
 longitude: 152.69777
 postcode: "4650"
 city: Maryborough
-street: "Lennox Street"
-housenumber: 71
+street: Lennox Street
+housenumber: "71"
 phone: ""
 opening_hours: ""
 website: ""

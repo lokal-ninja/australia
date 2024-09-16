@@ -4,8 +4,8 @@ latitude: -37.83211
 longitude: 144.95993
 postcode: "3205"
 city: South Melbourne
-street: "Clarendon Street"
-housenumber: 242
-phone: "+61 3 9690 8844"
-opening_hours: "Mo 10:00-17:00; Tu 10:00-18:00; We-Fr 10:00-17:00; Sa 10:00-15:00"
-website: "https://www.bellocchio.com.au/"
+street: Clarendon Street
+housenumber: "242"
+phone: +61 3 9690 8844
+opening_hours: Mo 10:00-17:00; Tu 10:00-18:00; We-Fr 10:00-17:00; Sa 10:00-15:00
+website: https://www.bellocchio.com.au/

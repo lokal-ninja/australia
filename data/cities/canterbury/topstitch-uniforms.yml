@@ -1,11 +1,11 @@
 id: 563988936
-type: way
+type: node
 latitude: -33.91071
 longitude: 151.12078
 postcode: "2193"
 city: Canterbury
-street: "Canterbury Road"
-housenumber: 129
+street: Canterbury Road
+housenumber: "129"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 376660453
-type: way
+type: node
 latitude: -33.78732
 longitude: 151.26764
 postcode: "2093"
 city: Balgowlah
-street: "Roseberry Street"
+street: Roseberry Street
 housenumber: 17-19
-phone: "+61 2 8565 9291"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.woolworths.com.au/"
+phone: +61 2 8565 9291
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.woolworths.com.au/

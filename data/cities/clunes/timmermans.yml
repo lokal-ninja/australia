@@ -1,11 +1,11 @@
 id: 554364988
-type: way
+type: node
 latitude: -37.29352
 longitude: 143.78742
 postcode: "3370"
 city: Clunes
-street: "Fraser Street"
-housenumber: 67
+street: Fraser Street
+housenumber: "67"
 phone: ""
 opening_hours: ""
-website: "http://timmermansfurniture.com.au"
+website: http://timmermansfurniture.com.au

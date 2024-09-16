@@ -1,11 +1,11 @@
 id: 668646777
-type: way
+type: node
 latitude: -33.70761
 longitude: 151.29605
 postcode: "2101"
 city: Narrabeen
-street: "Gondola Road"
-housenumber: 2
-phone: "+61 2 9913 8195"
-opening_hours: "Mo-We 09:00-21:00, Th-Sa 09:00-22:00; Su 10:00-21:00"
-website: "https://www.liquorland.com.au/Stores/New%20South%20Wales/Narrabeen"
+street: Gondola Road
+housenumber: "2"
+phone: +61 2 9913 8195
+opening_hours: Mo-We 09:00-21:00, Th-Sa 09:00-22:00; Su 10:00-21:00
+website: https://www.liquorland.com.au/Stores/New%20South%20Wales/Narrabeen

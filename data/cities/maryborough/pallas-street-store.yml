@@ -1,11 +1,11 @@
 id: 410986798
-type: way
+type: node
 latitude: -25.52494
 longitude: 152.69941
 postcode: "4650"
 city: Maryborough
-street: "Churchill Street"
-housenumber: 103
+street: Churchill Street
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: -33.86712
 longitude: 151.20518
 postcode: "2000"
 city: Sydney
-street: "Clarence Street"
-housenumber: 80
+street: Clarence Street
+housenumber: "80"
 phone: ""
 opening_hours: ""
-website: "https://jetcycles.com.au/"
+website: https://jetcycles.com.au/

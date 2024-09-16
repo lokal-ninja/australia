@@ -1,11 +1,11 @@
 id: 225708278
-type: way
+type: node
 latitude: -31.92047
 longitude: 115.88679
 postcode: "6052"
 city: Inglewood
-street: "Beaufort Street"
-housenumber: 911
-phone: "+61 8 9271 9197"
+street: Beaufort Street
+housenumber: "911"
+phone: +61 8 9271 9197
 opening_hours: ""
-website: "https://www.wineatdevine.com.au/"
+website: https://www.wineatdevine.com.au/

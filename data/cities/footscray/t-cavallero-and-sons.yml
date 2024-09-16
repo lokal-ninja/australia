@@ -1,11 +1,11 @@
 id: 239328769
-type: way
+type: node
 latitude: -37.79993
 longitude: 144.90196
 postcode: "3011"
 city: Footscray
-street: "Hopkins Street"
-housenumber: 98
+street: Hopkins Street
+housenumber: "98"
 phone: ""
-opening_hours: "Tu-Fr 08:30-16:00; Sa 08:30-15:00; Su 08:30-12:00"
+opening_hours: Tu-Fr 08:30-16:00; Sa 08:30-15:00; Su 08:30-12:00
 website: ""

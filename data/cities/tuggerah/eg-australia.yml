@@ -1,11 +1,11 @@
 id: 152190883
-type: way
+type: node
 latitude: -33.30907
 longitude: 151.41489
 postcode: "2259"
 city: Tuggerah
-street: "Gavenlock Road"
-housenumber: 24
-phone: "+61 2 4353 6160"
+street: Gavenlock Road
+housenumber: "24"
+phone: +61 2 4353 6160
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: -33.41643
 longitude: 149.57937
 postcode: "2795"
 city: Bathurst
-street: "George Street"
-housenumber: 76
+street: George Street
+housenumber: "76"
 phone: ""
 opening_hours: ""
-website: "https://baketableandtea.com.au/"
+website: https://baketableandtea.com.au/

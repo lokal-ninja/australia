@@ -1,11 +1,11 @@
 id: 367123463
-type: way
+type: node
 latitude: -31.89688
 longitude: 115.97201
 postcode: "6055"
 city: Guildford
-street: "Swan Street"
-housenumber: 124
+street: Swan Street
+housenumber: "124"
 phone: ""
-opening_hours: "08:30-08:30"
+opening_hours: 08:30-08:30
 website: ""

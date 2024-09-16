@@ -1,11 +1,11 @@
 id: 822462728
-type: way
+type: node
 latitude: -36.76378
 longitude: 144.28365
 postcode: "3550"
 city: Bendigo
-street: "Mitchell Street"
-housenumber: 115
+street: Mitchell Street
+housenumber: "115"
 phone: ""
 opening_hours: ""
 website: ""

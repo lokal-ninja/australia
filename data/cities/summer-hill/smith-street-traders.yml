@@ -1,11 +1,11 @@
 id: 549056959
-type: way
+type: node
 latitude: -33.89086
 longitude: 151.13826
 postcode: "2130"
 city: Summer Hill
-street: "Lackey Street"
-housenumber: 11
+street: Lackey Street
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

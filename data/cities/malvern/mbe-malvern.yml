@@ -4,8 +4,8 @@ latitude: -37.86392
 longitude: 145.02793
 postcode: "3144"
 city: Malvern
-street: "Glenferrie Road"
-housenumber: 45
-phone: "+61 3 9576 2909"
-opening_hours: "Mo-Fr 09:00-17:30; Sa by appointment; Su,PH off"
-website: "https://www.mbe-malvern.com.au/"
+street: Glenferrie Road
+housenumber: "45"
+phone: +61 3 9576 2909
+opening_hours: Mo-Fr 09:00-17:30; Sa "by appointment"; Su,PH off
+website: https://www.mbe-malvern.com.au/

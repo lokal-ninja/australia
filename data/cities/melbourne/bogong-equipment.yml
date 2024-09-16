@@ -4,8 +4,8 @@ latitude: -37.81353
 longitude: 144.96152
 postcode: "3000"
 city: Melbourne
-street: "Little Bourke Street"
-housenumber: 374
-phone: "+61 3 9600 0599"
-opening_hours: "Mo-We 09:00-17:30; Th,Fr 09:00-18:00; Sa 09:00-17:00; Su 11:00-17:00"
-website: "https://www.bogong.com.au/"
+street: Little Bourke Street
+housenumber: "374"
+phone: +61 3 9600 0599
+opening_hours: Mo-We 09:00-17:30; Th,Fr 09:00-18:00; Sa 09:00-17:00; Su 11:00-17:00
+website: https://www.bogong.com.au/

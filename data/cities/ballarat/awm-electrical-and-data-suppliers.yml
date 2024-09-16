@@ -1,11 +1,11 @@
 id: 204427646
-type: way
+type: node
 latitude: -37.56456
 longitude: 143.86336
 postcode: "3350"
 city: Ballarat
-street: "Peel Street South"
-housenumber: 30
-phone: "+61 3 5331 7711"
+street: Peel Street South
+housenumber: "30"
+phone: +61 3 5331 7711
 opening_hours: ""
 website: ""

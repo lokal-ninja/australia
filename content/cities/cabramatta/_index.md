@@ -1,6 +1,6 @@
 ---
 title: Cabramatta
 url: /cabramatta/
-latitude: -33.894
+latitude: -33.895
 longitude: 150.934
 ---

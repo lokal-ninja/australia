@@ -1,11 +1,11 @@
 id: 1126035025
-type: way
+type: node
 latitude: -28.75363
 longitude: 114.63058
 postcode: "6530"
 city: Geraldton
-street: "Boyd Street"
-housenumber: 6
-phone: "+61 8 9965 5919"
-opening_hours: "Mo-Fr 07:30-17:30; Sa 08:30-13:00; PH off"
-website: "https://www.sivsautos.com.au/"
+street: Boyd Street
+housenumber: "6"
+phone: +61 8 9965 5919
+opening_hours: Mo-Fr 07:30-17:30; Sa 08:30-13:00; PH off
+website: https://www.sivsautos.com.au/

@@ -1,11 +1,11 @@
 id: 668374903
-type: way
+type: node
 latitude: -28.54689
 longitude: 150.30223
 postcode: "4390"
 city: Goondiwindi
-street: "Moffat Street"
-housenumber: 5
+street: Moffat Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

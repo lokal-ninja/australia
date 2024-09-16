@@ -4,8 +4,8 @@ latitude: -31.95197
 longitude: 115.85075
 postcode: "6000"
 city: Perth
-street: "Saint Georges Terrace"
-housenumber: 250
+street: Saint Georges Terrace
+housenumber: "250"
 phone: ""
 opening_hours: ""
-website: "https://marystreetbakery.com.au/"
+website: https://marystreetbakery.com.au/

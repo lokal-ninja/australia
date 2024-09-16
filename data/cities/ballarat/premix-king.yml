@@ -1,11 +1,11 @@
 id: 148870939
-type: way
+type: node
 latitude: -37.5401
 longitude: 143.82665
 postcode: "3355"
 city: Ballarat
-street: "Howitt Street"
-housenumber: 1241
-phone: "+61 3 5339 5919"
+street: Howitt Street
+housenumber: "1241"
+phone: +61 3 5339 5919
 opening_hours: ""
-website: "http://www.premixking.com.au/wendouree/"
+website: http://www.premixking.com.au/wendouree/

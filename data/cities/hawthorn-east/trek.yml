@@ -1,11 +1,11 @@
 id: 485122015
-type: way
+type: node
 latitude: -37.82672
 longitude: 145.05718
 postcode: "3123"
 city: Hawthorn East
-street: "Auburn Parade"
-housenumber: 74
+street: Auburn Parade
+housenumber: "74"
 phone: ""
 opening_hours: ""
 website: ""

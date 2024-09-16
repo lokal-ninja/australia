@@ -1,11 +1,11 @@
 id: 808054089
-type: way
+type: node
 latitude: -32.80106
 longitude: 151.65811
 postcode: "2322"
 city: Newcastle
-street: "Lawson Avenue"
-housenumber: 10
-phone: "+61 2 4028 6499"
+street: Lawson Avenue
+housenumber: "10"
+phone: +61 2 4028 6499
 opening_hours: ""
 website: ""

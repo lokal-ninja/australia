@@ -4,8 +4,8 @@ latitude: -31.95201
 longitude: 115.85071
 postcode: "6000"
 city: Perth
-street: "St Georges Terrace"
-housenumber: 250
+street: St Georges Terrace
+housenumber: "250"
 phone: ""
-opening_hours: "Mo-Fr 08:00-14:00; PH closed"
-website: "https://www.contideli.com/"
+opening_hours: Mo-Fr 08:00-14:00; PH closed
+website: https://www.contideli.com/

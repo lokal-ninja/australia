@@ -1,11 +1,11 @@
 id: 687049881
-type: way
+type: node
 latitude: -34.17357
 longitude: 140.75041
 postcode: "5341"
 city: Renmark
-street: "Murray Avenue"
-housenumber: 145
+street: Murray Avenue
+housenumber: "145"
 phone: ""
 opening_hours: ""
 website: ""

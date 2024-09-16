@@ -4,8 +4,8 @@ latitude: -42.88719
 longitude: 147.33256
 postcode: "7004"
 city: Hobart
-street: "Salamanca Square"
-housenumber: 22
-phone: "+61 3 6223 1803"
-opening_hours: "Mo-Sa 09:00-17:00; Su 10:00-16:00; PH 10:00-15:00"
-website: "https://www.hobartbookshop.com.au/"
+street: Salamanca Square
+housenumber: "22"
+phone: +61 3 6223 1803
+opening_hours: Mo-Sa 09:00-17:00; Su 10:00-16:00; PH 10:00-15:00
+website: https://www.hobartbookshop.com.au/

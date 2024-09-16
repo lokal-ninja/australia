@@ -1,11 +1,11 @@
 id: 464318380
-type: way
+type: node
 latitude: -27.62101
 longitude: 153.12309
 postcode: "4127"
 city: Logan
-street: "Moss Street"
-housenumber: 68
+street: Moss Street
+housenumber: "68"
 phone: ""
 opening_hours: ""
 website: ""

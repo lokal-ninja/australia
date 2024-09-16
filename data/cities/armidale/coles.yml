@@ -1,11 +1,11 @@
 id: 568899455
-type: way
+type: node
 latitude: -30.51262
 longitude: 151.66854
 postcode: "2350"
 city: Armidale
-street: "Marsh Street"
+street: Marsh Street
 housenumber: 90-96
-phone: "+61 2 6771 4777"
-opening_hours: "Mo-Sa 07:00-21:00; Su 07:00-20:00"
+phone: +61 2 6771 4777
+opening_hours: Mo-Sa 07:00-21:00; Su 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 76735888
-type: way
+type: node
 latitude: -34.90648
 longitude: 138.50452
 postcode: "5022"
 city: Grange
-street: "Grange Road"
-housenumber: 
+street: Grange Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-05:00"
+opening_hours: Mo-Fr 09:00-05:00
 website: ""

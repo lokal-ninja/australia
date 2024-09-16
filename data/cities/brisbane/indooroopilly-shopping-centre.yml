@@ -1,11 +1,11 @@
 id: 301724993
-type: way
+type: node
 latitude: -27.49773
 longitude: 152.97244
 postcode: "4068"
 city: Brisbane
-street: "Moggill Road"
-housenumber: 322
+street: Moggill Road
+housenumber: "322"
 phone: ""
-opening_hours: "Mo-We,Fr 09:00-17:30; Th 09:00-21:00; Sa 09:00-17:00; Su 10:00-16:00"
-website: "https://indooroopillyshopping.com.au/"
+opening_hours: Mo-We,Fr 09:00-17:30; Th 09:00-21:00; Sa 09:00-17:00; Su 10:00-16:00
+website: https://indooroopillyshopping.com.au/

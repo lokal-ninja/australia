@@ -4,8 +4,8 @@ latitude: -28.02831
 longitude: 153.43264
 postcode: "4218"
 city: Broadbeach
-street: "Albert Avenue"
-housenumber: 10
-phone: "+61 7 5538 8466"
-opening_hours: "Mo-Fr 09:00-17:00; Sa by appointment; Su,PH off"
-website: "http://www.mbebroadbeach.com.au"
+street: Albert Avenue
+housenumber: "10"
+phone: +61 7 5538 8466
+opening_hours: Mo-Fr 09:00-17:00; Sa "by appointment"; Su,PH off
+website: http://www.mbebroadbeach.com.au

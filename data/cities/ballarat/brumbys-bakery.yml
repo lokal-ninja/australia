@@ -1,11 +1,11 @@
 id: 148261137
-type: way
+type: node
 latitude: -37.55916
 longitude: 143.83957
 postcode: "3350"
 city: Ballarat
-street: "Sturt Street"
-housenumber: 1340
-phone: "+61 3 5335 6255"
+street: Sturt Street
+housenumber: "1340"
+phone: +61 3 5335 6255
 opening_hours: ""
-website: "https://www.brumbys.com.au/brumbys/home/"
+website: https://www.brumbys.com.au/brumbys/home/

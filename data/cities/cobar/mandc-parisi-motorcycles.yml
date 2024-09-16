@@ -1,11 +1,11 @@
 id: 422606663
-type: way
+type: node
 latitude: -31.49621
 longitude: 145.83646
 postcode: ""
 city: Cobar
-street: "Frederick Street"
-housenumber: 20
-phone: "+61 2 6836 2669"
+street: Frederick Street
+housenumber: "20"
+phone: +61 2 6836 2669
 opening_hours: ""
-website: "https://www.mcparisi.com.au/"
+website: https://www.mcparisi.com.au/

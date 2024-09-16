@@ -1,11 +1,11 @@
 id: 549060088
-type: way
+type: node
 latitude: -33.89162
 longitude: 151.1372
 postcode: "2130"
 city: Summer Hill
-street: "Smith Street"
-housenumber: 111
+street: Smith Street
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

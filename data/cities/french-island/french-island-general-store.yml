@@ -1,11 +1,11 @@
 id: 240748124
-type: way
+type: node
 latitude: -38.38376
 longitude: 145.30255
 postcode: "3921"
 city: French Island
-street: "Tankerton Road"
-housenumber: 289
-phone: "+61 3 5980 1209"
-opening_hours: "Mo-Fr 08:00-17:00; Sa-Su 09:00-17:00; PH off"
-website: "https://www.figsfrenchisland.com.au/"
+street: Tankerton Road
+housenumber: "289"
+phone: +61 3 5980 1209
+opening_hours: Mo-Fr 08:00-17:00; Sa-Su 09:00-17:00; PH off
+website: https://www.figsfrenchisland.com.au/

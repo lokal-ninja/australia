@@ -1,11 +1,11 @@
 id: 642381177
-type: way
+type: node
 latitude: -27.55048
 longitude: 151.90588
 postcode: "4350"
 city: Toowoomba
-street: "Taylor Street"
-housenumber: 377
+street: Taylor Street
+housenumber: "377"
 phone: ""
 opening_hours: ""
 website: ""

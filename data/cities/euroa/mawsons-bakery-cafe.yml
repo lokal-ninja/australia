@@ -4,8 +4,8 @@ latitude: -36.74938
 longitude: 145.56981
 postcode: "3666"
 city: Euroa
-street: "Binney Street"
-housenumber: 19
-phone: "+61 3 5795 2425"
-opening_hours: "Mo-Fr 07:00-16:00; Sa 07:00-14:30; Su 08:00-13:30"
+street: Binney Street
+housenumber: "19"
+phone: +61 3 5795 2425
+opening_hours: Mo-Fr 07:00-16:00; Sa 07:00-14:30; Su 08:00-13:30
 website: ""

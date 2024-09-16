@@ -1,11 +1,11 @@
 id: 1008258724
-type: way
+type: node
 latitude: -33.38263
 longitude: 148.00923
 postcode: "2871"
 city: Forbes
-street: "Rankin Street"
-housenumber: 27
+street: Rankin Street
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

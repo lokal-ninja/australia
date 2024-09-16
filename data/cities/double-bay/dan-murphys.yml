@@ -4,8 +4,8 @@ latitude: -33.87856
 longitude: 151.24333
 postcode: "2028"
 city: Double Bay
-street: "Kiaora Road"
-housenumber: 1
+street: Kiaora Road
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.danmurphys.com.au/"
+website: https://www.danmurphys.com.au/

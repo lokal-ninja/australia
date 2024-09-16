@@ -4,8 +4,8 @@ latitude: -33.89123
 longitude: 151.17591
 postcode: "2050"
 city: Camperdown
-street: "Australia Street"
-housenumber: 99
-phone: "+61 2 9517 1139"
-opening_hours: "Mo-Fr 07:00-20:30; Sa-Su 08:00-20:00"
+street: Australia Street
+housenumber: "99"
+phone: +61 2 9517 1139
+opening_hours: Mo-Fr 07:00-20:30; Sa-Su 08:00-20:00
 website: ""

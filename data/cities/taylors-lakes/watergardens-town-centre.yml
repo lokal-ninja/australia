@@ -1,11 +1,11 @@
 id: 33658236
-type: way
+type: node
 latitude: -37.69525
 longitude: 144.76983
 postcode: "3038"
 city: Taylors Lakes
-street: "Melton Highway"
-housenumber: 399
+street: Melton Highway
+housenumber: "399"
 phone: ""
 opening_hours: ""
-website: "https://www.watergardens.com.au/"
+website: https://www.watergardens.com.au/

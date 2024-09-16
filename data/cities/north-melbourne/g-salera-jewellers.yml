@@ -4,8 +4,8 @@ latitude: -37.80468
 longitude: 144.9495
 postcode: "3051"
 city: North Melbourne
-street: "Errol Street"
-housenumber: 18
-phone: "+61 3 9328 3981"
-opening_hours: "Mo-Fr 10:00-17:00; Sa 10:00-14:00; Su, PH off"
+street: Errol Street
+housenumber: "18"
+phone: +61 3 9328 3981
+opening_hours: Mo-Fr 10:00-17:00; Sa 10:00-14:00; Su, PH off
 website: ""

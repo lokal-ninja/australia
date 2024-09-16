@@ -1,11 +1,11 @@
 id: 1264760478
-type: way
+type: node
 latitude: -27.5584
 longitude: 153.01893
 postcode: "4108"
 city: Brisbane
-street: "Granard Road"
-housenumber: 50
-phone: "+61 481 579 011"
+street: Granard Road
+housenumber: "50"
+phone: +61 481 579 011
 opening_hours: ""
 website: ""

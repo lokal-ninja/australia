@@ -1,11 +1,11 @@
 id: 425091865
-type: way
+type: node
 latitude: -25.5427
 longitude: 152.69939
 postcode: "4650"
 city: Maryborough
-street: "Bazaar Street"
-housenumber: 72
+street: Bazaar Street
+housenumber: "72"
 phone: ""
 opening_hours: ""
 website: ""

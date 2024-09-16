@@ -1,11 +1,11 @@
 id: 141299861
-type: way
+type: node
 latitude: -27.46852
 longitude: 153.02513
 postcode: "4000"
 city: Brisbane
-street: "Queen Street"
-housenumber: 170
+street: Queen Street
+housenumber: "170"
 phone: ""
 opening_hours: ""
-website: "http://170queen.com.au/"
+website: http://170queen.com.au/

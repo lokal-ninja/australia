@@ -1,11 +1,11 @@
 id: 533069219
-type: way
+type: node
 latitude: -35.44607
 longitude: 149.79887
 postcode: "2622"
 city: Braidwood
-street: "Wallace Street"
-housenumber: 50
+street: Wallace Street
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

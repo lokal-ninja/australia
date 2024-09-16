@@ -1,11 +1,11 @@
 id: 264397005
-type: way
+type: node
 latitude: -36.0551
 longitude: 144.11527
 postcode: "3575"
 city: Pyramid Hill
-street: "Kelly Street"
-housenumber: 2
-phone: "+61 3 5455 7322"
+street: Kelly Street
+housenumber: "2"
+phone: +61 3 5455 7322
 opening_hours: ""
-website: "http://iga.com.au/"
+website: http://iga.com.au/

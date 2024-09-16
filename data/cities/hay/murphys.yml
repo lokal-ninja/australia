@@ -1,11 +1,11 @@
 id: 702418088
-type: way
+type: node
 latitude: -34.50822
 longitude: 144.8439
 postcode: "2711"
 city: Hay
-street: "Lachlan Street"
-housenumber: 157
+street: Lachlan Street
+housenumber: "157"
 phone: ""
 opening_hours: ""
 website: ""

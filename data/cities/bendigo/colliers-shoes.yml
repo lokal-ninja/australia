@@ -1,11 +1,11 @@
 id: 838389724
-type: way
+type: node
 latitude: -36.76047
 longitude: 144.28019
 postcode: "3550"
 city: Bendigo
-street: "Hargreaves Street"
-housenumber: 319
+street: Hargreaves Street
+housenumber: "319"
 phone: ""
-opening_hours: "Mo-Fr 10:00-16:30; Sa 10:00-15:30"
-website: "https://www.thesoletrader.com.au/"
+opening_hours: Mo-Fr 10:00-16:30; Sa 10:00-15:30
+website: https://www.thesoletrader.com.au/

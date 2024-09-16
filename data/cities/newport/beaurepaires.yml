@@ -1,11 +1,11 @@
 id: 517948034
-type: way
+type: node
 latitude: -37.84077
 longitude: 144.88305
 postcode: "3015"
 city: Newport
-street: "Melbourne Road"
-housenumber: 438
+street: Melbourne Road
+housenumber: "438"
 phone: ""
 opening_hours: ""
 website: ""

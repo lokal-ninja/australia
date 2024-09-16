@@ -1,11 +1,11 @@
 id: 837861655
-type: way
+type: node
 latitude: -36.76061
 longitude: 144.28168
 postcode: "3550"
 city: Bendigo
-street: "Lyttleton Terrace"
-housenumber: 276
+street: Lyttleton Terrace
+housenumber: "276"
 phone: ""
 opening_hours: ""
 website: ""

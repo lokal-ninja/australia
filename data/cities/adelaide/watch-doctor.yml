@@ -4,8 +4,8 @@ latitude: -34.92355
 longitude: 138.60091
 postcode: "5000"
 city: Adelaide
-street: "City Cross"
-housenumber: 
-phone: "+61 8 8231 2207"
+street: City Cross
+housenumber: ""
+phone: +61 8 8231 2207
 opening_hours: ""
-website: "https://www.watchdoctor.com.au/"
+website: https://www.watchdoctor.com.au/

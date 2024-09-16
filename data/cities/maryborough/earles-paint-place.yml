@@ -1,11 +1,11 @@
 id: 406764151
-type: way
+type: node
 latitude: -25.53687
 longitude: 152.70291
 postcode: "4650"
 city: Maryborough
-street: "Adelaide Street"
-housenumber: 276
+street: Adelaide Street
+housenumber: "276"
 phone: ""
 opening_hours: ""
 website: ""

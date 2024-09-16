@@ -1,11 +1,11 @@
 id: 442037223
-type: way
+type: node
 latitude: -32.9343
 longitude: 151.7076
 postcode: "2305"
 city: New Lambton, NSW
-street: "Orchardtown Road"
-housenumber: 72
+street: Orchardtown Road
+housenumber: "72"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa,Su 08:00-19:00"
+opening_hours: Mo-Fr 07:00-19:00; Sa,Su 08:00-19:00
 website: ""

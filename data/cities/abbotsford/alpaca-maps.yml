@@ -4,8 +4,8 @@ latitude: -37.79987
 longitude: 144.99945
 postcode: "3067"
 city: Abbotsford
-street: "Little Turner Street"
-housenumber: 129
+street: Little Turner Street
+housenumber: "129"
 phone: ""
-opening_hours: "by appointment"
-website: "https://www.alpacamaps.com/"
+opening_hours: '"by appointment"'
+website: https://www.alpacamaps.com/

@@ -1,11 +1,11 @@
 id: 1268854049
-type: way
+type: node
 latitude: -27.4327
 longitude: 153.04438
 postcode: "4010"
 city: Brisbane
-street: "Crosby Road"
-housenumber: 29
+street: Crosby Road
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

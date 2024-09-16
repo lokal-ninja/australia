@@ -1,11 +1,11 @@
 id: 149637249
-type: way
+type: node
 latitude: -37.54172
 longitude: 143.83918
 postcode: "3350"
 city: Ballarat
-street: "Howitt Street"
-housenumber: 1005
+street: Howitt Street
+housenumber: "1005"
 phone: ""
 opening_hours: ""
 website: ""

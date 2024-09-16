@@ -1,11 +1,11 @@
 id: 585993817
-type: way
+type: node
 latitude: -33.93224
 longitude: 151.18528
 postcode: ""
 city: Mascot
-street: "Sir Reginald Ansett Drive"
-housenumber: 2
+street: Sir Reginald Ansett Drive
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

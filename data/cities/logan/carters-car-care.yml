@@ -1,11 +1,11 @@
 id: 584489953
-type: way
+type: node
 latitude: -27.62362
 longitude: 153.12711
 postcode: "4127"
 city: Logan
-street: "Pacific Highway"
-housenumber: 3405
+street: Pacific Highway
+housenumber: "3405"
 phone: ""
 opening_hours: ""
 website: ""

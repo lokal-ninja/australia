@@ -1,11 +1,11 @@
 id: 301456455
-type: way
+type: node
 latitude: -37.69944
 longitude: 145.0819
 postcode: "3087"
 city: Watsonia North
-street: "Cameron Parade"
-housenumber: 162
-phone: "+61 3 9434 2886"
+street: Cameron Parade
+housenumber: "162"
+phone: +61 3 9434 2886
 opening_hours: ""
 website: ""

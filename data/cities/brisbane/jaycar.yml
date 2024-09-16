@@ -1,11 +1,11 @@
 id: 1036167533
-type: way
+type: node
 latitude: -27.54152
 longitude: 152.95618
 postcode: "4073"
 city: Brisbane
-street: "Seventeen Mile Rocks Road"
-housenumber: 601
-phone: "+61 7 3715 6377"
-opening_hours: "Mo-We,Fr 08:30-17:30; Th 08:30-19:30; Sa 08:30-17:00; Su 10:00-16:00"
-website: "https://www.jaycar.com.au/store/Jindalee_JaycarAU"
+street: Seventeen Mile Rocks Road
+housenumber: "601"
+phone: +61 7 3715 6377
+opening_hours: Mo-We,Fr 08:30-17:30; Th 08:30-19:30; Sa 08:30-17:00; Su 10:00-16:00
+website: https://www.jaycar.com.au/store/Jindalee_JaycarAU

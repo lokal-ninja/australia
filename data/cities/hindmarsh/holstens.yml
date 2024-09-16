@@ -4,8 +4,8 @@ latitude: -34.91109
 longitude: 138.56878
 postcode: "5007"
 city: Hindmarsh
-street: "River Street"
-housenumber: 6
-phone: "+61 8 8346 8777"
-opening_hours: "Mo-Fr 08:30-16:30; PH off"
-website: "https://www.holstens.com.au/"
+street: River Street
+housenumber: "6"
+phone: +61 8 8346 8777
+opening_hours: Mo-Fr 08:30-16:30; PH off
+website: https://www.holstens.com.au/

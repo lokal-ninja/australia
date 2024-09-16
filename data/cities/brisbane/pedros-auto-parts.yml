@@ -1,11 +1,11 @@
 id: 663657680
-type: way
+type: node
 latitude: -27.53922
 longitude: 152.95665
 postcode: "4073"
 city: Brisbane
-street: "Benronalds Street"
-housenumber: 31
+street: Benronalds Street
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

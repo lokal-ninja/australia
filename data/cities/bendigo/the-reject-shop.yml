@@ -1,11 +1,11 @@
 id: 866499315
-type: way
+type: node
 latitude: -36.75901
 longitude: 144.28144
 postcode: "3550"
 city: Bendigo
-street: "Hargreaves Street"
-housenumber: 256
+street: Hargreaves Street
+housenumber: "256"
 phone: ""
-opening_hours: "Mo-Th 08:30-18:00; Fr 08:30-20:00; Sa 08:30-17:00; Su 10:00-16:00"
-website: "https://www.rejectshop.com.au/store/3306"
+opening_hours: Mo-Th 08:30-18:00; Fr 08:30-20:00; Sa 08:30-17:00; Su 10:00-16:00
+website: https://www.rejectshop.com.au/store/3306

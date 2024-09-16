@@ -4,8 +4,9 @@ latitude: -37.88347
 longitude: 145.0529
 postcode: "3163"
 city: Carnegie
-street: "Dandenong Road"
-housenumber: 1030
-phone: "+61 3 9572 9222"
-opening_hours: "Mo-We 09:00-17:30; Th 09:00-19:00; Fr 09:00-17:30; Sa 09:00-17:00; Su 10:00-16:00"
-website: "https://www.bicyclesuperstore.com.au"
+street: Dandenong Road
+housenumber: "1030"
+phone: +61 3 9572 9222
+opening_hours: Mo-We 09:00-17:30; Th 09:00-19:00; Fr 09:00-17:30; Sa 09:00-17:00;
+    Su 10:00-16:00
+website: https://www.bicyclesuperstore.com.au

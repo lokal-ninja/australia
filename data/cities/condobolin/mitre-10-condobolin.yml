@@ -1,11 +1,11 @@
 id: 331615508
-type: way
+type: node
 latitude: -33.08283
 longitude: 147.14759
 postcode: "2877"
 city: Condobolin
-street: "William Street"
-housenumber: 76
+street: William Street
+housenumber: "76"
 phone: ""
 opening_hours: ""
 website: ""

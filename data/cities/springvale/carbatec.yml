@@ -4,8 +4,8 @@ latitude: -37.94642
 longitude: 145.14068
 postcode: "3171"
 city: Springvale
-street: "Osborne Avenue"
-housenumber: 80
+street: Osborne Avenue
+housenumber: "80"
 phone: ""
-opening_hours: "Mo-Fr 8:30-17:00; Sa 8:30-13:00"
-website: "https://www.carbatec.com.au/"
+opening_hours: Mo-Fr 8:30-17:00; Sa 8:30-13:00
+website: https://www.carbatec.com.au/

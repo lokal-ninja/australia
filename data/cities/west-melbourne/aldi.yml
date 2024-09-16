@@ -1,11 +1,11 @@
 id: 314944030
-type: way
+type: node
 latitude: -37.80752
 longitude: 144.94851
 postcode: "3003"
 city: West Melbourne
-street: "Spencer Street"
+street: Spencer Street
 housenumber: 512-542
 phone: ""
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://store.aldi.com.au/vic/west-melbourne/528-spencer-st"
+opening_hours: Mo-Su 08:30-20:00
+website: https://store.aldi.com.au/vic/west-melbourne/528-spencer-st

@@ -1,11 +1,11 @@
 id: 141300663
-type: way
+type: node
 latitude: -27.46832
 longitude: 153.02677
 postcode: "4000"
 city: Brisbane
-street: "Queen Street"
-housenumber: 226
+street: Queen Street
+housenumber: "226"
 phone: ""
-opening_hours: "Mo-Th 09:00-17:30; Fr 09:00-21:00; Sa 09:00-17:00; Su 10:30-16:00"
-website: "http://www.queensplazashopping.com.au/"
+opening_hours: Mo-Th 09:00-17:30; Fr 09:00-21:00; Sa 09:00-17:00; Su 10:30-16:00
+website: http://www.queensplazashopping.com.au/

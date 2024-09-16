@@ -1,11 +1,11 @@
 id: 192241738
-type: way
+type: node
 latitude: -38.15364
 longitude: 145.18526
 postcode: "3910"
 city: Langwarrin
-street: "Cranbourne-Frankston Road"
-housenumber: 121
-phone: "+61 3 9776 7669"
+street: Cranbourne-Frankston Road
+housenumber: "121"
+phone: +61 3 9776 7669
 opening_hours: ""
 website: ""

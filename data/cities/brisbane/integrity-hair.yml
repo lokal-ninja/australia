@@ -4,8 +4,8 @@ latitude: -27.48352
 longitude: 153.06464
 postcode: "4170"
 city: Brisbane
-street: "Bennetts Road"
-housenumber: 181
-phone: "+61 7 3162 1500"
-opening_hours: "Tu-Sa 00:00-24:00"
+street: Bennetts Road
+housenumber: "181"
+phone: +61 7 3162 1500
+opening_hours: Tu-Sa 00:00-24:00
 website: ""

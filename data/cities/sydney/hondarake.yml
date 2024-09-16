@@ -4,8 +4,8 @@ latitude: -33.87623
 longitude: 151.20431
 postcode: ""
 city: Sydney
-street: "Liverpool Street"
-housenumber: 39
+street: Liverpool Street
+housenumber: "39"
 phone: ""
 opening_hours: ""
-website: "https://fullofbooks.com.au/index.php?language=ja"
+website: https://fullofbooks.com.au/index.php?language=ja

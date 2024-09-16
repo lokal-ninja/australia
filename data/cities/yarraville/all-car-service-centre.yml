@@ -1,11 +1,11 @@
 id: 511015096
-type: way
+type: node
 latitude: -37.8102
 longitude: 144.8838
 postcode: "3013"
 city: Yarraville
-street: "Williamstown Road"
-housenumber: 154
+street: Williamstown Road
+housenumber: "154"
 phone: ""
 opening_hours: ""
 website: ""

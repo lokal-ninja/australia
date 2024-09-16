@@ -1,11 +1,11 @@
 id: 308378250
-type: way
+type: node
 latitude: -33.94469
 longitude: 151.14035
 postcode: "2216"
 city: Banksia
-street: "Railway Street"
-housenumber: 17
+street: Railway Street
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

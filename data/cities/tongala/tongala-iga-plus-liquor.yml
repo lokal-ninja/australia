@@ -1,11 +1,11 @@
 id: 512025145
-type: way
+type: node
 latitude: -36.25059
 longitude: 144.94996
 postcode: "3621"
 city: Tongala
-street: "Mangan Street"
-housenumber: 31
+street: Mangan Street
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 905327456
-type: way
+type: node
 latitude: -37.81961
 longitude: 145.00793
 postcode: "3121"
 city: Richmond
-street: "Bridge Road"
-housenumber: 490
+street: Bridge Road
+housenumber: "490"
 phone: ""
 opening_hours: ""
 website: ""

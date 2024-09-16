@@ -1,11 +1,11 @@
 id: 172654062
-type: way
+type: node
 latitude: -38.14764
 longitude: 145.14533
 postcode: "3199"
 city: Frankston
-street: "Beach Street"
-housenumber: 233
-phone: "+61 3 9789 9537"
+street: Beach Street
+housenumber: "233"
+phone: +61 3 9789 9537
 opening_hours: ""
-website: "http://stores.bottlemart.com.au/Frankston-Heights-The-Duck-Inn-Bottleshop/664545"
+website: http://stores.bottlemart.com.au/Frankston-Heights-The-Duck-Inn-Bottleshop/664545

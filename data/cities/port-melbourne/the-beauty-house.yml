@@ -4,8 +4,8 @@ latitude: -37.83726
 longitude: 144.94394
 postcode: "3207"
 city: Port Melbourne
-street: "Bay Street"
-housenumber: 300
+street: Bay Street
+housenumber: "300"
 phone: ""
 opening_hours: ""
-website: "http://www.thebeautyhouse.com.au/"
+website: http://www.thebeautyhouse.com.au/

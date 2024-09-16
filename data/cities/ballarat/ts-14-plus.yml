@@ -1,11 +1,11 @@
 id: 202869755
-type: way
+type: node
 latitude: -37.56229
 longitude: 143.8552
 postcode: "3350"
 city: Ballarat
-street: "Sturt Street"
-housenumber: 319
-phone: "+61 3 5332 4808"
-opening_hours: "Mo-Th 9:00-17:30; Fr 9:00-18:00; Sa 9:00-17:00; Su 11:00-16:00"
-website: "https://takingshape.com.au/"
+street: Sturt Street
+housenumber: "319"
+phone: +61 3 5332 4808
+opening_hours: Mo-Th 9:00-17:30; Fr 9:00-18:00; Sa 9:00-17:00; Su 11:00-16:00
+website: https://takingshape.com.au/

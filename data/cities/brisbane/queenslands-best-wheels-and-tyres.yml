@@ -1,11 +1,11 @@
 id: 585546814
-type: way
+type: node
 latitude: -27.36943
 longitude: 153.05594
 postcode: "4034"
 city: Brisbane
-street: "Robinson Road East"
-housenumber: 95
+street: Robinson Road East
+housenumber: "95"
 phone: ""
 opening_hours: ""
 website: ""

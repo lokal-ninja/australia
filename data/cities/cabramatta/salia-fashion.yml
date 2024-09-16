@@ -1,11 +1,11 @@
 id: 246292122
-type: way
+type: node
 latitude: -33.89518
 longitude: 150.93617
 postcode: "2166"
 city: Cabramatta
-street: "John Street"
+street: John Street
 housenumber: 56a
-phone: "+61 2 9723 5050"
+phone: +61 2 9723 5050
 opening_hours: ""
 website: ""

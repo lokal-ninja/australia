@@ -4,8 +4,8 @@ latitude: -33.89502
 longitude: 151.16414
 postcode: "2048"
 city: Stanmore
-street: "Holt Street"
-housenumber: 2
-phone: "+61 2 9560 4680"
-opening_hours: "Mo-Th 08:00-19:30, Fr 08:00-24:00, Sa 08:00-18:30"
-website: "http://iga.com.au/"
+street: Holt Street
+housenumber: "2"
+phone: +61 2 9560 4680
+opening_hours: Mo-Th 08:00-19:30, Fr 08:00-24:00, Sa 08:00-18:30
+website: http://iga.com.au/

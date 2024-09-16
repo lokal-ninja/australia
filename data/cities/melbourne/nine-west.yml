@@ -4,8 +4,8 @@ latitude: -37.81574
 longitude: 144.96506
 postcode: "3000"
 city: Melbourne
-street: "Collins Street"
-housenumber: 260
+street: Collins Street
+housenumber: "260"
 phone: ""
 opening_hours: ""
-website: "https://www.ninewest.com.au/"
+website: https://www.ninewest.com.au/

@@ -1,11 +1,11 @@
 id: 422800848
-type: way
+type: node
 latitude: -25.52208
 longitude: 152.70208
 postcode: "4650"
 city: Maryborough
-street: "Pallas Street"
-housenumber: 235
+street: Pallas Street
+housenumber: "235"
 phone: ""
 opening_hours: ""
 website: ""

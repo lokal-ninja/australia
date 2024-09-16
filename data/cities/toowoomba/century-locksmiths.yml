@@ -1,11 +1,11 @@
 id: 885523505
-type: way
+type: node
 latitude: -27.5657
 longitude: 151.95036
 postcode: "4350"
 city: Toowoomba
-street: "Wylie Street"
-housenumber: 14
+street: Wylie Street
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: -32.96523
 longitude: 151.65387
 postcode: "2282"
 city: Warners Bay
-street: "Macquarie Road"
-housenumber: 276
-phone: "+61 2 4954 8100"
-opening_hours: "Mo-We,Fr 08:30-17:30; Th 08:30-19:30; Sa 08:30-17:30; Su 10:00-16:00"
-website: "https://www.jaycar.com.au"
+street: Macquarie Road
+housenumber: "276"
+phone: +61 2 4954 8100
+opening_hours: Mo-We,Fr 08:30-17:30; Th 08:30-19:30; Sa 08:30-17:30; Su 10:00-16:00
+website: https://www.jaycar.com.au

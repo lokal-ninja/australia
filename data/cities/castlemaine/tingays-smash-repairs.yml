@@ -1,11 +1,11 @@
 id: 172480964
-type: way
+type: node
 latitude: -37.07166
 longitude: 144.20539
 postcode: ""
 city: Castlemaine
-street: "Elizabeth Street"
-housenumber: 20
+street: Elizabeth Street
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

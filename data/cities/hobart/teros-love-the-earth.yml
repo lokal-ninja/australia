@@ -4,8 +4,8 @@ latitude: -42.88051
 longitude: 147.32568
 postcode: "7000"
 city: Hobart
-street: "Elizabeth Street"
-housenumber: 117
-phone: "+61 3 9005 6262"
-opening_hours: "Mo-Fr 09:00-17:30; Sa 09:00-16:00; Su 09:00-14:00"
-website: "https://teros.eco/"
+street: Elizabeth Street
+housenumber: "117"
+phone: +61 3 9005 6262
+opening_hours: Mo-Fr 09:00-17:30; Sa 09:00-16:00; Su 09:00-14:00
+website: https://teros.eco/

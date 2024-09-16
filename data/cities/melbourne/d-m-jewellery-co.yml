@@ -4,8 +4,8 @@ latitude: -37.81282
 longitude: 144.96561
 postcode: "3000"
 city: Melbourne
-street: "Swanston Street"
-housenumber: 210
+street: Swanston Street
+housenumber: "210"
 phone: ""
-opening_hours: "Mo-Sa 11:00-18:30; Su 12:00-18:00"
+opening_hours: Mo-Sa 11:00-18:30; Su 12:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 479821593
-type: way
+type: node
 latitude: -37.79946
 longitude: 144.91765
 postcode: "3003"
 city: West Melbourne
-street: "Kensington Road"
-housenumber: 180
+street: Kensington Road
+housenumber: "180"
 phone: ""
 opening_hours: ""
 website: ""

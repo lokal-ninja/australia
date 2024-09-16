@@ -1,11 +1,11 @@
 id: 315587492
-type: way
+type: node
 latitude: -32.01606
 longitude: 115.9383
 postcode: "6107"
 city: Cannington
-street: "Albany Highway"
-housenumber: 1382
-phone: "+61 8 9458 6344"
+street: Albany Highway
+housenumber: "1382"
+phone: +61 8 9458 6344
 opening_hours: ""
-website: "https://www.westfield.com.au/carousel/"
+website: https://www.westfield.com.au/carousel/

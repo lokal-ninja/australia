@@ -4,8 +4,8 @@ latitude: -37.8377
 longitude: 144.97545
 postcode: "3004"
 city: Melbourne
-street: "St Kilda Road"
-housenumber: 434
+street: St Kilda Road
+housenumber: "434"
 phone: ""
 opening_hours: ""
-website: "https://victorsbarbershop.com.au"
+website: https://victorsbarbershop.com.au

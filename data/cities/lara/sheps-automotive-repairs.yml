@@ -1,11 +1,11 @@
 id: 266792321
-type: way
+type: node
 latitude: -38.0231
 longitude: 144.41568
 postcode: "3212"
 city: Lara
-street: "Hicks Street"
-housenumber: 20
-phone: "+61 3 5282 5707"
+street: Hicks Street
+housenumber: "20"
+phone: +61 3 5282 5707
 opening_hours: ""
 website: ""

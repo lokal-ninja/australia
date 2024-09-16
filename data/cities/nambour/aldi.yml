@@ -1,11 +1,11 @@
 id: 329627099
-type: way
+type: node
 latitude: -26.62618
 longitude: 152.96494
 postcode: "4560"
 city: Nambour
-street: "Howard Street"
-housenumber: 125
+street: Howard Street
+housenumber: "125"
 phone: ""
-opening_hours: "Mo-Fr 08:30-20:00; Sa 08:00-19:00; Su 09:00-18:00"
-website: "https://store.aldi.com.au/qld/nambour/125-howard-street"
+opening_hours: Mo-Fr 08:30-20:00; Sa 08:00-19:00; Su 09:00-18:00
+website: https://store.aldi.com.au/qld/nambour/125-howard-street

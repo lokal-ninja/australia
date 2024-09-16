@@ -1,11 +1,11 @@
 id: 172654064
-type: way
+type: node
 latitude: -38.14764
 longitude: 145.14505
 postcode: "3199"
 city: Frankston
-street: "Beach Street"
-housenumber: 
-phone: "+61 3 9789 9344"
+street: Beach Street
+housenumber: ""
+phone: +61 3 9789 9344
 opening_hours: ""
 website: ""

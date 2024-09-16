@@ -1,11 +1,11 @@
 id: 544006095
-type: way
+type: node
 latitude: -27.52376
 longitude: 151.85041
 postcode: ""
 city: Charlton
-street: "Warrego Highway"
-housenumber: 10797
+street: Warrego Highway
+housenumber: "10797"
 phone: ""
-opening_hours: "24/7"
-website: "https://ior.com.au/"
+opening_hours: 24/7
+website: https://ior.com.au/

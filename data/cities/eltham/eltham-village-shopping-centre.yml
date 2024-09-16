@@ -1,11 +1,11 @@
 id: 62068319
-type: way
+type: node
 latitude: -37.71489
 longitude: 145.14837
 postcode: "3095"
 city: Eltham
-street: "Main Road"
-housenumber: 906
+street: Main Road
+housenumber: "906"
 phone: ""
 opening_hours: ""
 website: ""

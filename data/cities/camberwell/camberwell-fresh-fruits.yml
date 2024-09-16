@@ -1,11 +1,11 @@
 id: 439016164
-type: way
+type: node
 latitude: -37.83389
 longitude: 145.0779
 postcode: "3124"
 city: Camberwell
-street: "Riversdale Road"
-housenumber: 760
+street: Riversdale Road
+housenumber: "760"
 phone: ""
 opening_hours: ""
 website: ""

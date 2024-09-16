@@ -4,8 +4,8 @@ latitude: -33.8739
 longitude: 151.22256
 postcode: "2011"
 city: Potts Point
-street: "Victoria Street"
-housenumber: 204
-phone: "+61 2 9357 2855"
-opening_hours: "Mo-Sa 09:00-22:00; Su 10:00-19:00"
-website: "https://mrliquor.com.au/"
+street: Victoria Street
+housenumber: "204"
+phone: +61 2 9357 2855
+opening_hours: Mo-Sa 09:00-22:00; Su 10:00-19:00
+website: https://mrliquor.com.au/

@@ -1,11 +1,11 @@
 id: 266815298
-type: way
+type: node
 latitude: -38.07713
 longitude: 144.36738
 postcode: ""
 city: Corio
-street: "Princes Highway"
-housenumber: 290
-phone: "+61 3 5274 2800"
+street: Princes Highway
+housenumber: "290"
+phone: +61 3 5274 2800
 opening_hours: ""
-website: "https://petstock.com.au"
+website: https://petstock.com.au

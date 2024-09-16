@@ -1,11 +1,11 @@
 id: 543678819
-type: way
+type: node
 latitude: -23.85754
 longitude: 151.26896
 postcode: "4680"
 city: Gladstone
-street: "Toolooa Street"
-housenumber: 
+street: Toolooa Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

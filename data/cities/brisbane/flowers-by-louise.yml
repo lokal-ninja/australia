@@ -4,8 +4,8 @@ latitude: -27.59663
 longitude: 153.02581
 postcode: "4110"
 city: Brisbane
-street: "Stanley Street"
-housenumber: 5
-phone: "+61 485 093 748"
-opening_hours: "Mo-Sa"
+street: Stanley Street
+housenumber: "5"
+phone: +61 485 093 748
+opening_hours: Mo-Sa
 website: ""

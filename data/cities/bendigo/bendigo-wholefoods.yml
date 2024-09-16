@@ -1,11 +1,11 @@
 id: 837695690
-type: way
+type: node
 latitude: -36.76133
 longitude: 144.28137
 postcode: "3550"
 city: Bendigo
-street: "Lyttleton Terrace"
-housenumber: 314
+street: Lyttleton Terrace
+housenumber: "314"
 phone: ""
 opening_hours: ""
-website: "https://www.bendigowholefoods.com.au/"
+website: https://www.bendigowholefoods.com.au/

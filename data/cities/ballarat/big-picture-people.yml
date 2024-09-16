@@ -1,11 +1,11 @@
 id: 148863586
-type: way
+type: node
 latitude: -37.53987
 longitude: 143.82568
 postcode: "3355"
 city: Ballarat
-street: "Howitt Street"
-housenumber: 1251
-phone: "+61 3 5339 2299"
+street: Howitt Street
+housenumber: "1251"
+phone: +61 3 5339 2299
 opening_hours: ""
-website: "https://www.bigpicturepeople.com.au/"
+website: https://www.bigpicturepeople.com.au/

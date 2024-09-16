@@ -1,11 +1,11 @@
 id: 320465934
-type: way
+type: node
 latitude: -34.37714
 longitude: 150.91333
 postcode: "2518"
 city: East Corrimal
-street: "Murray Road"
-housenumber: 13
+street: Murray Road
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Su 07:00-19:00"
-website: "https://foodworks.com.au/EastCorrimal"
+opening_hours: Mo-Su 07:00-19:00
+website: https://foodworks.com.au/EastCorrimal

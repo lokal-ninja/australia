@@ -4,8 +4,8 @@ latitude: -27.93539
 longitude: 153.39193
 postcode: "4215"
 city: Labrador
-street: "Brisbane Road"
-housenumber: 142
-phone: "+61 7 5537 4295"
-opening_hours: "Mo-We,Fr 08:30-17:30; Th 08:30-19:30; Sa 08:30-17:00; Su 10:00-16:00"
-website: "https://www.jaycar.com.au/store/Labrador_JaycarAU"
+street: Brisbane Road
+housenumber: "142"
+phone: +61 7 5537 4295
+opening_hours: Mo-We,Fr 08:30-17:30; Th 08:30-19:30; Sa 08:30-17:00; Su 10:00-16:00
+website: https://www.jaycar.com.au/store/Labrador_JaycarAU

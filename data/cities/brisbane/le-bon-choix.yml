@@ -4,8 +4,8 @@ latitude: -27.46616
 longitude: 153.03008
 postcode: "4000"
 city: Brisbane
-street: "Queen Street"
-housenumber: 379
+street: Queen Street
+housenumber: "379"
 phone: ""
-opening_hours: "Mo-Sa 06:30-18:00; Su 06:30-17:00"
-website: "https://www.lebonchoixbakery.com.au/"
+opening_hours: Mo-Sa 06:30-18:00; Su 06:30-17:00
+website: https://www.lebonchoixbakery.com.au/

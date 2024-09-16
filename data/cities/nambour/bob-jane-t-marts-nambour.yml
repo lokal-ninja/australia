@@ -1,11 +1,11 @@
 id: 550189365
-type: way
+type: node
 latitude: -26.62049
 longitude: 152.9647
 postcode: "4560"
 city: Nambour
-street: "Coronation Avenue"
-housenumber: 49
+street: Coronation Avenue
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

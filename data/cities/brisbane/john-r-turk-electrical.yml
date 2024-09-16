@@ -1,11 +1,11 @@
 id: 1074732518
-type: way
+type: node
 latitude: -27.56953
 longitude: 153.0339
 postcode: "4108"
 city: Brisbane
-street: "Boundary Road"
-housenumber: 854
+street: Boundary Road
+housenumber: "854"
 phone: ""
 opening_hours: ""
 website: ""

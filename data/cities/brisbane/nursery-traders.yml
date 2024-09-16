@@ -1,11 +1,11 @@
 id: 516978795
-type: way
+type: node
 latitude: -27.51462
 longitude: 153.18163
 postcode: "4155"
 city: Brisbane
-street: "Tinchborne Street"
-housenumber: 100
+street: Tinchborne Street
+housenumber: "100"
 phone: ""
 opening_hours: ""
-website: "https://www.nurserytraders.com.au/"
+website: https://www.nurserytraders.com.au/

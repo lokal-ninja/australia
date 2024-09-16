@@ -1,11 +1,11 @@
 id: 837682667
-type: way
+type: node
 latitude: -36.76078
 longitude: 144.28158
 postcode: "3550"
 city: Bendigo
-street: "Queen Street"
-housenumber: 7
+street: Queen Street
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.chemistdiscountcentre.com.au/"
+website: https://www.chemistdiscountcentre.com.au/

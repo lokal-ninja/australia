@@ -4,8 +4,8 @@ latitude: -32.72749
 longitude: 151.31505
 postcode: "2320"
 city: Rothbury
-street: "McDonalds Road"
-housenumber: 999
+street: McDonalds Road
+housenumber: "999"
 phone: ""
 opening_hours: ""
-website: "https://www.blueberryhill.com.au"
+website: https://www.blueberryhill.com.au

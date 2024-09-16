@@ -1,11 +1,11 @@
 id: 204431230
-type: way
+type: node
 latitude: -37.56334
 longitude: 143.86066
 postcode: "3350"
 city: Ballarat
-street: "Grenville Street South"
-housenumber: 7
-phone: "+61 3 5333 3379"
+street: Grenville Street South
+housenumber: "7"
+phone: +61 3 5333 3379
 opening_hours: ""
-website: "https://www.baxterandstubbs.com.au/"
+website: https://www.baxterandstubbs.com.au/

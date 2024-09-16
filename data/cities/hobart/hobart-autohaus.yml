@@ -1,11 +1,11 @@
 id: 313668929
-type: way
+type: node
 latitude: -42.88599
 longitude: 147.32387
 postcode: "7000"
 city: Hobart
-street: "Barrack Street"
-housenumber: 23
-phone: "+61 3 6236 9099"
+street: Barrack Street
+housenumber: "23"
+phone: +61 3 6236 9099
 opening_hours: ""
-website: "http://www.hobartautohaus.bmw.com.au"
+website: http://www.hobartautohaus.bmw.com.au

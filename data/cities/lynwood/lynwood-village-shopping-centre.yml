@@ -1,11 +1,11 @@
 id: 290840450
-type: way
+type: node
 latitude: -32.03605
 longitude: 115.92764
 postcode: "6147"
 city: Lynwood
-street: "Lynwood Avenue"
-housenumber: 6
+street: Lynwood Avenue
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

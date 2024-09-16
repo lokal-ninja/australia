@@ -1,11 +1,11 @@
 id: 885523504
-type: way
+type: node
 latitude: -27.56575
 longitude: 151.9507
 postcode: "4350"
 city: Toowoomba
-street: "Instow Street"
-housenumber: 11
+street: Instow Street
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 830618140
-type: way
+type: node
 latitude: -36.7606
 longitude: 144.28392
 postcode: "3550"
 city: Bendigo
-street: "Saint Andrews Avenue"
-housenumber: 30
+street: Saint Andrews Avenue
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

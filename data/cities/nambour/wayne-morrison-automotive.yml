@@ -1,11 +1,11 @@
 id: 550363296
-type: way
+type: node
 latitude: -26.62562
 longitude: 152.96689
 postcode: "4560"
 city: Nambour
-street: "Howard Street"
-housenumber: 141
+street: Howard Street
+housenumber: "141"
 phone: ""
 opening_hours: ""
 website: ""

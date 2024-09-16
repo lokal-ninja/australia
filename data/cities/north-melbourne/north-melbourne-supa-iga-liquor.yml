@@ -1,11 +1,11 @@
 id: 315126226
-type: way
+type: node
 latitude: -37.80465
 longitude: 144.94951
 postcode: "3051"
 city: North Melbourne
-street: "Errol Street"
+street: Errol Street
 housenumber: 20-26
-phone: "+61 3 9329 2500"
-opening_hours: "Mo-Fr 07:30-23:00; Sa 07:30-22:00; Su, PH 09:00-22:00"
-website: "https://www.iga.com.au/"
+phone: +61 3 9329 2500
+opening_hours: Mo-Fr 07:30-23:00; Sa 07:30-22:00; Su, PH 09:00-22:00
+website: https://www.iga.com.au/

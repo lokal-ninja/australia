@@ -4,8 +4,8 @@ latitude: -37.52305
 longitude: 144.59563
 postcode: ""
 city: Gisborne South
-street: "Short Road"
-housenumber: 69
+street: Short Road
+housenumber: "69"
 phone: ""
-opening_hours: "by appointment"
-website: "https://www.gisbornepeakwines.com.au/"
+opening_hours: '"by appointment"'
+website: https://www.gisbornepeakwines.com.au/

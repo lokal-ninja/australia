@@ -1,11 +1,11 @@
 id: 838389725
-type: way
+type: node
 latitude: -36.76031
 longitude: 144.28007
 postcode: "3550"
 city: Bendigo
-street: "Hargreaves Street"
-housenumber: 315
+street: Hargreaves Street
+housenumber: "315"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 346678591
-type: way
+type: node
 latitude: -34.44361
 longitude: 147.53099
 postcode: "2666"
 city: Temora
-street: "Hoskins Street"
+street: Hoskins Street
 housenumber: 104-110
-phone: "+61 2 6977 5050"
-opening_hours: "07:00-21:00"
-website: "https://www.woolworths.com.au/"
+phone: +61 2 6977 5050
+opening_hours: 07:00-21:00
+website: https://www.woolworths.com.au/

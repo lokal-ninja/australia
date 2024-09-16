@@ -4,8 +4,8 @@ latitude: -37.81543
 longitude: 144.96171
 postcode: "3000"
 city: Melbourne
-street: "McKillop Street"
-housenumber: 15
-phone: "+61 3 9670 2585"
-opening_hours: "Mo-Fr 12:00-17:00; Sa 12:00-15:00"
-website: "http://www.haunted.com.au"
+street: McKillop Street
+housenumber: "15"
+phone: +61 3 9670 2585
+opening_hours: Mo-Fr 12:00-17:00; Sa 12:00-15:00
+website: http://www.haunted.com.au

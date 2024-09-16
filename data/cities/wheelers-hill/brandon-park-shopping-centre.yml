@@ -1,11 +1,11 @@
 id: 11018663
-type: way
+type: node
 latitude: -37.90448
 longitude: 145.16214
 postcode: "3150"
 city: Wheelers Hill
-street: "Springvale Road"
-housenumber: 580
-phone: "+61 3 9560 2065"
-opening_hours: "Mo-We 09:00-17:30; Th-Fr 09:00-21:00; Sa 09:00-17:00; Su 10:00-17:00"
-website: "https://www.brandonparkcentre.com.au/"
+street: Springvale Road
+housenumber: "580"
+phone: +61 3 9560 2065
+opening_hours: Mo-We 09:00-17:30; Th-Fr 09:00-21:00; Sa 09:00-17:00; Su 10:00-17:00
+website: https://www.brandonparkcentre.com.au/

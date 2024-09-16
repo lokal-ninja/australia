@@ -1,11 +1,11 @@
 id: 93289065
-type: way
+type: node
 latitude: -33.9662
 longitude: 151.11037
 postcode: "2220"
 city: Hurstville
-street: "Forest Road"
-housenumber: 104
+street: Forest Road
+housenumber: "104"
 phone: ""
 opening_hours: ""
 website: ""

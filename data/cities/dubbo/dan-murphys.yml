@@ -1,11 +1,11 @@
 id: 415010127
-type: way
+type: node
 latitude: -32.25214
 longitude: 148.63166
 postcode: "2830"
 city: Dubbo
-street: "Birch Avenue"
-housenumber: 
+street: Birch Avenue
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

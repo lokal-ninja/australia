@@ -1,11 +1,11 @@
 id: 365533011
-type: way
+type: node
 latitude: -37.82981
 longitude: 144.95612
 postcode: "3205"
 city: South Melbourne
-street: "Cnr City Road & Cecil Street South Melbourne"
-housenumber: 
+street: Cnr City Road & Cecil Street South Melbourne
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.reece.com.au/"
+website: https://www.reece.com.au/

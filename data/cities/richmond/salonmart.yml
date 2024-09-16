@@ -1,11 +1,11 @@
 id: 344497628
-type: way
+type: node
 latitude: -37.81719
 longitude: 145.00885
 postcode: "3121"
 city: Richmond
-street: "Burnley Street"
-housenumber: 147
+street: Burnley Street
+housenumber: "147"
 phone: ""
 opening_hours: ""
 website: ""

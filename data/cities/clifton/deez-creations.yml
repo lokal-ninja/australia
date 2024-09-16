@@ -1,11 +1,11 @@
 id: 463976631
-type: way
+type: node
 latitude: -27.93213
 longitude: 151.90675
 postcode: "4361"
 city: Clifton
-street: "Clark Street"
-housenumber: 52
-phone: "+61 7 4612 3423"
+street: Clark Street
+housenumber: "52"
+phone: +61 7 4612 3423
 opening_hours: ""
 website: ""

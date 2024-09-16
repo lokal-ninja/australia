@@ -1,11 +1,11 @@
 id: 1289230644
-type: way
+type: node
 latitude: -27.43079
 longitude: 153.04073
 postcode: "4010"
 city: Brisbane
-street: "Hudson Road"
-housenumber: 38
+street: Hudson Road
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-14:00"
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-14:00
 website: ""

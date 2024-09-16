@@ -1,11 +1,11 @@
 id: 585111187
-type: way
+type: node
 latitude: -27.61544
 longitude: 153.11777
 postcode: "4119"
 city: Logan
-street: "Parramatta Road"
-housenumber: 44
+street: Parramatta Road
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

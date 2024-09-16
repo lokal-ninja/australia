@@ -4,8 +4,8 @@ latitude: -37.86344
 longitude: 145.0788
 postcode: "3147"
 city: Melbourne
-street: "High Street"
-housenumber: 198
-phone: "+61 3 9885 3887"
+street: High Street
+housenumber: "198"
+phone: +61 3 9885 3887
 opening_hours: ""
-website: "https://www.tlee.com.au/"
+website: https://www.tlee.com.au/

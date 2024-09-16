@@ -1,11 +1,11 @@
 id: 286691125
-type: way
+type: node
 latitude: -34.83958
 longitude: 138.48844
 postcode: "5019"
 city: Semaphore
-street: "Semaphore Road"
-housenumber: 119
+street: Semaphore Road
+housenumber: "119"
 phone: ""
 opening_hours: ""
 website: ""

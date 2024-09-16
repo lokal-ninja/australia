@@ -1,11 +1,11 @@
 id: 636550028
-type: way
+type: node
 latitude: -37.80106
 longitude: 144.90051
 postcode: ""
 city: Footscray
-street: "Paisley Street"
-housenumber: 13
+street: Paisley Street
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 632728117
-type: way
+type: node
 latitude: -27.63033
 longitude: 153.11905
 postcode: "4127"
 city: Logan
-street: "Kingston Road"
-housenumber: 254
+street: Kingston Road
+housenumber: "254"
 phone: ""
 opening_hours: ""
 website: ""

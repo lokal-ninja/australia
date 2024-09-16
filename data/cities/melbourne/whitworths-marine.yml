@@ -4,8 +4,8 @@ latitude: -37.80511
 longitude: 144.95941
 postcode: "3000"
 city: Melbourne
-street: "Elizabeth Street"
-housenumber: 556
+street: Elizabeth Street
+housenumber: "556"
 phone: ""
 opening_hours: ""
-website: "https://www.whitworths.com.au/"
+website: https://www.whitworths.com.au/

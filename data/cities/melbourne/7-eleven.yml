@@ -4,8 +4,8 @@ latitude: -37.81358
 longitude: 144.96599
 postcode: "3000"
 city: Melbourne
-street: "Bourke Street"
-housenumber: 118
+street: Bourke Street
+housenumber: "118"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.7eleven.com.au/"
+opening_hours: 24/7
+website: https://www.7eleven.com.au/

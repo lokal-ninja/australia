@@ -4,8 +4,8 @@ latitude: -37.8044
 longitude: 144.95649
 postcode: "3051"
 city: North Melbourne
-street: "Peel Street"
-housenumber: 152
-phone: "+61 3 9349 2800"
-opening_hours: "Mo-Fr 08:30-17:30; Sa by appointment; Su off"
-website: "http://www.mbecarlton.com.au/"
+street: Peel Street
+housenumber: "152"
+phone: +61 3 9349 2800
+opening_hours: Mo-Fr 08:30-17:30; Sa "by appointment"; Su off
+website: http://www.mbecarlton.com.au/

@@ -4,8 +4,8 @@ latitude: -32.93902
 longitude: 151.70693
 postcode: "2289"
 city: Kotara
-street: "Park Avenue"
-housenumber: 150
-phone: "+61 2 4941 8000"
-opening_hours: "Mo-We,Fr 09:00-17:30; Th 09:00-21:00; Sa 09:00-17:00; Su 10:00-17:00"
-website: "https://www.thegoodguys.com.au/"
+street: Park Avenue
+housenumber: "150"
+phone: +61 2 4941 8000
+opening_hours: Mo-We,Fr 09:00-17:30; Th 09:00-21:00; Sa 09:00-17:00; Su 10:00-17:00
+website: https://www.thegoodguys.com.au/

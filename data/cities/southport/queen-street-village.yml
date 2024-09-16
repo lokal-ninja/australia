@@ -1,11 +1,11 @@
 id: 1310979360
-type: way
+type: node
 latitude: -27.9714
 longitude: 153.40812
 postcode: "4215"
 city: Southport
-street: "Nerang Street"
-housenumber: 102
+street: Nerang Street
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 495465186
-type: way
+type: node
 latitude: -33.86829
 longitude: 151.10333
 postcode: "2137"
 city: Concord
-street: "Parramatta Road"
-housenumber: 57
-phone: "+61 2 9747 7777"
+street: Parramatta Road
+housenumber: "57"
+phone: +61 2 9747 7777
 opening_hours: ""
-website: "https://www.strathfieldcarradios.com.au/"
+website: https://www.strathfieldcarradios.com.au/

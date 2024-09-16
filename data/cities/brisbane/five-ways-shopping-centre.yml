@@ -1,11 +1,11 @@
 id: 53144303
-type: way
+type: node
 latitude: -27.49697
 longitude: 152.98981
 postcode: "4068"
 city: Brisbane
-street: "Indooroopilly Road"
-housenumber: 144
+street: Indooroopilly Road
+housenumber: "144"
 phone: ""
 opening_hours: ""
 website: ""

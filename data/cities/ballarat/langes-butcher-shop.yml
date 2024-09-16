@@ -1,11 +1,11 @@
 id: 126557787
-type: way
+type: node
 latitude: -37.56366
 longitude: 143.83867
 postcode: "3350"
 city: Ballarat
-street: "Pleasant Street South"
-housenumber: 119
-phone: "+61 3 5332 1156"
+street: Pleasant Street South
+housenumber: "119"
+phone: +61 3 5332 1156
 opening_hours: ""
 website: ""

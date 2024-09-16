@@ -1,11 +1,11 @@
 id: 239143205
-type: way
+type: node
 latitude: -31.87032
 longitude: 115.85925
 postcode: "6061"
 city: Mirrabooka
-street: "Yirrigan Drive"
-housenumber: 43
+street: Yirrigan Drive
+housenumber: "43"
 phone: ""
 opening_hours: ""
-website: "https://www.thesquaremirrabooka.com.au/"
+website: https://www.thesquaremirrabooka.com.au/

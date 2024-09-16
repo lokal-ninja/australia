@@ -1,11 +1,11 @@
 id: 823463808
-type: way
+type: node
 latitude: -36.76298
 longitude: 144.28293
 postcode: "3550"
 city: Bendigo
-street: "Mollison Street"
-housenumber: 138
+street: Mollison Street
+housenumber: "138"
 phone: ""
 opening_hours: ""
 website: ""

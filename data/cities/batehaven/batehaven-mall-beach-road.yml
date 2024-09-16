@@ -1,11 +1,11 @@
 id: 435276407
-type: way
+type: node
 latitude: -35.73292
 longitude: 150.2001
 postcode: "2536"
 city: Batehaven
-street: "Beach Road"
-housenumber: 270
+street: Beach Road
+housenumber: "270"
 phone: ""
 opening_hours: ""
 website: ""

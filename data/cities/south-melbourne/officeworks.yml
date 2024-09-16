@@ -1,11 +1,11 @@
 id: 27592021
-type: way
+type: node
 latitude: -37.83235
 longitude: 144.96768
 postcode: "3205"
 city: South Melbourne
-street: "Kings Way"
-housenumber: 231
-phone: "+61 3 9693 7300"
+street: Kings Way
+housenumber: "231"
+phone: +61 3 9693 7300
 opening_hours: ""
 website: ""

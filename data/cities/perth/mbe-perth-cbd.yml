@@ -4,8 +4,8 @@ latitude: -31.9553
 longitude: 115.85892
 postcode: "6000"
 city: Perth
-street: "St Georges Terrace"
-housenumber: 50
-phone: "+61 8 9218 9900"
-opening_hours: "Mo-Fr 08:30-17:00; PH,Sa,Su off"
-website: "https://www.mbeperthcbd.com.au/"
+street: St Georges Terrace
+housenumber: "50"
+phone: +61 8 9218 9900
+opening_hours: Mo-Fr 08:30-17:00; PH,Sa,Su off
+website: https://www.mbeperthcbd.com.au/

@@ -4,8 +4,8 @@ latitude: -33.71038
 longitude: 150.31993
 postcode: "2780"
 city: Katoomba
-street: "Wilson Street"
-housenumber: 46
-phone: "+61 2 4782 6066"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 08:00-16:30; Su 08:30-16:00"
-website: "https://www.homehardware.com.au/"
+street: Wilson Street
+housenumber: "46"
+phone: +61 2 4782 6066
+opening_hours: Mo-Fr 07:30-17:00; Sa 08:00-16:30; Su 08:30-16:00
+website: https://www.homehardware.com.au/

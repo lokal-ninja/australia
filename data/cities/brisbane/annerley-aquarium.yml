@@ -1,11 +1,11 @@
 id: 163351172
-type: way
+type: node
 latitude: -27.49905
 longitude: 153.05022
 postcode: "4120"
 city: Brisbane
-street: "Old Cleveland Road"
-housenumber: 135
-phone: "+61 7 3397 6266"
+street: Old Cleveland Road
+housenumber: "135"
+phone: +61 7 3397 6266
 opening_hours: ""
-website: "https://www.annerleyaquarium.com.au/"
+website: https://www.annerleyaquarium.com.au/

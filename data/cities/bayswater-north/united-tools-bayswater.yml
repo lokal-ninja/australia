@@ -1,11 +1,11 @@
 id: 24985330
-type: way
+type: node
 latitude: -37.83054
 longitude: 145.26987
 postcode: "3153"
 city: Bayswater North
-street: "Bayswater Road"
-housenumber: 313
+street: Bayswater Road
+housenumber: "313"
 phone: ""
 opening_hours: ""
 website: ""

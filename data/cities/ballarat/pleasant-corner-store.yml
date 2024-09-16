@@ -1,11 +1,11 @@
 id: 147668458
-type: way
+type: node
 latitude: -37.56716
 longitude: 143.83737
 postcode: "3350"
 city: Ballarat
-street: "Pleasant Street South"
-housenumber: 312
+street: Pleasant Street South
+housenumber: "312"
 phone: ""
 opening_hours: ""
 website: ""

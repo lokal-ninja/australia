@@ -1,11 +1,11 @@
 id: 563339904
-type: way
+type: node
 latitude: -27.58464
 longitude: 153.09634
 postcode: "4113"
 city: Brisbane
-street: "Angel Street"
-housenumber: 6
+street: Angel Street
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 299482703
-type: way
+type: node
 latitude: -33.76901
 longitude: 150.90444
 postcode: "2148"
 city: Blacktown
-street: "Patrick Street"
-housenumber: 
+street: Patrick Street
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://westpoint.qicre.com/"
+website: https://westpoint.qicre.com/

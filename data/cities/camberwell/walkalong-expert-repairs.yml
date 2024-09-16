@@ -1,11 +1,11 @@
 id: 628745003
-type: way
+type: node
 latitude: -37.84207
 longitude: 145.06912
 postcode: "3124"
 city: Camberwell
-street: "Camberwell Road"
-housenumber: 515
+street: Camberwell Road
+housenumber: "515"
 phone: ""
 opening_hours: ""
-website: "https://new.walkalong.com.au/"
+website: https://new.walkalong.com.au/

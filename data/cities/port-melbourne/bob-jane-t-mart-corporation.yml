@@ -1,11 +1,11 @@
 id: 132394470
-type: way
+type: node
 latitude: -37.83259
 longitude: 144.93646
 postcode: "3207"
 city: Port Melbourne
-street: "Williamstown Road"
-housenumber: 471
+street: Williamstown Road
+housenumber: "471"
 phone: ""
 opening_hours: ""
-website: "https://www.bobjane.com.au/"
+website: https://www.bobjane.com.au/

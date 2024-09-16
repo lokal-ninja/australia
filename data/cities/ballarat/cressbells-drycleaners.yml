@@ -1,11 +1,11 @@
 id: 151245690
-type: way
+type: node
 latitude: -37.56142
 longitude: 143.85065
 postcode: "3350"
 city: Ballarat
-street: "Sturt Street"
-housenumber: 631
-phone: "+61 3 5333 3327"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:30-12:30"
-website: "https://www.cressbells.net.au/"
+street: Sturt Street
+housenumber: "631"
+phone: +61 3 5333 3327
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:30-12:30
+website: https://www.cressbells.net.au/

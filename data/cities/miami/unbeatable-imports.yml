@@ -1,11 +1,11 @@
 id: 537850396
-type: way
+type: node
 latitude: -28.06486
 longitude: 153.43756
 postcode: "4220"
 city: Miami
-street: "Henchman Avenue"
-housenumber: 8
+street: Henchman Avenue
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

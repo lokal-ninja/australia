@@ -1,11 +1,11 @@
 id: 493826266
-type: way
+type: node
 latitude: -37.828
 longitude: 145.05778
 postcode: "3124"
 city: Camberwell
-street: "Burke Road"
-housenumber: 682
+street: Burke Road
+housenumber: "682"
 phone: ""
 opening_hours: ""
 website: ""

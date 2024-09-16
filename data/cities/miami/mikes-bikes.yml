@@ -4,8 +4,8 @@ latitude: -28.0749
 longitude: 153.44469
 postcode: "4220"
 city: Miami
-street: "Gold Coast Highway"
-housenumber: 1926
-phone: "+61 7 5535 8799"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 10:00-15:00"
-website: "https://www.mikesbikes.com.au/"
+street: Gold Coast Highway
+housenumber: "1926"
+phone: +61 7 5535 8799
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 10:00-15:00
+website: https://www.mikesbikes.com.au/

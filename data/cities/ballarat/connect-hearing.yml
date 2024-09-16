@@ -1,11 +1,11 @@
 id: 151238089
-type: way
+type: node
 latitude: -37.5613
 longitude: 143.84995
 postcode: "3350"
 city: Ballarat
-street: "Sturt Street"
-housenumber: 709
-phone: "+61 3 5333 4774"
+street: Sturt Street
+housenumber: "709"
+phone: +61 3 5333 4774
 opening_hours: ""
-website: "https://www.connecthearing.com.au/"
+website: https://www.connecthearing.com.au/

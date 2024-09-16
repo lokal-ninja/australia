@@ -1,11 +1,11 @@
 id: 371662798
-type: way
+type: node
 latitude: -28.03383
 longitude: 151.98354
 postcode: ""
 city: Allora
-street: "Drayton Street"
-housenumber: 13
-phone: "+61 7 4666 3397"
+street: Drayton Street
+housenumber: "13"
+phone: +61 7 4666 3397
 opening_hours: ""
 website: ""

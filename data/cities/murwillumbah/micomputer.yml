@@ -1,11 +1,11 @@
 id: 285625174
-type: way
+type: node
 latitude: -28.32905
 longitude: 153.39112
 postcode: "2484"
 city: Murwillumbah
-street: "Prince Street"
-housenumber: 27
+street: Prince Street
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

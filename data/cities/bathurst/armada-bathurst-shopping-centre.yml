@@ -1,11 +1,11 @@
 id: 227935602
-type: way
+type: node
 latitude: -33.41877
 longitude: 149.58327
 postcode: "2795"
 city: Bathurst
-street: "Howick Street"
-housenumber: 121
+street: Howick Street
+housenumber: "121"
 phone: ""
 opening_hours: ""
-website: "https://www.armadabathurst.com.au/"
+website: https://www.armadabathurst.com.au/

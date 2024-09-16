@@ -1,11 +1,11 @@
 id: 536376508
-type: way
+type: node
 latitude: -27.49251
 longitude: 152.97959
 postcode: "4068"
 city: Brisbane
-street: "Moggill Road"
-housenumber: 179
+street: Moggill Road
+housenumber: "179"
 phone: ""
-opening_hours: "Mo-We,Fr 09:30-18:00; Th 09:30-20:00; Sa 09:00-16:00"
+opening_hours: Mo-We,Fr 09:30-18:00; Th 09:30-20:00; Sa 09:00-16:00
 website: ""

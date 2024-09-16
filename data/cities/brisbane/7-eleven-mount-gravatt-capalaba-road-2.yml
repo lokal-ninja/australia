@@ -1,11 +1,11 @@
 id: 1106716732
-type: way
+type: node
 latitude: -27.55661
 longitude: 153.08965
 postcode: "4122"
 city: Brisbane
-street: "Mount Gravatt-Capalaba Road"
-housenumber: 171
+street: Mount Gravatt-Capalaba Road
+housenumber: "171"
 phone: ""
 opening_hours: ""
 website: ""

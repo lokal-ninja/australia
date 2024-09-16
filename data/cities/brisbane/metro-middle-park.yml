@@ -1,11 +1,11 @@
 id: 924837773
-type: way
+type: node
 latitude: -27.55876
 longitude: 152.91192
 postcode: "4074"
 city: Brisbane
-street: "Bogong Street"
-housenumber: 20
+street: Bogong Street
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "http://www.parkvillage.com.au/"
+website: http://www.parkvillage.com.au/

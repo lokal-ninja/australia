@@ -1,11 +1,11 @@
 id: 390215548
-type: way
+type: node
 latitude: -37.80694
 longitude: 144.96193
 postcode: "3000"
 city: Melbourne
-street: "Swanston Street"
-housenumber: 501
+street: Swanston Street
+housenumber: "501"
 phone: ""
 opening_hours: ""
 website: ""

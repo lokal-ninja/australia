@@ -1,11 +1,11 @@
 id: 298752007
-type: way
+type: node
 latitude: -37.21159
 longitude: 145.42259
 postcode: "3717"
 city: Yea
-street: "High Street"
-housenumber: 86
+street: High Street
+housenumber: "86"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 291750957
-type: way
+type: node
 latitude: -32.0671
 longitude: 115.81798
 postcode: ""
 city: Kardinya
-street: "South Street"
-housenumber: 17
+street: South Street
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-We,Fr 08:30-20:00; Th 08:30-21:00; Sa 08:30-17:00; Su 11:00-17:00"
-website: "https://store.aldi.com.au/wa/kardinya/17-south-street"
+opening_hours: Mo-We,Fr 08:30-20:00; Th 08:30-21:00; Sa 08:30-17:00; Su 11:00-17:00
+website: https://store.aldi.com.au/wa/kardinya/17-south-street

@@ -1,11 +1,11 @@
 id: 388340089
-type: way
+type: node
 latitude: -33.84835
 longitude: 151.04834
 postcode: "2141"
 city: Lidcombe
-street: "Parramatta Road"
-housenumber: 92
+street: Parramatta Road
+housenumber: "92"
 phone: ""
 opening_hours: ""
-website: "http://www.lidcombeshopping.com.au/"
+website: http://www.lidcombeshopping.com.au/

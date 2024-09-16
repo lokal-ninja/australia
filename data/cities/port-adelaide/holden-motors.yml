@@ -1,11 +1,11 @@
 id: 240601730
-type: way
+type: node
 latitude: -34.85019
 longitude: 138.51017
 postcode: ""
 city: Port Adelaide
-street: "Commercial Road"
-housenumber: 
+street: Commercial Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 08:15-17:30"
+opening_hours: Mo-Su 08:15-17:30
 website: ""

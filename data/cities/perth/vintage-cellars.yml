@@ -1,11 +1,11 @@
 id: 1185055998
-type: way
+type: node
 latitude: -31.95686
 longitude: 115.82043
 postcode: "6008"
 city: Perth
-street: "Nicholson Road"
-housenumber: 95
+street: Nicholson Road
+housenumber: "95"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 624279686
-type: way
+type: node
 latitude: -30.51263
 longitude: 151.64779
 postcode: "2350"
 city: Armidale
-street: "Miller Street"
-housenumber: 136
+street: Miller Street
+housenumber: "136"
 phone: ""
-opening_hours: "Mo-We,Fr 08:30-17:30; Th 08:30-18:00; Sa 08:30-17:00; Su 08:30-16:30"
+opening_hours: Mo-We,Fr 08:30-17:30; Th 08:30-18:00; Sa 08:30-17:00; Su 08:30-16:30
 website: ""

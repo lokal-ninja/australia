@@ -1,11 +1,11 @@
 id: 563371800
-type: way
+type: node
 latitude: -34.48943
 longitude: 150.33343
 postcode: "2577"
 city: Berrima
-street: "Jellore Street"
-housenumber: 16
+street: Jellore Street
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

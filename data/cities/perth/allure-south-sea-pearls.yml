@@ -1,11 +1,11 @@
 id: 1182619727
-type: way
+type: node
 latitude: -31.95363
 longitude: 115.82406
 postcode: "6008"
 city: Perth
-street: "Rokeby Road"
-housenumber: 316
+street: Rokeby Road
+housenumber: "316"
 phone: ""
-opening_hours: "Mo-Fr 09:30-16:30; Sa 09:30-13:00"
+opening_hours: Mo-Fr 09:30-16:30; Sa 09:30-13:00
 website: ""

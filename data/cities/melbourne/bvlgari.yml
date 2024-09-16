@@ -4,8 +4,8 @@ latitude: -37.81472
 longitude: 144.96983
 postcode: "3000"
 city: Melbourne
-street: "Collins Street"
-housenumber: 123
+street: Collins Street
+housenumber: "123"
 phone: ""
 opening_hours: ""
 website: ""

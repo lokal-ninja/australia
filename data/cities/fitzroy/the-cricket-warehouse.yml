@@ -4,8 +4,8 @@ latitude: -37.7948
 longitude: 144.98476
 postcode: "3065"
 city: Fitzroy
-street: "Smith Street"
-housenumber: 427
+street: Smith Street
+housenumber: "427"
 phone: ""
-opening_hours: "Mo-Fr 9:00-17:30; Sa 9:00-17:00; Su 10:30-16:30"
-website: "https://cricketwarehouse.com.au/"
+opening_hours: Mo-Fr 9:00-17:30; Sa 9:00-17:00; Su 10:30-16:30
+website: https://cricketwarehouse.com.au/

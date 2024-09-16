@@ -4,8 +4,8 @@ latitude: -37.80918
 longitude: 144.96342
 postcode: "3000"
 city: Melbourne
-street: "Swanston Street"
-housenumber: 397
+street: Swanston Street
+housenumber: "397"
 phone: ""
 opening_hours: ""
-website: "https://chatime.com.au"
+website: https://chatime.com.au

@@ -1,11 +1,11 @@
 id: 429967750
-type: way
+type: node
 latitude: -38.60695
 longitude: 145.59145
 postcode: ""
 city: Wonthaggi
-street: "McBride Avenue"
-housenumber: 69
+street: McBride Avenue
+housenumber: "69"
 phone: ""
 opening_hours: ""
 website: ""

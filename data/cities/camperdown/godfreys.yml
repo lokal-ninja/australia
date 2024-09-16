@@ -1,11 +1,11 @@
 id: 291725583
-type: way
+type: node
 latitude: -33.887
 longitude: 151.1763
 postcode: "2050"
 city: Camperdown
-street: "Parramatta Road"
-housenumber: 105
-phone: "+61 2 9519 7531"
-opening_hours: "click and collect by appointment only"
-website: "https://www.godfreys.com.au/"
+street: Parramatta Road
+housenumber: "105"
+phone: +61 2 9519 7531
+opening_hours: '"click and collect by appointment only"'
+website: https://www.godfreys.com.au/

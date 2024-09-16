@@ -1,11 +1,11 @@
 id: 712184415
-type: way
+type: node
 latitude: -33.28532
 longitude: 151.42437
 postcode: "2259"
 city: Wyong
-street: "Pacific Highway"
-housenumber: 72
-phone: "+61 2 4353 9394"
+street: Pacific Highway
+housenumber: "72"
+phone: +61 2 4353 9394
 opening_hours: ""
-website: "https://coastwidelocksmiths.com.au/"
+website: https://coastwidelocksmiths.com.au/

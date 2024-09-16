@@ -1,11 +1,11 @@
 id: 292249998
-type: way
+type: node
 latitude: -32.0461
 longitude: 115.81277
 postcode: "6154"
 city: Myaree
-street: "Leach Highway"
-housenumber: 176
+street: Leach Highway
+housenumber: "176"
 phone: ""
 opening_hours: ""
 website: ""
