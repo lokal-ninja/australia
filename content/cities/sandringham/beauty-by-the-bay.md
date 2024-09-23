@@ -1,5 +1,5 @@
 ---
-title: "Beauty By The Bay"
+title: "Beauty by the Bay"
 url: /sandringham/beauty-by-the-bay/
-shop: hairdresser
+shop: beauty
 ---
