@@ -1,6 +1,6 @@
 ---
 title: Yass
 url: /yass/
-latitude: -34.841
-longitude: 148.91
+latitude: -34.843
+longitude: 148.912
 ---
