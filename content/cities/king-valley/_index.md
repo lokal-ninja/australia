@@ -1,6 +1,6 @@
 ---
 title: King Valley
 url: /king-valley/
-latitude: -36.7
-longitude: 146.41
+latitude: -36.722
+longitude: 146.401
 ---
