@@ -1,6 +1,6 @@
 ---
 title: Lower Norton
 url: /lower-norton/
-latitude: -36.801
-longitude: 142.095
+latitude: -36.798
+longitude: 142.074
 ---
