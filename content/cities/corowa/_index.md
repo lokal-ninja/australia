@@ -1,6 +1,6 @@
 ---
 title: Corowa
 url: /corowa/
-latitude: -36
-longitude: 146.392
+latitude: -35.997
+longitude: 146.391
 ---
