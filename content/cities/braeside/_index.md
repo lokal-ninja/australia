@@ -1,6 +1,6 @@
 ---
 title: Braeside
 url: /braeside/
-latitude: -38.01
-longitude: 145.106
+latitude: -38.008
+longitude: 145.104
 ---
