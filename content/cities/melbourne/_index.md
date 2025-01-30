@@ -1,6 +1,6 @@
 ---
 title: Melbourne
 url: /melbourne/
-latitude: -37.817
-longitude: 144.967
+latitude: -37.813
+longitude: 144.966
 ---
