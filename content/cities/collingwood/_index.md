@@ -1,6 +1,6 @@
 ---
 title: Collingwood
 url: /collingwood/
-latitude: -37.801
-longitude: 144.984
+latitude: -37.799
+longitude: 144.985
 ---

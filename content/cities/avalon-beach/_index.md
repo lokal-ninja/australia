@@ -1,6 +1,6 @@
 ---
 title: Avalon Beach
 url: /avalon-beach/
-latitude: -33.637
-longitude: 151.33
+latitude: -33.638
+longitude: 151.329
 ---
