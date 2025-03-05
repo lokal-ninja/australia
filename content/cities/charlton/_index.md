@@ -1,6 +1,6 @@
 ---
 title: Charlton
 url: /charlton/
-latitude: -36.271
-longitude: 143.353
+latitude: -27.524
+longitude: 151.85
 ---

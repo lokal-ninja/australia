@@ -1,6 +1,6 @@
 ---
 title: Tamworth
 url: /tamworth/
-latitude: -31.097
-longitude: 150.936
+latitude: -31.079
+longitude: 150.924
 ---

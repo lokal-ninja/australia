@@ -1,6 +1,6 @@
 ---
 title: Creswick
 url: /creswick/
-latitude: -37.423
-longitude: 143.895
+latitude: -37.421
+longitude: 143.894
 ---

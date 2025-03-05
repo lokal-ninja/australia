@@ -1,6 +1,6 @@
 ---
 title: Parkwood
 url: /parkwood/
-latitude: -27.946
-longitude: 153.352
+latitude: -32.039
+longitude: 115.907
 ---

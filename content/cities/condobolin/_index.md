@@ -1,6 +1,6 @@
 ---
 title: Condobolin
 url: /condobolin/
-latitude: -33.089
-longitude: 147.15
+latitude: -33.083
+longitude: 147.148
 ---

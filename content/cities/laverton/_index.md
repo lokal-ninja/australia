@@ -1,6 +1,6 @@
 ---
 title: Laverton
 url: /laverton/
-latitude: -37.863
-longitude: 144.771
+latitude: -37.868
+longitude: 144.761
 ---

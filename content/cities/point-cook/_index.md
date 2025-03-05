@@ -1,6 +1,6 @@
 ---
-title: Point Cook
+title: point cook
 url: /point-cook/
-latitude: -37.893
-longitude: 144.728
+latitude: -37.872
+longitude: 144.745
 ---

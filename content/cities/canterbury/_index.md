@@ -1,6 +1,6 @@
 ---
 title: Canterbury
 url: /canterbury/
-latitude: -37.824
-longitude: 145.082
+latitude: -33.911
+longitude: 151.12
 ---

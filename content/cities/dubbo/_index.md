@@ -1,6 +1,6 @@
 ---
 title: Dubbo
 url: /dubbo/
-latitude: -32.244
-longitude: 148.613
+latitude: -32.25
+longitude: 148.606
 ---

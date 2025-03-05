@@ -1,6 +1,6 @@
 ---
 title: Mordialloc
 url: /mordialloc/
-latitude: -37.985
-longitude: 145.094
+latitude: -37.987
+longitude: 145.11
 ---

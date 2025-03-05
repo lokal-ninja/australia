@@ -1,6 +1,6 @@
 ---
 title: Daylesford
 url: /daylesford/
-latitude: -37.342
-longitude: 144.141
+latitude: -37.306
+longitude: 144.092
 ---

@@ -1,6 +1,6 @@
 ---
 title: Broke
 url: /broke/
-latitude: -32.75
-longitude: 151.094
+latitude: -32.731
+longitude: 151.052
 ---
