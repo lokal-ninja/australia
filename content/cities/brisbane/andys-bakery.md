@@ -1,5 +1,5 @@
 ---
-title: "Andys Bakery"
+title: "Andy's Bakery"
 url: /brisbane/andys-bakery/
-shop: bakery
+shop: shop
 ---
